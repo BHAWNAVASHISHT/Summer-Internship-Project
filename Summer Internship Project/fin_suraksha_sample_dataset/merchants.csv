@@ -1,0 +1,121 @@
+merchant_id,merchant_name,category,location,settlement_account
+MERCH0001,Crypto Exchange Gateway Store 1,Crypto Exchange Gateway,"Deoghar, Jharkhand",ACC00143
+MERCH0002,E-Commerce Store 2,E-Commerce,New Delhi,ACC00176
+MERCH0003,Electronics Store 3,Electronics,"Deoghar, Jharkhand",ACC00172
+MERCH0004,E-Commerce Store 4,E-Commerce,"Mathura, UP",ACC00088
+MERCH0005,E-Commerce Store 5,E-Commerce,"Mumbai, Maharashtra",ACC00087
+MERCH0006,Electronics Store 6,Electronics,"Alwar, Rajasthan",ACC00054
+MERCH0007,Utility Payment Store 7,Utility Payment,"Kolkata, West Bengal",ACC00161
+MERCH0008,E-Commerce Store 8,E-Commerce,"Bharatpur, Rajasthan",ACC00014
+MERCH0009,Electronics Store 9,Electronics,"Hyderabad, Telangana",ACC00002
+MERCH0010,Utility Payment Store 10,Utility Payment,"Rohini, Delhi",ACC00111
+MERCH0011,E-Commerce Store 11,E-Commerce,"Mumbai, Maharashtra",ACC00105
+MERCH0012,E-Commerce Store 12,E-Commerce,"Deoghar, Jharkhand",ACC00169
+MERCH0013,Crypto Exchange Gateway Store 13,Crypto Exchange Gateway,"Alwar, Rajasthan",ACC00021
+MERCH0014,Electronics Store 14,Electronics,"Bengaluru, Karnataka",ACC00104
+MERCH0015,Utility Payment Store 15,Utility Payment,"Rohini, Delhi",ACC00043
+MERCH0016,Pawn & Bullion Store 16,Pawn & Bullion,"Bharatpur, Rajasthan",ACC00178
+MERCH0017,Electronics Store 17,Electronics,"Alwar, Rajasthan",ACC00154
+MERCH0018,Utility Payment Store 18,Utility Payment,"Bengaluru, Karnataka",ACC00152
+MERCH0019,Travel Booking Store 19,Travel Booking,New Delhi,ACC00022
+MERCH0020,Crypto Exchange Gateway Store 20,Crypto Exchange Gateway,"Bharatpur, Rajasthan",ACC00059
+MERCH0021,Electronics Store 21,Electronics,"Mathura, UP",ACC00159
+MERCH0022,Pawn & Bullion Store 22,Pawn & Bullion,"Bengaluru, Karnataka",ACC00118
+MERCH0023,Pawn & Bullion Store 23,Pawn & Bullion,"Alwar, Rajasthan",ACC00068
+MERCH0024,E-Commerce Store 24,E-Commerce,"Mumbai, Maharashtra",ACC00099
+MERCH0025,Crypto Exchange Gateway Store 25,Crypto Exchange Gateway,"Kolkata, West Bengal",ACC00069
+MERCH0026,Electronics Store 26,Electronics,"Jamtara, Jharkhand",ACC00006
+MERCH0027,Crypto Exchange Gateway Store 27,Crypto Exchange Gateway,"Alwar, Rajasthan",ACC00061
+MERCH0028,Travel Booking Store 28,Travel Booking,"Kolkata, West Bengal",ACC00041
+MERCH0029,Pawn & Bullion Store 29,Pawn & Bullion,"Deoghar, Jharkhand",ACC00156
+MERCH0030,Travel Booking Store 30,Travel Booking,"Mathura, UP",ACC00112
+MERCH0031,Electronics Store 31,Electronics,"Hyderabad, Telangana",ACC00097
+MERCH0032,E-Commerce Store 32,E-Commerce,"Mathura, UP",ACC00140
+MERCH0033,Utility Payment Store 33,Utility Payment,"Mathura, UP",ACC00176
+MERCH0034,Travel Booking Store 34,Travel Booking,New Delhi,ACC00120
+MERCH0035,Travel Booking Store 35,Travel Booking,"Alwar, Rajasthan",ACC00143
+MERCH0036,Pawn & Bullion Store 36,Pawn & Bullion,"Rohini, Delhi",ACC00028
+MERCH0037,Utility Payment Store 37,Utility Payment,"Bharatpur, Rajasthan",ACC00006
+MERCH0038,Electronics Store 38,Electronics,"Nuh (Mewat), Haryana",ACC00058
+MERCH0039,Travel Booking Store 39,Travel Booking,"Bharatpur, Rajasthan",ACC00114
+MERCH0040,Pawn & Bullion Store 40,Pawn & Bullion,"Bharatpur, Rajasthan",ACC00027
+MERCH0041,Utility Payment Store 41,Utility Payment,"Jamtara, Jharkhand",ACC00100
+MERCH0042,Travel Booking Store 42,Travel Booking,New Delhi,ACC00062
+MERCH0043,Travel Booking Store 43,Travel Booking,"Bengaluru, Karnataka",ACC00015
+MERCH0044,Crypto Exchange Gateway Store 44,Crypto Exchange Gateway,"Jamtara, Jharkhand",ACC00168
+MERCH0045,Travel Booking Store 45,Travel Booking,"Mathura, UP",ACC00054
+MERCH0046,Travel Booking Store 46,Travel Booking,"Rohini, Delhi",ACC00166
+MERCH0047,Pawn & Bullion Store 47,Pawn & Bullion,"Mathura, UP",ACC00076
+MERCH0048,E-Commerce Store 48,E-Commerce,"Nuh (Mewat), Haryana",ACC00176
+MERCH0049,E-Commerce Store 49,E-Commerce,"Jamtara, Jharkhand",ACC00051
+MERCH0050,Utility Payment Store 50,Utility Payment,"Bharatpur, Rajasthan",ACC00083
+MERCH0051,Electronics Store 51,Electronics,"Alwar, Rajasthan",ACC00156
+MERCH0052,Travel Booking Store 52,Travel Booking,"Hyderabad, Telangana",ACC00008
+MERCH0053,Electronics Store 53,Electronics,"Rohini, Delhi",ACC00048
+MERCH0054,Electronics Store 54,Electronics,"Alwar, Rajasthan",ACC00100
+MERCH0055,Electronics Store 55,Electronics,"Kolkata, West Bengal",ACC00034
+MERCH0056,E-Commerce Store 56,E-Commerce,"Nuh (Mewat), Haryana",ACC00098
+MERCH0057,Crypto Exchange Gateway Store 57,Crypto Exchange Gateway,"Deoghar, Jharkhand",ACC00108
+MERCH0058,Electronics Store 58,Electronics,"Alwar, Rajasthan",ACC00135
+MERCH0059,Electronics Store 59,Electronics,"Nuh (Mewat), Haryana",ACC00179
+MERCH0060,Utility Payment Store 60,Utility Payment,New Delhi,ACC00175
+MERCH0061,E-Commerce Store 61,E-Commerce,"Alwar, Rajasthan",ACC00014
+MERCH0062,E-Commerce Store 62,E-Commerce,"Bharatpur, Rajasthan",ACC00061
+MERCH0063,Electronics Store 63,Electronics,"Mumbai, Maharashtra",ACC00117
+MERCH0064,Electronics Store 64,Electronics,"Bengaluru, Karnataka",ACC00125
+MERCH0065,Pawn & Bullion Store 65,Pawn & Bullion,"Hyderabad, Telangana",ACC00149
+MERCH0066,Utility Payment Store 66,Utility Payment,"Deoghar, Jharkhand",ACC00165
+MERCH0067,Utility Payment Store 67,Utility Payment,"Nuh (Mewat), Haryana",ACC00033
+MERCH0068,Crypto Exchange Gateway Store 68,Crypto Exchange Gateway,"Mathura, UP",ACC00070
+MERCH0069,Electronics Store 69,Electronics,"Hyderabad, Telangana",ACC00123
+MERCH0070,Electronics Store 70,Electronics,"Nuh (Mewat), Haryana",ACC00021
+MERCH0071,Electronics Store 71,Electronics,"Hyderabad, Telangana",ACC00121
+MERCH0072,Pawn & Bullion Store 72,Pawn & Bullion,"Alwar, Rajasthan",ACC00200
+MERCH0073,Travel Booking Store 73,Travel Booking,"Bengaluru, Karnataka",ACC00031
+MERCH0074,E-Commerce Store 74,E-Commerce,"Jamtara, Jharkhand",ACC00155
+MERCH0075,Pawn & Bullion Store 75,Pawn & Bullion,"Bharatpur, Rajasthan",ACC00068
+MERCH0076,E-Commerce Store 76,E-Commerce,"Deoghar, Jharkhand",ACC00042
+MERCH0077,Utility Payment Store 77,Utility Payment,"Kolkata, West Bengal",ACC00160
+MERCH0078,Pawn & Bullion Store 78,Pawn & Bullion,"Mathura, UP",ACC00077
+MERCH0079,Travel Booking Store 79,Travel Booking,"Nuh (Mewat), Haryana",ACC00189
+MERCH0080,Crypto Exchange Gateway Store 80,Crypto Exchange Gateway,"Kolkata, West Bengal",ACC00097
+MERCH0081,Electronics Store 81,Electronics,"Hyderabad, Telangana",ACC00104
+MERCH0082,Pawn & Bullion Store 82,Pawn & Bullion,"Hyderabad, Telangana",ACC00031
+MERCH0083,Utility Payment Store 83,Utility Payment,"Nuh (Mewat), Haryana",ACC00100
+MERCH0084,Electronics Store 84,Electronics,"Mumbai, Maharashtra",ACC00070
+MERCH0085,Travel Booking Store 85,Travel Booking,"Kolkata, West Bengal",ACC00110
+MERCH0086,Travel Booking Store 86,Travel Booking,"Kolkata, West Bengal",ACC00150
+MERCH0087,Travel Booking Store 87,Travel Booking,"Mumbai, Maharashtra",ACC00003
+MERCH0088,Electronics Store 88,Electronics,"Kolkata, West Bengal",ACC00133
+MERCH0089,Crypto Exchange Gateway Store 89,Crypto Exchange Gateway,"Mumbai, Maharashtra",ACC00145
+MERCH0090,Pawn & Bullion Store 90,Pawn & Bullion,New Delhi,ACC00032
+MERCH0091,Utility Payment Store 91,Utility Payment,"Kolkata, West Bengal",ACC00062
+MERCH0092,Travel Booking Store 92,Travel Booking,"Alwar, Rajasthan",ACC00010
+MERCH0093,Utility Payment Store 93,Utility Payment,"Mathura, UP",ACC00160
+MERCH0094,Travel Booking Store 94,Travel Booking,"Bharatpur, Rajasthan",ACC00014
+MERCH0095,Pawn & Bullion Store 95,Pawn & Bullion,"Deoghar, Jharkhand",ACC00075
+MERCH0096,Electronics Store 96,Electronics,"Bharatpur, Rajasthan",ACC00072
+MERCH0097,Electronics Store 97,Electronics,"Jamtara, Jharkhand",ACC00014
+MERCH0098,Crypto Exchange Gateway Store 98,Crypto Exchange Gateway,"Bengaluru, Karnataka",ACC00093
+MERCH0099,Pawn & Bullion Store 99,Pawn & Bullion,"Bharatpur, Rajasthan",ACC00088
+MERCH0100,Crypto Exchange Gateway Store 100,Crypto Exchange Gateway,"Mathura, UP",ACC00123
+MERCH0101,Electronics Store 101,Electronics,"Kolkata, West Bengal",ACC00017
+MERCH0102,Travel Booking Store 102,Travel Booking,"Rohini, Delhi",ACC00086
+MERCH0103,Electronics Store 103,Electronics,"Bharatpur, Rajasthan",ACC00167
+MERCH0104,Travel Booking Store 104,Travel Booking,"Jamtara, Jharkhand",ACC00122
+MERCH0105,E-Commerce Store 105,E-Commerce,"Bharatpur, Rajasthan",ACC00117
+MERCH0106,E-Commerce Store 106,E-Commerce,"Alwar, Rajasthan",ACC00158
+MERCH0107,Travel Booking Store 107,Travel Booking,"Nuh (Mewat), Haryana",ACC00032
+MERCH0108,Electronics Store 108,Electronics,"Bharatpur, Rajasthan",ACC00002
+MERCH0109,Electronics Store 109,Electronics,"Nuh (Mewat), Haryana",ACC00140
+MERCH0110,Travel Booking Store 110,Travel Booking,"Jamtara, Jharkhand",ACC00008
+MERCH0111,Pawn & Bullion Store 111,Pawn & Bullion,"Nuh (Mewat), Haryana",ACC00106
+MERCH0112,Travel Booking Store 112,Travel Booking,"Kolkata, West Bengal",ACC00156
+MERCH0113,E-Commerce Store 113,E-Commerce,"Mathura, UP",ACC00174
+MERCH0114,Travel Booking Store 114,Travel Booking,"Rohini, Delhi",ACC00167
+MERCH0115,Pawn & Bullion Store 115,Pawn & Bullion,"Deoghar, Jharkhand",ACC00137
+MERCH0116,Electronics Store 116,Electronics,"Bengaluru, Karnataka",ACC00118
+MERCH0117,Utility Payment Store 117,Utility Payment,"Rohini, Delhi",ACC00121
+MERCH0118,E-Commerce Store 118,E-Commerce,"Alwar, Rajasthan",ACC00028
+MERCH0119,Travel Booking Store 119,Travel Booking,"Nuh (Mewat), Haryana",ACC00168
+MERCH0120,Travel Booking Store 120,Travel Booking,"Deoghar, Jharkhand",ACC00056

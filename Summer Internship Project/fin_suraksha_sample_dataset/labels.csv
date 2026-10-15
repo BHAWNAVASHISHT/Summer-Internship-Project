@@ -1,0 +1,1801 @@
+account_id,risk_label,confidence,primary_reason,detected_ring_id
+ACC00001,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00002,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00003,Mule,0.875,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00004,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00005,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00006,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00007,Fraudster,0.966,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC00008,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00009,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00010,Fraudster,0.943,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC00011,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00012,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00013,Suspicious,0.807,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC00014,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00015,Mule,0.857,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00016,Mule,0.861,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00017,Mule,0.932,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00018,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00019,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00020,Mule,0.882,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00021,Fraudster,0.93,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC00022,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00023,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00024,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00025,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00026,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00027,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00028,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00029,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00030,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00031,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00032,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00033,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00034,Mule,0.881,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00035,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00036,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00037,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00038,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00039,Mule,0.865,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC00040,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00041,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00042,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00043,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00044,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00045,Suspicious,0.835,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00046,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00047,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00048,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00049,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00050,Mule,0.864,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00051,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00052,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00053,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00054,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00055,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00056,Mule,0.929,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00057,Mule,0.889,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00058,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00059,Fraudster,0.975,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC00060,Mule,0.942,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00061,Suspicious,0.746,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_111
+ACC00062,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00063,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00064,Suspicious,0.739,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00065,Mule,0.913,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00066,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00067,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00068,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00069,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00070,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00071,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00072,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00073,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00074,Suspicious,0.794,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_102
+ACC00075,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00076,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00077,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00078,Mule,0.888,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00079,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00080,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00081,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00082,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00083,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00084,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00085,Mule,0.902,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00086,Mule,0.938,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00087,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00088,Suspicious,0.851,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC00089,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00090,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00091,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00092,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00093,Mule,0.869,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00094,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00095,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00096,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00097,Mule,0.949,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00098,Fraudster,0.932,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC00099,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00100,Fraudster,0.948,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC00101,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00102,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00103,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00104,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00105,Mule,0.878,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00106,Mule,0.907,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00107,Mule,0.921,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00108,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00109,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00110,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00111,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00112,Mule,0.936,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00113,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00114,Mule,0.865,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00115,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00116,Mule,0.888,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00117,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00118,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00119,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00120,Mule,0.905,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00121,Mule,0.869,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00122,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00123,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00124,Fraudster,0.966,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC00125,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00126,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00127,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00128,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00129,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00130,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00131,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00132,Suspicious,0.763,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC00133,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00134,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00135,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00136,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00137,Fraudster,0.983,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC00138,Fraudster,0.925,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC00139,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00140,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00141,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00142,Mule,0.912,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00143,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00144,Mule,0.916,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00145,Suspicious,0.782,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00146,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00147,Suspicious,0.875,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC00148,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00149,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00150,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00151,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00152,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00153,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00154,Fraudster,0.955,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC00155,Mule,0.937,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00156,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00157,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00158,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00159,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00160,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00161,Mule,0.856,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00162,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00163,Mule,0.871,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00164,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00165,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00166,Mule,0.951,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00167,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00168,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00169,Fraudster,0.92,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC00170,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00171,Suspicious,0.73,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC00172,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00173,Fraudster,0.975,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC00174,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00175,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00176,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00177,Mule,0.946,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00178,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00179,Suspicious,0.759,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_113
+ACC00180,Mule,0.953,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00181,Mule,0.905,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00182,Suspicious,0.743,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00183,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00184,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00185,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00186,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00187,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00188,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00189,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00190,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00191,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00192,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00193,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00194,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00195,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00196,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00197,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00198,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00199,Mule,0.872,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00200,Mule,0.865,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00201,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00202,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00203,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00204,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00205,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00206,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00207,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00208,Mule,0.861,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00209,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00210,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00211,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00212,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00213,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00214,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00215,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00216,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00217,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00218,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00219,Fraudster,0.973,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC00220,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00221,Mule,0.911,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00222,Mule,0.906,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00223,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00224,Mule,0.854,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00225,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00226,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00227,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00228,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00229,Suspicious,0.742,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_115
+ACC00230,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00231,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00232,Fraudster,0.985,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_104
+ACC00233,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00234,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00235,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00236,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00237,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00238,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00239,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00240,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00241,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00242,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00243,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00244,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00245,Suspicious,0.704,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC00246,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00247,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00248,Fraudster,0.92,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC00249,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00250,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00251,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00252,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00253,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00254,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00255,Mule,0.946,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00256,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00257,Suspicious,0.795,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00258,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00259,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00260,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00261,Mule,0.909,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00262,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00263,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00264,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00265,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00266,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00267,Suspicious,0.877,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_102
+ACC00268,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00269,Mule,0.873,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00270,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00271,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00272,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00273,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00274,Mule,0.864,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00275,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00276,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00277,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00278,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00279,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00280,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00281,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00282,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00283,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00284,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00285,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00286,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00287,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00288,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00289,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00290,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00291,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00292,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00293,Fraudster,0.939,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_104
+ACC00294,Mule,0.863,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00295,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00296,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00297,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00298,Suspicious,0.703,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00299,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00300,Fraudster,0.98,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC00301,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00302,Mule,0.883,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00303,Mule,0.891,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00304,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00305,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00306,Fraudster,0.972,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC00307,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00308,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00309,Mule,0.851,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00310,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00311,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00312,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00313,Mule,0.868,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00314,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00315,Mule,0.854,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00316,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00317,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00318,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00319,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00320,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00321,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00322,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00323,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00324,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00325,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00326,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00327,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00328,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00329,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00330,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00331,Suspicious,0.731,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_110
+ACC00332,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00333,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00334,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00335,Mule,0.877,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00336,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00337,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00338,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00339,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00340,Mule,0.877,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00341,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00342,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00343,Mule,0.93,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00344,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00345,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00346,Mule,0.938,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00347,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00348,Mule,0.877,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00349,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00350,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00351,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00352,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00353,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00354,Fraudster,0.946,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC00355,Mule,0.904,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00356,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00357,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00358,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00359,Mule,0.95,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00360,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00361,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00362,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00363,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00364,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00365,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00366,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00367,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00368,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00369,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00370,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00371,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00372,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00373,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00374,Mule,0.861,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00375,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00376,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00377,Mule,0.879,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00378,Suspicious,0.832,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00379,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00380,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00381,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00382,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00383,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00384,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00385,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00386,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00387,Suspicious,0.731,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_105
+ACC00388,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00389,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00390,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00391,Mule,0.874,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00392,Mule,0.884,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00393,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00394,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00395,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00396,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00397,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00398,Fraudster,0.975,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC00399,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00400,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00401,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00402,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00403,Mule,0.909,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00404,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00405,Mule,0.905,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00406,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00407,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00408,Suspicious,0.86,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00409,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00410,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00411,Fraudster,0.955,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC00412,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00413,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00414,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00415,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00416,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00417,Mule,0.917,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00418,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00419,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00420,Mule,0.887,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00421,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00422,Mule,0.866,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00423,Fraudster,0.929,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC00424,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00425,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00426,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00427,Mule,0.87,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00428,Mule,0.912,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00429,Mule,0.919,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00430,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00431,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00432,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00433,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00434,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00435,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00436,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00437,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00438,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00439,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00440,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00441,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00442,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00443,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00444,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00445,Mule,0.95,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00446,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00447,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00448,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00449,Fraudster,0.989,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC00450,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00451,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00452,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00453,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00454,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00455,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00456,Mule,0.919,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00457,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00458,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00459,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00460,Suspicious,0.775,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_112
+ACC00461,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00462,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00463,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00464,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00465,Mule,0.85,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00466,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00467,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00468,Mule,0.861,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00469,Suspicious,0.797,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_112
+ACC00470,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00471,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00472,Fraudster,0.914,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC00473,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00474,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00475,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00476,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00477,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00478,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00479,Mule,0.944,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00480,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00481,Mule,0.87,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00482,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00483,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00484,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00485,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00486,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00487,Mule,0.958,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00488,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00489,Mule,0.875,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00490,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00491,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00492,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00493,Mule,0.854,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00494,Mule,0.951,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00495,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00496,Suspicious,0.856,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC00497,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00498,Mule,0.953,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00499,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00500,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00501,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00502,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00503,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00504,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00505,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00506,Mule,0.885,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00507,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00508,Fraudster,0.953,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC00509,Suspicious,0.74,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00510,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00511,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00512,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00513,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00514,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00515,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00516,Mule,0.902,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00517,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00518,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00519,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00520,Fraudster,0.988,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC00521,Mule,0.873,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00522,Mule,0.864,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00523,Mule,0.957,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00524,Suspicious,0.864,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00525,Mule,0.89,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00526,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00527,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00528,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00529,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00530,Mule,0.899,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00531,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00532,Suspicious,0.852,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00533,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00534,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00535,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00536,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00537,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00538,Fraudster,0.943,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC00539,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00540,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00541,Fraudster,0.932,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC00542,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00543,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00544,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00545,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00546,Suspicious,0.709,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00547,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00548,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00549,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00550,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00551,Mule,0.935,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00552,Suspicious,0.731,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_111
+ACC00553,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00554,Suspicious,0.715,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00555,Mule,0.901,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC00556,Mule,0.942,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00557,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00558,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00559,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00560,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00561,Mule,0.896,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00562,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00563,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00564,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00565,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00566,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00567,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00568,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00569,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00570,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00571,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00572,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00573,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00574,Fraudster,0.982,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC00575,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00576,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00577,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00578,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00579,Fraudster,0.982,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC00580,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00581,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00582,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00583,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00584,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00585,Suspicious,0.741,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_105
+ACC00586,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00587,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00588,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00589,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00590,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00591,Suspicious,0.766,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_111
+ACC00592,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00593,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00594,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00595,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00596,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00597,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00598,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00599,Mule,0.939,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00600,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00601,Mule,0.946,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00602,Suspicious,0.786,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC00603,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00604,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00605,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00606,Mule,0.9,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00607,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00608,Mule,0.958,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00609,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00610,Mule,0.942,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00611,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00612,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00613,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00614,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00615,Fraudster,0.918,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC00616,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00617,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00618,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00619,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00620,Fraudster,0.956,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC00621,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00622,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00623,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00624,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00625,Mule,0.884,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00626,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00627,Fraudster,0.932,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC00628,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00629,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00630,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00631,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00632,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00633,Suspicious,0.753,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC00634,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00635,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00636,Fraudster,0.965,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC00637,Mule,0.91,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00638,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00639,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00640,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00641,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00642,Mule,0.887,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00643,Fraudster,0.988,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC00644,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00645,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00646,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00647,Mule,0.863,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC00648,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00649,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00650,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00651,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00652,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00653,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00654,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00655,Suspicious,0.743,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00656,Fraudster,0.971,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC00657,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00658,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00659,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00660,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00661,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00662,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00663,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00664,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00665,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00666,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00667,Mule,0.901,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00668,Suspicious,0.739,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00669,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00670,Mule,0.871,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00671,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00672,Fraudster,0.931,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_106
+ACC00673,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00674,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00675,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00676,Suspicious,0.782,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_112
+ACC00677,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00678,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00679,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00680,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00681,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00682,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00683,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00684,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00685,Mule,0.883,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00686,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00687,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00688,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00689,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00690,Suspicious,0.754,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_115
+ACC00691,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00692,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00693,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00694,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00695,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00696,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00697,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00698,Suspicious,0.713,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00699,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00700,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00701,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00702,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00703,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00704,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00705,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00706,Mule,0.853,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00707,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00708,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00709,Suspicious,0.769,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC00710,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00711,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00712,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00713,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00714,Suspicious,0.808,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_115
+ACC00715,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00716,Fraudster,0.961,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC00717,Mule,0.932,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC00718,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00719,Mule,0.895,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00720,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00721,Suspicious,0.77,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC00722,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00723,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00724,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00725,Suspicious,0.791,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC00726,Mule,0.86,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC00727,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00728,Mule,0.874,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00729,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00730,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00731,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00732,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00733,Mule,0.888,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00734,Fraudster,0.973,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC00735,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00736,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00737,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00738,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00739,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00740,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00741,Mule,0.864,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00742,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00743,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00744,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00745,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00746,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00747,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00748,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00749,Fraudster,0.982,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC00750,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00751,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00752,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00753,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00754,Mule,0.865,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00755,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00756,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00757,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00758,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00759,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00760,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00761,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00762,Mule,0.909,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC00763,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00764,Fraudster,0.962,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC00765,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00766,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00767,Suspicious,0.869,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00768,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00769,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00770,Mule,0.922,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00771,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00772,Mule,0.851,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00773,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00774,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00775,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00776,Mule,0.887,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00777,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00778,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00779,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00780,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00781,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00782,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00783,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00784,Mule,0.909,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC00785,Mule,0.86,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00786,Mule,0.859,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00787,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00788,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00789,Fraudster,0.912,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_104
+ACC00790,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00791,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00792,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00793,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00794,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00795,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00796,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00797,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00798,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00799,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00800,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00801,Fraudster,0.943,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC00802,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00803,Mule,0.862,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC00804,Fraudster,0.978,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_106
+ACC00805,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00806,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00807,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00808,Suspicious,0.867,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC00809,Mule,0.926,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC00810,Mule,0.869,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC00811,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00812,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00813,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00814,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00815,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00816,Mule,0.913,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00817,Mule,0.921,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00818,Mule,0.914,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00819,Mule,0.867,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC00820,Suspicious,0.819,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00821,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00822,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00823,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00824,Mule,0.902,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00825,Fraudster,0.938,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC00826,Mule,0.934,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00827,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00828,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00829,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00830,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00831,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00832,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00833,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00834,Mule,0.933,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC00835,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00836,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00837,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00838,Fraudster,0.952,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC00839,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00840,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00841,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00842,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00843,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00844,Fraudster,0.951,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC00845,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00846,Suspicious,0.768,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_106
+ACC00847,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00848,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00849,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00850,Suspicious,0.838,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC00851,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00852,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00853,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00854,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00855,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00856,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00857,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00858,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00859,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00860,Suspicious,0.771,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC00861,Mule,0.911,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00862,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00863,Mule,0.935,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC00864,Mule,0.886,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00865,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00866,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00867,Suspicious,0.764,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC00868,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00869,Mule,0.949,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00870,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00871,Mule,0.913,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC00872,Mule,0.957,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00873,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00874,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00875,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00876,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00877,Mule,0.944,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00878,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00879,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00880,Fraudster,0.922,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC00881,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00882,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00883,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00884,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00885,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00886,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00887,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00888,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00889,Suspicious,0.735,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_105
+ACC00890,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00891,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00892,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00893,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00894,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00895,Mule,0.894,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC00896,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00897,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00898,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00899,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00900,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00901,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00902,Mule,0.954,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00903,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00904,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00905,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00906,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00907,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00908,Mule,0.88,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC00909,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00910,Mule,0.95,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00911,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00912,Mule,0.948,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00913,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00914,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00915,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00916,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00917,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00918,Suspicious,0.705,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC00919,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00920,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00921,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00922,Mule,0.918,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00923,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00924,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00925,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00926,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00927,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00928,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00929,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00930,Mule,0.939,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC00931,Mule,0.955,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC00932,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00933,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00934,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00935,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00936,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00937,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00938,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00939,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00940,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00941,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00942,Suspicious,0.81,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_105
+ACC00943,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00944,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00945,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00946,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00947,Mule,0.906,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00948,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00949,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00950,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00951,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00952,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00953,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00954,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00955,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00956,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00957,Fraudster,0.974,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC00958,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00959,Fraudster,0.977,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC00960,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00961,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00962,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00963,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00964,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00965,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00966,Suspicious,0.747,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_111
+ACC00967,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00968,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00969,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00970,Fraudster,0.945,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC00971,Mule,0.901,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC00972,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00973,Mule,0.875,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC00974,Suspicious,0.838,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_107
+ACC00975,Suspicious,0.844,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC00976,Fraudster,0.979,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_106
+ACC00977,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00978,Fraudster,0.963,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_104
+ACC00979,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00980,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00981,Fraudster,0.96,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC00982,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00983,Mule,0.916,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC00984,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00985,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00986,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00987,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00988,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00989,Mule,0.949,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC00990,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00991,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00992,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00993,Fraudster,0.978,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC00994,Mule,0.883,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC00995,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00996,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00997,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00998,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC00999,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01000,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01001,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01002,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01003,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01004,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01005,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01006,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01007,Mule,0.917,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01008,Mule,0.947,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01009,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01010,Fraudster,0.961,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC01011,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01012,Fraudster,0.962,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC01013,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01014,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01015,Mule,0.884,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01016,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01017,Suspicious,0.741,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC01018,Mule,0.936,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01019,Mule,0.908,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01020,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01021,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01022,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01023,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01024,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01025,Suspicious,0.767,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_102
+ACC01026,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01027,Mule,0.882,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01028,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01029,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01030,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01031,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01032,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01033,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01034,Fraudster,0.953,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01035,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01036,Mule,0.875,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01037,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01038,Suspicious,0.835,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_112
+ACC01039,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01040,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01041,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01042,Suspicious,0.723,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_106
+ACC01043,Mule,0.934,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01044,Fraudster,0.935,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01045,Fraudster,0.976,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC01046,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01047,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01048,Mule,0.863,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01049,Suspicious,0.857,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_107
+ACC01050,Fraudster,0.924,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_111
+ACC01051,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01052,Mule,0.913,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC01053,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01054,Mule,0.9,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01055,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01056,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01057,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01058,Fraudster,0.964,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC01059,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01060,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01061,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01062,Fraudster,0.927,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC01063,Fraudster,0.948,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC01064,Fraudster,0.978,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC01065,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01066,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01067,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01068,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01069,Mule,0.897,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01070,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01071,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01072,Fraudster,0.932,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01073,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01074,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01075,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01076,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01077,Fraudster,0.984,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC01078,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01079,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01080,Mule,0.904,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01081,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01082,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01083,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01084,Mule,0.932,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01085,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01086,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01087,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01088,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01089,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01090,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01091,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01092,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01093,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01094,Mule,0.872,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01095,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01096,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01097,Mule,0.9,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC01098,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01099,Mule,0.88,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01100,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01101,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01102,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01103,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01104,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01105,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01106,Mule,0.95,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01107,Fraudster,0.94,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC01108,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01109,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01110,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01111,Mule,0.853,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01112,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01113,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01114,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01115,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01116,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01117,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01118,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01119,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01120,Mule,0.954,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01121,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01122,Mule,0.881,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01123,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01124,Fraudster,0.956,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC01125,Suspicious,0.726,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC01126,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01127,Mule,0.937,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01128,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01129,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01130,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01131,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01132,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01133,Mule,0.891,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01134,Mule,0.926,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01135,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01136,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01137,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01138,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01139,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01140,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01141,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01142,Suspicious,0.777,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC01143,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01144,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01145,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01146,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01147,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01148,Mule,0.919,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01149,Mule,0.931,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01150,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01151,Mule,0.88,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01152,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01153,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01154,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01155,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01156,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01157,Mule,0.872,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01158,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01159,Mule,0.906,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01160,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01161,Fraudster,0.911,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC01162,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01163,Fraudster,0.986,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC01164,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01165,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01166,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01167,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01168,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01169,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01170,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01171,Mule,0.95,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01172,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01173,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01174,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01175,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01176,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01177,Suspicious,0.744,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC01178,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01179,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01180,Mule,0.91,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01181,Fraudster,0.925,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_115
+ACC01182,Suspicious,0.85,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_106
+ACC01183,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01184,Mule,0.954,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01185,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01186,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01187,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01188,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01189,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01190,Fraudster,0.943,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC01191,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01192,Suspicious,0.807,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_105
+ACC01193,Mule,0.916,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01194,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01195,Mule,0.881,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01196,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01197,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01198,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01199,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01200,Suspicious,0.812,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC01201,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01202,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01203,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01204,Suspicious,0.775,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_106
+ACC01205,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01206,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01207,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01208,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01209,Mule,0.904,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01210,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01211,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01212,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01213,Mule,0.944,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01214,Mule,0.927,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01215,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01216,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01217,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01218,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01219,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01220,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01221,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01222,Fraudster,0.937,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC01223,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01224,Mule,0.914,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01225,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01226,Fraudster,0.938,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC01227,Mule,0.957,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01228,Mule,0.863,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01229,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01230,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01231,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01232,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01233,Mule,0.948,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC01234,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01235,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01236,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01237,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01238,Mule,0.871,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01239,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01240,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01241,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01242,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01243,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01244,Fraudster,0.931,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC01245,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01246,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01247,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01248,Mule,0.943,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01249,Mule,0.861,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01250,Fraudster,0.915,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_104
+ACC01251,Mule,0.926,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01252,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01253,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01254,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01255,Mule,0.943,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01256,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01257,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01258,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01259,Fraudster,0.97,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC01260,Mule,0.88,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01261,Mule,0.95,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01262,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01263,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01264,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01265,Suspicious,0.82,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_108
+ACC01266,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01267,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01268,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01269,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01270,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01271,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01272,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01273,Mule,0.912,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC01274,Mule,0.899,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01275,Mule,0.889,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01276,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01277,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01278,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01279,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01280,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01281,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01282,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01283,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01284,Mule,0.925,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01285,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01286,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01287,Fraudster,0.912,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01288,Fraudster,0.912,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC01289,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01290,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01291,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01292,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01293,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01294,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01295,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01296,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01297,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01298,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01299,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01300,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01301,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01302,Mule,0.931,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01303,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01304,Mule,0.917,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01305,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01306,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01307,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01308,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01309,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01310,Suspicious,0.73,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_105
+ACC01311,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01312,Mule,0.882,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01313,Mule,0.901,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01314,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01315,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01316,Mule,0.866,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01317,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01318,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01319,Mule,0.926,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01320,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01321,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01322,Fraudster,0.923,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC01323,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01324,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01325,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01326,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01327,Mule,0.92,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01328,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01329,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01330,Mule,0.905,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01331,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01332,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01333,Suspicious,0.726,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_112
+ACC01334,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01335,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01336,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01337,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01338,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01339,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01340,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01341,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01342,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01343,Suspicious,0.748,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC01344,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01345,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01346,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01347,Mule,0.868,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01348,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01349,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01350,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01351,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01352,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01353,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01354,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01355,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01356,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01357,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01358,Fraudster,0.936,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC01359,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01360,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01361,Mule,0.894,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01362,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01363,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01364,Fraudster,0.949,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01365,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01366,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01367,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01368,Normal,0.962,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01369,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01370,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01371,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01372,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01373,Fraudster,0.985,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01374,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01375,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01376,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01377,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01378,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01379,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01380,Mule,0.893,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01381,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01382,Mule,0.864,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC01383,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01384,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01385,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01386,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01387,Mule,0.851,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01388,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01389,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01390,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01391,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01392,Mule,0.852,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01393,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01394,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01395,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01396,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01397,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01398,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01399,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01400,Mule,0.951,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01401,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01402,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01403,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01404,Suspicious,0.751,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC01405,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01406,Mule,0.916,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01407,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01408,Fraudster,0.933,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC01409,Mule,0.881,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01410,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01411,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01412,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01413,Mule,0.955,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01414,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01415,Mule,0.908,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01416,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01417,Mule,0.891,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01418,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01419,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01420,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01421,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01422,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01423,Suspicious,0.762,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC01424,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01425,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01426,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01427,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01428,Mule,0.952,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01429,Suspicious,0.728,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_111
+ACC01430,Fraudster,0.933,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC01431,Mule,0.929,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01432,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01433,Mule,0.94,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01434,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01435,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01436,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01437,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01438,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01439,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01440,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01441,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01442,Fraudster,0.97,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC01443,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01444,Fraudster,0.976,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_109
+ACC01445,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01446,Suspicious,0.82,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC01447,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01448,Mule,0.866,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01449,Fraudster,0.93,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC01450,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01451,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01452,Mule,0.906,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01453,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01454,Mule,0.884,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01455,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01456,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01457,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01458,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01459,Mule,0.88,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01460,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01461,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01462,Mule,0.89,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC01463,Fraudster,0.965,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC01464,Fraudster,0.942,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC01465,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01466,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01467,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01468,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01469,Fraudster,0.96,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC01470,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01471,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01472,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01473,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01474,Suspicious,0.819,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_106
+ACC01475,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01476,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01477,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01478,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01479,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01480,Mule,0.894,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01481,Mule,0.882,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01482,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01483,Mule,0.924,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01484,Fraudster,0.929,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC01485,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01486,Fraudster,0.913,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_106
+ACC01487,Suspicious,0.849,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_115
+ACC01488,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01489,Mule,0.921,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01490,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01491,Mule,0.887,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01492,Fraudster,0.982,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC01493,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01494,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01495,Normal,0.99,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01496,Mule,0.875,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01497,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01498,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01499,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01500,Mule,0.887,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01501,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01502,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01503,Mule,0.872,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01504,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01505,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01506,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01507,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01508,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01509,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01510,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01511,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01512,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01513,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01514,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01515,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01516,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01517,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01518,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01519,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01520,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01521,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01522,Mule,0.873,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01523,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01524,Fraudster,0.979,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_112
+ACC01525,Mule,0.896,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01526,Suspicious,0.732,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC01527,Fraudster,0.983,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC01528,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01529,Mule,0.943,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01530,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01531,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01532,Mule,0.868,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01533,Normal,0.942,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01534,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01535,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01536,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01537,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01538,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01539,Normal,0.946,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01540,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01541,Mule,0.896,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01542,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01543,Fraudster,0.917,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC01544,Mule,0.882,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01545,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01546,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01547,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01548,Mule,0.863,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01549,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01550,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01551,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01552,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01553,Mule,0.925,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_102
+ACC01554,Fraudster,0.977,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_104
+ACC01555,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01556,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01557,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01558,Mule,0.926,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01559,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01560,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01561,Normal,0.978,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01562,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01563,Fraudster,0.918,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01564,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01565,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01566,Normal,0.948,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01567,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01568,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01569,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01570,Suspicious,0.822,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_107
+ACC01571,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01572,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01573,Mule,0.931,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01574,Fraudster,0.941,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC01575,Normal,0.95,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01576,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01577,Mule,0.947,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01578,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01579,Mule,0.895,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01580,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01581,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01582,Fraudster,0.957,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC01583,Mule,0.857,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01584,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01585,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01586,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01587,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01588,Normal,0.949,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01589,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01590,Mule,0.879,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01591,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01592,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01593,Mule,0.92,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01594,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01595,Fraudster,0.95,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_105
+ACC01596,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01597,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01598,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01599,Fraudster,0.949,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC01600,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01601,Suspicious,0.823,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_103
+ACC01602,Mule,0.888,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01603,Mule,0.895,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_104
+ACC01604,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01605,Normal,0.934,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01606,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01607,Normal,0.924,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01608,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01609,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01610,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01611,Normal,0.968,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01612,Mule,0.903,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01613,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01614,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01615,Normal,0.96,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01616,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01617,Suspicious,0.773,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC01618,Suspicious,0.71,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_109
+ACC01619,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01620,Suspicious,0.76,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_113
+ACC01621,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01622,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01623,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01624,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01625,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01626,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01627,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01628,Mule,0.927,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01629,Normal,0.963,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01630,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01631,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01632,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01633,Suspicious,0.764,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_110
+ACC01634,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01635,Fraudster,0.928,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_108
+ACC01636,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01637,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01638,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01639,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01640,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01641,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01642,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01643,Suspicious,0.733,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_101
+ACC01644,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01645,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01646,Normal,0.937,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01647,Mule,0.884,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01648,Fraudster,0.913,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_101
+ACC01649,Mule,0.903,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01650,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01651,Normal,0.925,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01652,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01653,Fraudster,0.983,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_103
+ACC01654,Mule,0.954,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC01655,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01656,Mule,0.87,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01657,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01658,Suspicious,0.84,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC01659,Normal,0.939,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01660,Normal,0.92,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01661,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01662,Mule,0.922,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01663,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01664,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01665,Normal,0.927,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01666,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01667,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01668,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01669,Suspicious,0.864,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_114
+ACC01670,Mule,0.874,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01671,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01672,Mule,0.93,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01673,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01674,Normal,0.974,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01675,Mule,0.91,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01676,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01677,Mule,0.94,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_108
+ACC01678,Normal,0.955,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01679,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01680,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01681,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01682,Mule,0.911,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01683,Mule,0.851,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01684,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01685,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01686,Normal,0.964,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01687,Mule,0.945,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01688,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01689,Mule,0.908,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01690,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01691,Mule,0.947,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01692,Normal,0.923,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01693,Normal,0.969,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01694,Normal,0.945,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01695,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01696,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01697,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01698,Normal,0.921,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01699,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01700,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01701,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01702,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01703,Normal,0.936,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01704,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01705,Mule,0.951,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_113
+ACC01706,Normal,0.929,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01707,Normal,0.943,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01708,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01709,Mule,0.868,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01710,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01711,Fraudster,0.952,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC01712,Mule,0.888,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_112
+ACC01713,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01714,Normal,0.938,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01715,Normal,0.971,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01716,Normal,0.977,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01717,Mule,0.861,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_106
+ACC01718,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01719,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01720,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01721,Normal,0.952,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01722,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01723,Normal,0.951,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01724,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01725,Normal,0.976,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01726,Mule,0.856,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_110
+ACC01727,Normal,0.985,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01728,Mule,0.885,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01729,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01730,Suspicious,0.789,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_102
+ACC01731,Normal,0.975,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01732,Normal,0.931,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01733,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01734,Normal,0.954,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01735,Fraudster,0.949,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC01736,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01737,Mule,0.866,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_101
+ACC01738,Suspicious,0.803,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC01739,Normal,0.947,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01740,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01741,Mule,0.851,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_111
+ACC01742,Normal,0.989,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01743,Mule,0.883,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01744,Mule,0.9,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_109
+ACC01745,Normal,0.928,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01746,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01747,Normal,0.933,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01748,Normal,0.956,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01749,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01750,Mule,0.946,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01751,Normal,0.941,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01752,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01753,Fraudster,0.916,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_110
+ACC01754,Normal,0.966,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01755,Normal,0.922,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01756,Normal,0.935,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01757,Fraudster,0.984,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_114
+ACC01758,Mule,0.919,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_105
+ACC01759,Suspicious,0.705,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_112
+ACC01760,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01761,Fraudster,0.954,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_113
+ACC01762,Normal,0.961,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01763,Mule,0.898,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_103
+ACC01764,Normal,0.98,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01765,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01766,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01767,Normal,0.958,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01768,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01769,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01770,Mule,0.958,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC01771,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01772,Normal,0.982,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01773,Normal,0.984,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01774,Normal,0.981,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01775,Mule,0.917,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_107
+ACC01776,Normal,0.944,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01777,Normal,0.983,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01778,Fraudster,0.931,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_107
+ACC01779,Normal,0.967,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01780,Normal,0.97,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01781,Normal,0.979,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01782,Mule,0.94,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_114
+ACC01783,Normal,0.987,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01784,Normal,0.986,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01785,Normal,0.93,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01786,Suspicious,0.72,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_115
+ACC01787,Fraudster,0.957,"High mastermind centrality, multi-hop fund sink, multiple shared device bindings",RING_102
+ACC01788,Normal,0.94,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01789,Mule,0.948,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01790,Normal,0.957,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01791,Normal,0.965,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01792,Normal,0.959,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01793,Mule,0.884,"Rapid pass-through layering (<5 min velocity), zero balance retention, IP overlap",RING_115
+ACC01794,Suspicious,0.745,"High velocity spikes just below ₹1,00,000 threshold, unusual night activity",RING_104
+ACC01795,Normal,0.972,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01796,Normal,0.932,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01797,Normal,0.988,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01798,Normal,0.953,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01799,Normal,0.973,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE
+ACC01800,Normal,0.926,"Normal retail transaction pattern, verified KYC, no shared fraud identifiers",NONE

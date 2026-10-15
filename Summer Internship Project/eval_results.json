@@ -1,0 +1,138 @@
+{
+  "run_id": "EVAL_20261015_134204",
+  "timestamp": "2026-10-15T13:42:04.879849",
+  "seed": 42,
+  "dataset_info": {
+    "total_accounts_in_graph": 1584,
+    "class_distribution": {
+      "Normal": 1305,
+      "Suspicious": 0,
+      "Mule": 187,
+      "Fraudster": 92
+    },
+    "feature_names": [
+      "in_degree",
+      "out_degree",
+      "pagerank",
+      "clustering_coeff",
+      "total_in_amount",
+      "total_out_amount",
+      "avg_txn_amount",
+      "max_txn_amount",
+      "n_unique_counterparties",
+      "txn_velocity",
+      "net_flow"
+    ],
+    "limitation_note": "Accounts with no transactions cannot be evaluated on graph features. 216 labeled accounts are excluded because they have no transactions.",
+    "train_size": 1267,
+    "test_size": 317,
+    "stratified_split": true
+  },
+  "models": {
+    "RandomForest": {
+      "status": "trained_and_evaluated",
+      "is_historical": false,
+      "hyperparams": {
+        "n_estimators": 200,
+        "class_weight": "balanced_subsample",
+        "max_features": "sqrt",
+        "seed": 42
+      },
+      "metrics": {
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "macro_f1": 1.0,
+        "mcc": 1.0,
+        "cohen_kappa": 1.0,
+        "confusion_matrix": [
+          [
+            261,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            38,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            18
+          ]
+        ]
+      }
+    },
+    "XGBoost": {
+      "status": "trained_and_evaluated",
+      "is_historical": false,
+      "hyperparams": {
+        "n_estimators": 200,
+        "learning_rate": 0.1,
+        "max_depth": 6,
+        "seed": 42
+      },
+      "metrics": {
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "macro_f1": 1.0,
+        "mcc": 1.0,
+        "cohen_kappa": 1.0,
+        "confusion_matrix": [
+          [
+            261,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            38,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            18
+          ]
+        ]
+      },
+      "classes_in_train": [
+        "Normal",
+        "Mule",
+        "Fraudster"
+      ]
+    },
+    "GCN": {
+      "status": "available_not_run",
+      "reason": "GNN training available (PyTorch + PyG installed). Not run in evaluation pipeline due to computational cost. Call ModelZoo.train_gnn() separately with full graph data."
+    },
+    "GraphSAGE": {
+      "status": "available_not_run",
+      "reason": "GNN training available (PyTorch + PyG installed). Not run in evaluation pipeline due to computational cost. Call ModelZoo.train_gnn() separately with full graph data."
+    },
+    "GAT": {
+      "status": "available_not_run",
+      "reason": "GNN training available (PyTorch + PyG installed). Not run in evaluation pipeline due to computational cost. Call ModelZoo.train_gnn() separately with full graph data."
+    }
+  },
+  "limitations": [],
+  "status": "completed"
+}

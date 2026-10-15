@@ -1,0 +1,61 @@
+branch_id,bank,city,branch_manager,cctv_camera_id,footage_retention_days
+BR_0001,HDFC Bank,New Delhi,Sneha Patel,BR_CAM_BR_0001,180
+BR_0002,Axis Bank,"Bengaluru, Karnataka",Rajesh Iyer,BR_CAM_BR_0002,60
+BR_0003,Axis Bank,"Alwar, Rajasthan",Deepak Sharma,BR_CAM_BR_0003,60
+BR_0004,Kotak Mahindra Bank,New Delhi,Pooja Yadav,BR_CAM_BR_0004,90
+BR_0005,Axis Bank,"Bharatpur, Rajasthan",Amit Agarwal,BR_CAM_BR_0005,90
+BR_0006,ICICI Bank,"Bharatpur, Rajasthan",Pooja Sharma,BR_CAM_BR_0006,180
+BR_0007,Punjab National Bank,"Alwar, Rajasthan",Vikram Sharma,BR_CAM_BR_0007,60
+BR_0008,ICICI Bank,"Hyderabad, Telangana",Amit Chauhan,BR_CAM_BR_0008,60
+BR_0009,Kotak Mahindra Bank,"Hyderabad, Telangana",Manoj Verma,BR_CAM_BR_0009,90
+BR_0010,Canara Bank,"Kolkata, West Bengal",Ayaan Sharma,BR_CAM_BR_0010,90
+BR_0011,Axis Bank,"Deoghar, Jharkhand",Priya Sharma,BR_CAM_BR_0011,60
+BR_0012,Punjab National Bank,"Nuh (Mewat), Haryana",Rajesh Chauhan,BR_CAM_BR_0012,60
+BR_0013,IndusInd Bank,"Mathura, UP",Sai Reddy,BR_CAM_BR_0013,60
+BR_0014,Kotak Mahindra Bank,"Rohini, Delhi",Vikram Patel,BR_CAM_BR_0014,180
+BR_0015,Kotak Mahindra Bank,"Alwar, Rajasthan",Manoj Reddy,BR_CAM_BR_0015,60
+BR_0016,Punjab National Bank,"Kolkata, West Bengal",Sneha Choudhary,BR_CAM_BR_0016,90
+BR_0017,Kotak Mahindra Bank,"Mumbai, Maharashtra",Rakesh Iyer,BR_CAM_BR_0017,180
+BR_0018,Axis Bank,"Mathura, UP",Manish Joon,BR_CAM_BR_0018,180
+BR_0019,IndusInd Bank,"Nuh (Mewat), Haryana",Priya Singh,BR_CAM_BR_0019,60
+BR_0020,State Bank of India,New Delhi,Priya Patel,BR_CAM_BR_0020,60
+BR_0021,Union Bank of India,"Kolkata, West Bengal",Aditi Patel,BR_CAM_BR_0021,90
+BR_0022,Canara Bank,"Kolkata, West Bengal",Aditi Mehta,BR_CAM_BR_0022,180
+BR_0023,IndusInd Bank,"Rohini, Delhi",Ananya Choudhary,BR_CAM_BR_0023,60
+BR_0024,Union Bank of India,"Mathura, UP",Ayaan Agarwal,BR_CAM_BR_0024,90
+BR_0025,Axis Bank,"Kolkata, West Bengal",Aarav Gupta,BR_CAM_BR_0025,180
+BR_0026,Union Bank of India,"Hyderabad, Telangana",Kavya Patel,BR_CAM_BR_0026,180
+BR_0027,IndusInd Bank,"Deoghar, Jharkhand",Suresh Mishra,BR_CAM_BR_0027,90
+BR_0028,State Bank of India,"Mumbai, Maharashtra",Manish Iyer,BR_CAM_BR_0028,90
+BR_0029,Bank of Baroda,"Alwar, Rajasthan",Sai Kumar,BR_CAM_BR_0029,180
+BR_0030,Bank of Baroda,"Mathura, UP",Rajesh Iyer,BR_CAM_BR_0030,60
+BR_0031,ICICI Bank,"Nuh (Mewat), Haryana",Anushka Malhotra,BR_CAM_BR_0031,180
+BR_0032,Union Bank of India,"Deoghar, Jharkhand",Anushka Patel,BR_CAM_BR_0032,180
+BR_0033,Kotak Mahindra Bank,"Bengaluru, Karnataka",Vivaan Saxena,BR_CAM_BR_0033,180
+BR_0034,ICICI Bank,"Rohini, Delhi",Vivaan Choudhary,BR_CAM_BR_0034,90
+BR_0035,ICICI Bank,"Deoghar, Jharkhand",Vivaan Yadav,BR_CAM_BR_0035,90
+BR_0036,State Bank of India,"Hyderabad, Telangana",Ramesh Iyer,BR_CAM_BR_0036,90
+BR_0037,IndusInd Bank,"Nuh (Mewat), Haryana",Aarav Reddy,BR_CAM_BR_0037,90
+BR_0038,Punjab National Bank,"Kolkata, West Bengal",Isha Choudhary,BR_CAM_BR_0038,60
+BR_0039,ICICI Bank,"Hyderabad, Telangana",Vivaan Bansal,BR_CAM_BR_0039,90
+BR_0040,Punjab National Bank,"Deoghar, Jharkhand",Manish Yadav,BR_CAM_BR_0040,60
+BR_0041,Canara Bank,"Deoghar, Jharkhand",Ayaan Malhotra,BR_CAM_BR_0041,180
+BR_0042,HDFC Bank,"Bengaluru, Karnataka",Manoj Pandey,BR_CAM_BR_0042,180
+BR_0043,State Bank of India,"Hyderabad, Telangana",Vihaan Gupta,BR_CAM_BR_0043,60
+BR_0044,Axis Bank,"Rohini, Delhi",Amit Reddy,BR_CAM_BR_0044,90
+BR_0045,IndusInd Bank,"Jamtara, Jharkhand",Vikram Gupta,BR_CAM_BR_0045,180
+BR_0046,IndusInd Bank,"Mumbai, Maharashtra",Deepak Yadav,BR_CAM_BR_0046,60
+BR_0047,HDFC Bank,"Mumbai, Maharashtra",Rajesh Reddy,BR_CAM_BR_0047,90
+BR_0048,Bank of Baroda,"Deoghar, Jharkhand",Krishna Choudhary,BR_CAM_BR_0048,60
+BR_0049,Canara Bank,"Rohini, Delhi",Sunil Saxena,BR_CAM_BR_0049,60
+BR_0050,ICICI Bank,"Alwar, Rajasthan",Anushka Kumar,BR_CAM_BR_0050,90
+BR_0051,ICICI Bank,"Alwar, Rajasthan",Sunil Sharma,BR_CAM_BR_0051,180
+BR_0052,HDFC Bank,"Nuh (Mewat), Haryana",Vikram Chauhan,BR_CAM_BR_0052,60
+BR_0053,State Bank of India,"Deoghar, Jharkhand",Aditya Reddy,BR_CAM_BR_0053,60
+BR_0054,Union Bank of India,"Deoghar, Jharkhand",Ayaan Mehta,BR_CAM_BR_0054,60
+BR_0055,ICICI Bank,"Alwar, Rajasthan",Priya Verma,BR_CAM_BR_0055,60
+BR_0056,Punjab National Bank,"Bengaluru, Karnataka",Aditya Reddy,BR_CAM_BR_0056,90
+BR_0057,Punjab National Bank,"Mathura, UP",Reyansh Verma,BR_CAM_BR_0057,180
+BR_0058,State Bank of India,"Mumbai, Maharashtra",Deepak Singh,BR_CAM_BR_0058,60
+BR_0059,Axis Bank,"Kolkata, West Bengal",Vihaan Reddy,BR_CAM_BR_0059,90
+BR_0060,Axis Bank,"Jamtara, Jharkhand",Arjun Singh,BR_CAM_BR_0060,90

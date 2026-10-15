@@ -1,0 +1,81 @@
+atm_id,bank,city,cctv_camera_id,footage_retention_days,status
+ATM_0001,ICICI Bank,"Hyderabad, Telangana",CAM_ATM_0001_01,60,Operational
+ATM_0002,Canara Bank,"Mumbai, Maharashtra",CAM_ATM_0002_01,90,Operational
+ATM_0003,Punjab National Bank,"Mathura, UP",CAM_ATM_0003_01,90,Operational
+ATM_0004,HDFC Bank,"Nuh (Mewat), Haryana",CAM_ATM_0004_01,90,Operational
+ATM_0005,HDFC Bank,"Bengaluru, Karnataka",CAM_ATM_0005_01,90,Operational
+ATM_0006,Bank of Baroda,"Jamtara, Jharkhand",CAM_ATM_0006_01,90,Operational
+ATM_0007,Canara Bank,"Mathura, UP",CAM_ATM_0007_01,90,Operational
+ATM_0008,Bank of Baroda,New Delhi,CAM_ATM_0008_01,45,Operational
+ATM_0009,Union Bank of India,"Nuh (Mewat), Haryana",CAM_ATM_0009_01,90,Operational
+ATM_0010,Union Bank of India,"Nuh (Mewat), Haryana",CAM_ATM_0010_01,30,Operational
+ATM_0011,State Bank of India,"Nuh (Mewat), Haryana",CAM_ATM_0011_01,45,Operational
+ATM_0012,Bank of Baroda,"Jamtara, Jharkhand",CAM_ATM_0012_01,45,Operational
+ATM_0013,IndusInd Bank,"Bharatpur, Rajasthan",CAM_ATM_0013_01,90,Operational
+ATM_0014,State Bank of India,"Bharatpur, Rajasthan",CAM_ATM_0014_01,60,Operational
+ATM_0015,Bank of Baroda,"Mumbai, Maharashtra",CAM_ATM_0015_01,60,Operational
+ATM_0016,IndusInd Bank,"Bharatpur, Rajasthan",CAM_ATM_0016_01,90,Operational
+ATM_0017,State Bank of India,"Bengaluru, Karnataka",CAM_ATM_0017_01,60,Operational
+ATM_0018,Bank of Baroda,"Nuh (Mewat), Haryana",CAM_ATM_0018_01,60,Operational
+ATM_0019,Axis Bank,"Bharatpur, Rajasthan",CAM_ATM_0019_01,60,Operational
+ATM_0020,Kotak Mahindra Bank,"Hyderabad, Telangana",CAM_ATM_0020_01,60,Operational
+ATM_0021,ICICI Bank,New Delhi,CAM_ATM_0021_01,30,Operational
+ATM_0022,Canara Bank,"Deoghar, Jharkhand",CAM_ATM_0022_01,90,Operational
+ATM_0023,State Bank of India,"Jamtara, Jharkhand",CAM_ATM_0023_01,30,Operational
+ATM_0024,ICICI Bank,New Delhi,CAM_ATM_0024_01,45,Operational
+ATM_0025,Union Bank of India,"Bharatpur, Rajasthan",CAM_ATM_0025_01,45,Operational
+ATM_0026,State Bank of India,"Kolkata, West Bengal",CAM_ATM_0026_01,30,Operational
+ATM_0027,IndusInd Bank,"Deoghar, Jharkhand",CAM_ATM_0027_01,45,Operational
+ATM_0028,Kotak Mahindra Bank,"Rohini, Delhi",CAM_ATM_0028_01,45,Operational
+ATM_0029,Kotak Mahindra Bank,"Mumbai, Maharashtra",CAM_ATM_0029_01,30,Operational
+ATM_0030,Kotak Mahindra Bank,"Bharatpur, Rajasthan",CAM_ATM_0030_01,90,Operational
+ATM_0031,Bank of Baroda,"Kolkata, West Bengal",CAM_ATM_0031_01,90,Operational
+ATM_0032,State Bank of India,"Hyderabad, Telangana",CAM_ATM_0032_01,30,Operational
+ATM_0033,IndusInd Bank,New Delhi,CAM_ATM_0033_01,45,Operational
+ATM_0034,Axis Bank,"Nuh (Mewat), Haryana",CAM_ATM_0034_01,30,Operational
+ATM_0035,ICICI Bank,"Alwar, Rajasthan",CAM_ATM_0035_01,60,Operational
+ATM_0036,Punjab National Bank,"Rohini, Delhi",CAM_ATM_0036_01,30,Operational
+ATM_0037,Canara Bank,"Alwar, Rajasthan",CAM_ATM_0037_01,60,Operational
+ATM_0038,Punjab National Bank,"Kolkata, West Bengal",CAM_ATM_0038_01,45,Operational
+ATM_0039,Bank of Baroda,"Bengaluru, Karnataka",CAM_ATM_0039_01,90,Operational
+ATM_0040,ICICI Bank,New Delhi,CAM_ATM_0040_01,90,Operational
+ATM_0041,IndusInd Bank,"Bengaluru, Karnataka",CAM_ATM_0041_01,45,Operational
+ATM_0042,Axis Bank,"Nuh (Mewat), Haryana",CAM_ATM_0042_01,45,Operational
+ATM_0043,Bank of Baroda,"Alwar, Rajasthan",CAM_ATM_0043_01,60,Operational
+ATM_0044,State Bank of India,"Jamtara, Jharkhand",CAM_ATM_0044_01,30,Operational
+ATM_0045,Punjab National Bank,"Kolkata, West Bengal",CAM_ATM_0045_01,60,Operational
+ATM_0046,Canara Bank,"Alwar, Rajasthan",CAM_ATM_0046_01,90,Operational
+ATM_0047,HDFC Bank,"Mumbai, Maharashtra",CAM_ATM_0047_01,90,Operational
+ATM_0048,ICICI Bank,"Mathura, UP",CAM_ATM_0048_01,60,Operational
+ATM_0049,Bank of Baroda,"Rohini, Delhi",CAM_ATM_0049_01,60,Operational
+ATM_0050,State Bank of India,New Delhi,CAM_ATM_0050_01,45,Operational
+ATM_0051,Union Bank of India,New Delhi,CAM_ATM_0051_01,60,Operational
+ATM_0052,Canara Bank,New Delhi,CAM_ATM_0052_01,45,Operational
+ATM_0053,ICICI Bank,"Deoghar, Jharkhand",CAM_ATM_0053_01,90,Operational
+ATM_0054,ICICI Bank,"Alwar, Rajasthan",CAM_ATM_0054_01,45,Operational
+ATM_0055,Bank of Baroda,"Bharatpur, Rajasthan",CAM_ATM_0055_01,60,Operational
+ATM_0056,Kotak Mahindra Bank,"Mathura, UP",CAM_ATM_0056_01,60,Operational
+ATM_0057,HDFC Bank,"Mumbai, Maharashtra",CAM_ATM_0057_01,45,Operational
+ATM_0058,State Bank of India,"Deoghar, Jharkhand",CAM_ATM_0058_01,45,Operational
+ATM_0059,Punjab National Bank,"Kolkata, West Bengal",CAM_ATM_0059_01,90,Operational
+ATM_0060,ICICI Bank,"Bengaluru, Karnataka",CAM_ATM_0060_01,90,Operational
+ATM_0061,Punjab National Bank,"Bharatpur, Rajasthan",CAM_ATM_0061_01,30,Operational
+ATM_0062,IndusInd Bank,New Delhi,CAM_ATM_0062_01,45,Operational
+ATM_0063,Union Bank of India,"Mathura, UP",CAM_ATM_0063_01,30,Operational
+ATM_0064,Axis Bank,"Bharatpur, Rajasthan",CAM_ATM_0064_01,60,Operational
+ATM_0065,Kotak Mahindra Bank,"Nuh (Mewat), Haryana",CAM_ATM_0065_01,60,Operational
+ATM_0066,Kotak Mahindra Bank,"Jamtara, Jharkhand",CAM_ATM_0066_01,90,Operational
+ATM_0067,Union Bank of India,"Jamtara, Jharkhand",CAM_ATM_0067_01,90,Operational
+ATM_0068,State Bank of India,"Mathura, UP",CAM_ATM_0068_01,90,Operational
+ATM_0069,Union Bank of India,"Mathura, UP",CAM_ATM_0069_01,30,Operational
+ATM_0070,Union Bank of India,"Nuh (Mewat), Haryana",CAM_ATM_0070_01,60,Operational
+ATM_0071,Canara Bank,"Mathura, UP",CAM_ATM_0071_01,60,Operational
+ATM_0072,Axis Bank,New Delhi,CAM_ATM_0072_01,60,Operational
+ATM_0073,Canara Bank,"Rohini, Delhi",CAM_ATM_0073_01,60,Operational
+ATM_0074,HDFC Bank,"Hyderabad, Telangana",CAM_ATM_0074_01,60,Operational
+ATM_0075,Kotak Mahindra Bank,"Rohini, Delhi",CAM_ATM_0075_01,45,Operational
+ATM_0076,Punjab National Bank,"Deoghar, Jharkhand",CAM_ATM_0076_01,30,Operational
+ATM_0077,Kotak Mahindra Bank,"Alwar, Rajasthan",CAM_ATM_0077_01,60,Operational
+ATM_0078,Kotak Mahindra Bank,"Mumbai, Maharashtra",CAM_ATM_0078_01,30,Operational
+ATM_0079,State Bank of India,"Jamtara, Jharkhand",CAM_ATM_0079_01,90,Operational
+ATM_0080,State Bank of India,"Hyderabad, Telangana",CAM_ATM_0080_01,90,Operational

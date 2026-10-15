@@ -1,0 +1,1801 @@
+account_id,customer_id,bank,upi_id,upi_app,ip_address,account_type,balance
+ACC00001,CUST00564,Canara Bank,ayaangupta11@paytm,Paytm,103.31.32.126,Savings,318013.22
+ACC00002,CUST00461,State Bank of India,manishverma83@amazonpay,Amazon Pay,103.132.71.178,Overdraft,278123.13
+ACC00003,CUST00371,Bank of Baroda,amitverma92@bhimupi,BHIM UPI,103.86.147.33,Current,22692.66
+ACC00004,CUST01101,ICICI Bank,aaravsingh99@bhimupi,BHIM UPI,103.152.210.138,Savings,185765.64
+ACC00005,CUST00131,Union Bank of India,reyanshreddy78@amazonpay,Amazon Pay,103.212.167.32,Current,73008.59
+ACC00006,CUST00241,ICICI Bank,sureshmehta98@amazonpay,Amazon Pay,103.152.115.205,Savings,14180.53
+ACC00007,CUST01178,Axis Bank,ishaanpandey30@whatsapppay,WhatsApp Pay,103.75.218.193,Savings,342984.99
+ACC00008,CUST01037,Punjab National Bank,vihaanpandey79@paytm,Paytm,103.178.1.64,Savings,331202.01
+ACC00009,CUST01064,Punjab National Bank,reyanshmehta78@whatsapppay,WhatsApp Pay,103.157.126.178,Savings,318818.71
+ACC00010,CUST00722,IndusInd Bank,diyaverma75@amazonpay,Amazon Pay,103.35.170.210,Savings,13338.52
+ACC00011,CUST00291,Punjab National Bank,amitkumar27@googlepay,Google Pay,103.65.152.92,Savings,255321.99
+ACC00012,CUST00865,HDFC Bank,manishsingh42@amazonpay,Amazon Pay,103.176.232.42,Savings,29597.3
+ACC00013,CUST00521,Bank of Baroda,snehakumar28@whatsapppay,WhatsApp Pay,103.28.162.188,Savings,221775.38
+ACC00014,CUST00395,Kotak Mahindra Bank,aaravverma94@amazonpay,Amazon Pay,103.140.155.42,Savings,54145.25
+ACC00015,CUST00889,Bank of Baroda,gaurisingh87@phonepe,PhonePe,103.79.32.137,Savings,192154.89
+ACC00016,CUST00136,Kotak Mahindra Bank,adityasingh21@whatsapppay,WhatsApp Pay,103.95.200.70,Savings,279435.03
+ACC00017,CUST00561,State Bank of India,amitbansal58@phonepe,PhonePe,103.66.97.244,Salary,324009.73
+ACC00018,CUST00360,Union Bank of India,poojachauhan49@whatsapppay,WhatsApp Pay,103.216.126.25,Savings,245309.21
+ACC00019,CUST00578,Union Bank of India,rameshagarwal87@paytm,Paytm,103.22.44.82,Savings,136652.38
+ACC00020,CUST00707,Union Bank of India,manishverma86@amazonpay,Amazon Pay,103.113.123.152,Current,3819.37
+ACC00021,CUST01052,ICICI Bank,vikrammehta26@whatsapppay,WhatsApp Pay,103.155.189.69,Savings,254034.04
+ACC00022,CUST00759,Axis Bank,deepaksharma87@whatsapppay,WhatsApp Pay,103.127.47.113,Savings,279564.88
+ACC00023,CUST01029,Punjab National Bank,deepakreddy64@paytm,Paytm,103.193.226.237,Savings,107163.01
+ACC00024,CUST00179,Punjab National Bank,amitgupta50@bhimupi,BHIM UPI,103.172.21.20,Current,330731.0
+ACC00025,CUST00339,IndusInd Bank,sunilpandey20@phonepe,PhonePe,103.151.238.127,Current,4237.79
+ACC00026,CUST00869,Union Bank of India,aaravyadav27@whatsapppay,WhatsApp Pay,103.141.176.174,Savings,244409.74
+ACC00027,CUST00831,State Bank of India,vivaannair34@amazonpay,Amazon Pay,103.200.2.183,Salary,187246.53
+ACC00028,CUST00707,Axis Bank,manishverma94@whatsapppay,WhatsApp Pay,103.220.226.242,Salary,213413.17
+ACC00029,CUST00919,ICICI Bank,arjunjoon77@whatsapppay,WhatsApp Pay,103.54.20.94,Salary,180032.73
+ACC00030,CUST00105,Bank of Baroda,amityadav58@bhimupi,BHIM UPI,103.38.87.234,Savings,291188.38
+ACC00031,CUST00242,Punjab National Bank,ishasingh71@paytm,Paytm,103.64.1.189,Savings,138070.71
+ACC00032,CUST00625,Union Bank of India,vihaanyadav69@phonepe,PhonePe,103.227.125.15,Current,215627.82
+ACC00033,CUST00673,Punjab National Bank,amitverma23@paytm,Paytm,103.237.185.48,Savings,3597.87
+ACC00034,CUST00883,Canara Bank,sureshyadav20@googlepay,Google Pay,103.240.40.106,Savings,170850.55
+ACC00035,CUST00319,Punjab National Bank,aditipatel70@googlepay,Google Pay,103.86.94.110,Savings,187981.37
+ACC00036,CUST00552,HDFC Bank,manishyadav94@bhimupi,BHIM UPI,103.51.36.91,Current,2530.67
+ACC00037,CUST00407,HDFC Bank,adityachauhan46@googlepay,Google Pay,103.111.108.191,Savings,11546.49
+ACC00038,CUST00408,Canara Bank,anushkakumar44@whatsapppay,WhatsApp Pay,103.135.141.127,Savings,250155.18
+ACC00039,CUST00666,Bank of Baroda,poojachauhan59@amazonpay,Amazon Pay,103.37.203.6,Savings,120770.13
+ACC00040,CUST00028,Axis Bank,adityajoon96@phonepe,PhonePe,103.119.250.153,Current,152297.82
+ACC00041,CUST00593,Punjab National Bank,diyajoon20@bhimupi,BHIM UPI,103.73.159.40,Current,65807.65
+ACC00042,CUST00576,HDFC Bank,priyagupta99@paytm,Paytm,103.220.110.51,Savings,274059.56
+ACC00043,CUST00212,Union Bank of India,deepakchauhan33@amazonpay,Amazon Pay,103.228.152.162,Savings,80669.78
+ACC00044,CUST00271,Bank of Baroda,rameshreddy45@phonepe,PhonePe,103.47.110.5,Overdraft,32281.93
+ACC00045,CUST00105,Bank of Baroda,amityadav77@bhimupi,BHIM UPI,103.172.251.60,Savings,149413.51
+ACC00046,CUST00126,Union Bank of India,rameshsharma92@bhimupi,BHIM UPI,103.38.69.94,Savings,123183.07
+ACC00047,CUST00857,Axis Bank,adityapandey16@paytm,Paytm,103.10.14.170,Savings,74586.15
+ACC00048,CUST00967,Punjab National Bank,krishnamehta22@amazonpay,Amazon Pay,103.74.243.126,Savings,106872.66
+ACC00049,CUST00199,State Bank of India,krishnaiyer80@whatsapppay,WhatsApp Pay,103.43.85.93,Current,126804.04
+ACC00050,CUST01084,IndusInd Bank,reyanshsharma40@paytm,Paytm,103.63.150.99,Savings,37674.75
+ACC00051,CUST00247,State Bank of India,gauripatel93@amazonpay,Amazon Pay,103.59.181.115,Current,26670.42
+ACC00052,CUST01120,IndusInd Bank,saisaxena48@paytm,Paytm,103.204.52.137,Current,15811.98
+ACC00053,CUST00393,Bank of Baroda,krishnamishra42@amazonpay,Amazon Pay,103.204.219.217,Current,341306.59
+ACC00054,CUST00750,Canara Bank,sureshagarwal25@whatsapppay,WhatsApp Pay,103.27.124.108,Salary,333379.26
+ACC00055,CUST00045,ICICI Bank,manojjoon45@amazonpay,Amazon Pay,103.43.75.12,Savings,21747.29
+ACC00056,CUST00390,Bank of Baroda,vihaaniyer97@bhimupi,BHIM UPI,103.141.249.20,Savings,262879.36
+ACC00057,CUST00787,Union Bank of India,sunilmehta61@bhimupi,BHIM UPI,103.62.48.1,Savings,76623.8
+ACC00058,CUST00019,Union Bank of India,arjunchoudhary74@bhimupi,BHIM UPI,103.144.67.78,Current,104079.11
+ACC00059,CUST00550,Union Bank of India,arjunmalhotra31@phonepe,PhonePe,103.146.61.75,Savings,52274.75
+ACC00060,CUST00569,ICICI Bank,aditiyadav16@paytm,Paytm,103.73.254.211,Savings,41106.6
+ACC00061,CUST00712,IndusInd Bank,ananyamehta51@paytm,Paytm,103.190.227.141,Savings,47197.25
+ACC00062,CUST00604,Kotak Mahindra Bank,reyanshjoon90@phonepe,PhonePe,103.220.92.57,Current,98251.59
+ACC00063,CUST00525,State Bank of India,ananyamalhotra94@amazonpay,Amazon Pay,103.209.241.200,Salary,253049.47
+ACC00064,CUST00783,Punjab National Bank,ishasingh91@whatsapppay,WhatsApp Pay,103.62.210.114,Savings,94443.33
+ACC00065,CUST01192,Bank of Baroda,ananyanair67@googlepay,Google Pay,103.195.112.95,Savings,167912.91
+ACC00066,CUST01016,ICICI Bank,vihaaniyer33@bhimupi,BHIM UPI,103.55.49.146,Current,255453.26
+ACC00067,CUST00578,State Bank of India,rameshagarwal30@paytm,Paytm,103.219.101.176,Current,24774.21
+ACC00068,CUST00148,Bank of Baroda,vivaankumar68@googlepay,Google Pay,103.113.26.186,Salary,254504.24
+ACC00069,CUST00025,IndusInd Bank,kavyaiyer58@phonepe,PhonePe,103.38.212.4,Savings,225746.5
+ACC00070,CUST00090,ICICI Bank,krishnasaxena20@googlepay,Google Pay,103.170.154.4,Savings,3783.96
+ACC00071,CUST00218,Union Bank of India,diyaiyer53@whatsapppay,WhatsApp Pay,103.31.52.36,Current,197216.51
+ACC00072,CUST00910,ICICI Bank,gaurikumar52@paytm,Paytm,103.72.15.140,Savings,219806.31
+ACC00073,CUST00253,State Bank of India,saimishra23@phonepe,PhonePe,103.36.131.227,Savings,50071.34
+ACC00074,CUST00460,State Bank of India,gauribansal64@googlepay,Google Pay,103.100.168.74,Savings,307707.04
+ACC00075,CUST00788,HDFC Bank,vihaanmishra31@bhimupi,BHIM UPI,103.67.27.245,Overdraft,125379.11
+ACC00076,CUST00684,HDFC Bank,ayaanagarwal20@paytm,Paytm,103.164.39.46,Current,117528.0
+ACC00077,CUST00372,Bank of Baroda,anushkaiyer95@googlepay,Google Pay,103.169.210.74,Savings,36820.94
+ACC00078,CUST01023,Kotak Mahindra Bank,ishaiyer19@paytm,Paytm,103.230.239.251,Current,229721.02
+ACC00079,CUST00656,ICICI Bank,vikramgupta67@bhimupi,BHIM UPI,103.211.250.123,Current,40050.83
+ACC00080,CUST00876,Punjab National Bank,manishbansal21@googlepay,Google Pay,103.42.47.197,Savings,112100.87
+ACC00081,CUST00869,Canara Bank,aaravyadav62@whatsapppay,WhatsApp Pay,103.172.86.36,Savings,229057.0
+ACC00082,CUST00504,Bank of Baroda,ishasaxena80@bhimupi,BHIM UPI,103.146.127.137,Savings,80925.02
+ACC00083,CUST00172,IndusInd Bank,suniljoon63@whatsapppay,WhatsApp Pay,103.208.178.208,Savings,246231.11
+ACC00084,CUST00482,Kotak Mahindra Bank,anushkayadav36@phonepe,PhonePe,103.14.93.143,Overdraft,47190.64
+ACC00085,CUST00226,State Bank of India,sureshmehta56@paytm,Paytm,103.231.200.210,Current,161405.74
+ACC00086,CUST01130,Bank of Baroda,manojjoon36@googlepay,Google Pay,103.24.192.36,Current,243675.37
+ACC00087,CUST00294,Bank of Baroda,saipandey13@whatsapppay,WhatsApp Pay,103.118.96.14,Savings,232130.19
+ACC00088,CUST00152,Canara Bank,ishaiyer30@amazonpay,Amazon Pay,103.103.37.21,Savings,4860.96
+ACC00089,CUST00853,ICICI Bank,anushkakumar70@googlepay,Google Pay,103.201.136.179,Current,164829.48
+ACC00090,CUST00691,Canara Bank,poojasharma98@whatsapppay,WhatsApp Pay,103.38.40.16,Savings,11725.63
+ACC00091,CUST00356,Union Bank of India,arjunchauhan11@googlepay,Google Pay,103.118.175.243,Savings,194177.49
+ACC00092,CUST00529,IndusInd Bank,deepaksingh49@amazonpay,Amazon Pay,103.118.239.41,Current,32631.82
+ACC00093,CUST00774,ICICI Bank,priyakumar37@whatsapppay,WhatsApp Pay,103.24.57.101,Savings,261225.51
+ACC00094,CUST01146,IndusInd Bank,arjunchauhan98@phonepe,PhonePe,103.90.168.165,Savings,133474.29
+ACC00095,CUST00112,Kotak Mahindra Bank,rajeshagarwal64@whatsapppay,WhatsApp Pay,103.37.27.20,Savings,272689.64
+ACC00096,CUST00688,State Bank of India,krishnaverma46@googlepay,Google Pay,103.37.17.55,Savings,264904.24
+ACC00097,CUST00634,Axis Bank,adityanair35@amazonpay,Amazon Pay,103.18.62.69,Savings,199757.91
+ACC00098,CUST00092,IndusInd Bank,ishaanbansal15@bhimupi,BHIM UPI,103.33.242.80,Savings,125148.88
+ACC00099,CUST00579,Bank of Baroda,rameshagarwal34@amazonpay,Amazon Pay,103.110.186.92,Savings,246078.56
+ACC00100,CUST00200,Kotak Mahindra Bank,rameshpatel74@bhimupi,BHIM UPI,103.216.199.39,Savings,278726.22
+ACC00101,CUST00977,IndusInd Bank,rakeshiyer47@phonepe,PhonePe,103.184.119.21,Savings,33105.16
+ACC00102,CUST00475,Axis Bank,sureshmehta93@whatsapppay,WhatsApp Pay,103.193.42.247,Savings,347301.47
+ACC00103,CUST01072,Kotak Mahindra Bank,rameshsaxena26@bhimupi,BHIM UPI,103.102.160.220,Savings,14484.51
+ACC00104,CUST00794,Axis Bank,adityachoudhary88@googlepay,Google Pay,103.49.146.161,Savings,34543.41
+ACC00105,CUST00031,ICICI Bank,aditimishra80@paytm,Paytm,103.214.201.230,Current,33392.84
+ACC00106,CUST00643,ICICI Bank,manojkumar30@paytm,Paytm,103.157.94.91,Savings,63125.6
+ACC00107,CUST00944,Punjab National Bank,snehanair42@bhimupi,BHIM UPI,103.123.167.237,Current,43826.2
+ACC00108,CUST01165,Canara Bank,priyachauhan56@phonepe,PhonePe,103.112.105.220,Current,238364.38
+ACC00109,CUST00903,Kotak Mahindra Bank,priyachoudhary89@amazonpay,Amazon Pay,103.105.22.175,Salary,157807.25
+ACC00110,CUST00088,IndusInd Bank,kavyapandey17@whatsapppay,WhatsApp Pay,103.72.180.211,Current,54519.5
+ACC00111,CUST00216,Punjab National Bank,adityanair30@bhimupi,BHIM UPI,103.228.19.58,Savings,162066.36
+ACC00112,CUST00192,Kotak Mahindra Bank,arjungupta69@bhimupi,BHIM UPI,103.240.210.120,Savings,63505.54
+ACC00113,CUST00222,Bank of Baroda,priyabansal35@bhimupi,BHIM UPI,103.26.82.88,Savings,170460.11
+ACC00114,CUST00976,HDFC Bank,rakeshsaxena68@paytm,Paytm,103.49.243.121,Savings,75107.81
+ACC00115,CUST01164,State Bank of India,diyamehta58@amazonpay,Amazon Pay,103.216.93.203,Savings,165956.67
+ACC00116,CUST00111,Axis Bank,reyanshyadav97@phonepe,PhonePe,103.74.163.46,Savings,24706.04
+ACC00117,CUST00830,HDFC Bank,ayaansaxena67@paytm,Paytm,103.144.55.172,Current,64835.36
+ACC00118,CUST00111,HDFC Bank,reyanshyadav53@bhimupi,BHIM UPI,103.86.43.51,Salary,146975.83
+ACC00119,CUST00974,Union Bank of India,arjunsingh30@whatsapppay,WhatsApp Pay,103.121.91.234,Salary,136503.72
+ACC00120,CUST00021,Union Bank of India,ayaangupta35@amazonpay,Amazon Pay,103.180.149.158,Savings,232590.0
+ACC00121,CUST00649,State Bank of India,aaravreddy68@googlepay,Google Pay,103.137.222.82,Salary,339506.66
+ACC00122,CUST00833,Punjab National Bank,rajeshgupta10@amazonpay,Amazon Pay,103.223.220.33,Overdraft,223801.28
+ACC00123,CUST01185,HDFC Bank,ishaanverma37@phonepe,PhonePe,103.58.108.179,Current,58552.31
+ACC00124,CUST00774,Axis Bank,priyakumar36@paytm,Paytm,103.183.148.245,Salary,284915.88
+ACC00125,CUST00034,Punjab National Bank,sunilkumar74@paytm,Paytm,103.41.180.128,Current,159871.12
+ACC00126,CUST00841,Kotak Mahindra Bank,diyapatel79@paytm,Paytm,103.205.86.30,Savings,160858.84
+ACC00127,CUST00765,ICICI Bank,saichoudhary86@amazonpay,Amazon Pay,103.121.98.73,Savings,241148.45
+ACC00128,CUST00896,Punjab National Bank,ishachoudhary89@whatsapppay,WhatsApp Pay,103.229.26.23,Salary,36782.31
+ACC00129,CUST00034,IndusInd Bank,sunilkumar23@bhimupi,BHIM UPI,103.202.160.238,Savings,221917.04
+ACC00130,CUST01031,IndusInd Bank,rameshreddy95@phonepe,PhonePe,103.117.55.58,Savings,193279.98
+ACC00131,CUST00235,Axis Bank,amitsaxena25@bhimupi,BHIM UPI,103.213.234.119,Savings,287236.08
+ACC00132,CUST00811,State Bank of India,adityamalhotra38@paytm,Paytm,103.78.226.169,Savings,293550.22
+ACC00133,CUST00850,Axis Bank,manishbansal63@phonepe,PhonePe,103.16.40.203,Savings,285939.1
+ACC00134,CUST00651,Kotak Mahindra Bank,ananyaiyer83@googlepay,Google Pay,103.71.143.250,Overdraft,215885.64
+ACC00135,CUST00806,State Bank of India,ayaangupta64@amazonpay,Amazon Pay,103.172.100.251,Savings,141390.1
+ACC00136,CUST00652,Union Bank of India,ishaanyadav65@googlepay,Google Pay,103.191.206.33,Savings,221188.65
+ACC00137,CUST00803,Punjab National Bank,rakeshsaxena30@amazonpay,Amazon Pay,103.62.24.24,Salary,4532.57
+ACC00138,CUST00314,State Bank of India,gaurireddy79@amazonpay,Amazon Pay,103.30.147.98,Salary,257092.12
+ACC00139,CUST00930,Kotak Mahindra Bank,vikramjoon40@googlepay,Google Pay,103.66.77.50,Savings,86216.42
+ACC00140,CUST00775,Punjab National Bank,rakeshsingh16@whatsapppay,WhatsApp Pay,103.46.161.6,Savings,202984.42
+ACC00141,CUST00212,HDFC Bank,deepakchauhan86@bhimupi,BHIM UPI,103.46.73.68,Savings,32925.61
+ACC00142,CUST01013,Kotak Mahindra Bank,aditipandey60@googlepay,Google Pay,103.213.6.106,Savings,335746.4
+ACC00143,CUST00157,Axis Bank,kavyaiyer63@whatsapppay,WhatsApp Pay,103.90.163.233,Savings,56805.72
+ACC00144,CUST00612,State Bank of India,priyajoon94@googlepay,Google Pay,103.165.219.9,Savings,120312.25
+ACC00145,CUST00711,Canara Bank,ananyaiyer86@amazonpay,Amazon Pay,103.50.134.190,Savings,42996.97
+ACC00146,CUST00061,Union Bank of India,rajeshsharma76@phonepe,PhonePe,103.49.56.222,Savings,314551.04
+ACC00147,CUST00061,Kotak Mahindra Bank,rajeshsharma38@googlepay,Google Pay,103.187.241.33,Savings,168810.42
+ACC00148,CUST00189,Kotak Mahindra Bank,sunilreddy80@whatsapppay,WhatsApp Pay,103.129.191.208,Savings,179673.46
+ACC00149,CUST00820,Axis Bank,snehaiyer32@paytm,Paytm,103.226.228.184,Savings,137792.66
+ACC00150,CUST01196,IndusInd Bank,aaravpatel31@paytm,Paytm,103.194.125.111,Current,148596.19
+ACC00151,CUST00557,Kotak Mahindra Bank,arjunkumar23@amazonpay,Amazon Pay,103.119.52.146,Savings,314314.19
+ACC00152,CUST00132,Canara Bank,sunilsingh14@googlepay,Google Pay,103.74.151.105,Salary,289426.9
+ACC00153,CUST01087,Kotak Mahindra Bank,deepakchauhan13@bhimupi,BHIM UPI,103.217.83.110,Savings,125531.71
+ACC00154,CUST00149,Axis Bank,reyanshjoon57@whatsapppay,WhatsApp Pay,103.209.81.32,Savings,241058.2
+ACC00155,CUST00674,Axis Bank,rakeshagarwal82@bhimupi,BHIM UPI,103.240.60.144,Current,99623.18
+ACC00156,CUST00435,Union Bank of India,rakeshsharma23@googlepay,Google Pay,103.193.156.243,Savings,301039.47
+ACC00157,CUST00154,IndusInd Bank,ishaiyer63@whatsapppay,WhatsApp Pay,103.121.82.209,Savings,69394.58
+ACC00158,CUST01012,Canara Bank,adityaverma45@phonepe,PhonePe,103.41.116.44,Savings,207114.3
+ACC00159,CUST00485,IndusInd Bank,reyanshsharma46@phonepe,PhonePe,103.210.220.148,Savings,319119.28
+ACC00160,CUST00583,ICICI Bank,aaravreddy14@bhimupi,BHIM UPI,103.145.11.87,Current,24774.21
+ACC00161,CUST00195,Bank of Baroda,ishaaniyer48@whatsapppay,WhatsApp Pay,103.202.89.103,Savings,271227.4
+ACC00162,CUST01012,IndusInd Bank,adityaverma60@phonepe,PhonePe,103.126.127.218,Savings,318709.9
+ACC00163,CUST00766,IndusInd Bank,arjunbansal13@phonepe,PhonePe,103.221.3.36,Savings,113339.23
+ACC00164,CUST00893,Axis Bank,adityapatel21@googlepay,Google Pay,103.240.208.95,Savings,188376.65
+ACC00165,CUST00011,State Bank of India,ayaanpandey15@paytm,Paytm,103.87.20.68,Savings,214656.35
+ACC00166,CUST00778,Punjab National Bank,krishnayadav31@whatsapppay,WhatsApp Pay,103.159.118.31,Salary,301732.27
+ACC00167,CUST01197,Bank of Baroda,manishmehta67@whatsapppay,WhatsApp Pay,103.143.136.62,Savings,231613.51
+ACC00168,CUST00575,Kotak Mahindra Bank,manishmehta71@whatsapppay,WhatsApp Pay,103.77.197.76,Savings,123876.89
+ACC00169,CUST00497,Axis Bank,manishsaxena19@whatsapppay,WhatsApp Pay,103.136.16.55,Savings,76039.35
+ACC00170,CUST00789,Axis Bank,aaravagarwal23@bhimupi,BHIM UPI,103.218.152.195,Savings,300531.36
+ACC00171,CUST00639,Canara Bank,ishaanchoudhary29@whatsapppay,WhatsApp Pay,103.37.235.34,Current,127593.5
+ACC00172,CUST00927,IndusInd Bank,amitkumar35@amazonpay,Amazon Pay,103.58.18.72,Current,240349.97
+ACC00173,CUST01183,HDFC Bank,ayaanyadav69@googlepay,Google Pay,103.200.29.62,Current,161565.96
+ACC00174,CUST00547,State Bank of India,ishaansingh94@bhimupi,BHIM UPI,103.100.68.31,Savings,29881.33
+ACC00175,CUST00884,Axis Bank,ayaanmishra60@googlepay,Google Pay,103.140.86.14,Savings,129738.35
+ACC00176,CUST00101,Bank of Baroda,rajeshbansal64@whatsapppay,WhatsApp Pay,103.58.104.46,Savings,185582.18
+ACC00177,CUST01011,Union Bank of India,rajeshiyer23@bhimupi,BHIM UPI,103.175.64.246,Savings,40758.17
+ACC00178,CUST00074,IndusInd Bank,ishasharma40@paytm,Paytm,103.35.71.58,Savings,244979.54
+ACC00179,CUST00829,Bank of Baroda,krishnasharma22@bhimupi,BHIM UPI,103.220.226.178,Savings,72394.03
+ACC00180,CUST00417,Kotak Mahindra Bank,vivaanagarwal46@whatsapppay,WhatsApp Pay,103.83.188.1,Current,176382.43
+ACC00181,CUST00977,Punjab National Bank,rakeshiyer40@whatsapppay,WhatsApp Pay,103.184.18.43,Savings,315004.29
+ACC00182,CUST00291,State Bank of India,amitkumar70@whatsapppay,WhatsApp Pay,103.15.46.250,Savings,27403.49
+ACC00183,CUST00020,IndusInd Bank,sunilsingh70@paytm,Paytm,103.135.224.64,Savings,16289.19
+ACC00184,CUST00036,IndusInd Bank,krishnabansal47@whatsapppay,WhatsApp Pay,103.144.129.43,Current,271452.17
+ACC00185,CUST00205,Punjab National Bank,anushkagupta52@whatsapppay,WhatsApp Pay,103.198.90.254,Savings,232361.28
+ACC00186,CUST00520,Kotak Mahindra Bank,sunilsaxena11@bhimupi,BHIM UPI,103.87.182.86,Current,271196.94
+ACC00187,CUST00992,HDFC Bank,anushkabansal97@paytm,Paytm,103.173.6.38,Savings,299764.8
+ACC00188,CUST00291,Kotak Mahindra Bank,amitkumar13@bhimupi,BHIM UPI,103.199.179.250,Savings,72604.48
+ACC00189,CUST00183,Axis Bank,aditireddy91@bhimupi,BHIM UPI,103.80.225.161,Savings,314777.87
+ACC00190,CUST00921,Union Bank of India,ayaanreddy43@googlepay,Google Pay,103.99.228.85,Salary,146344.35
+ACC00191,CUST00566,Punjab National Bank,rajeshyadav15@googlepay,Google Pay,103.189.88.214,Savings,151994.14
+ACC00192,CUST00932,IndusInd Bank,ayaanyadav46@paytm,Paytm,103.12.128.238,Savings,163477.96
+ACC00193,CUST00308,Union Bank of India,manishverma89@paytm,Paytm,103.51.78.125,Savings,280024.88
+ACC00194,CUST00032,Canara Bank,adityajoon37@phonepe,PhonePe,103.161.32.14,Savings,2279.04
+ACC00195,CUST00722,State Bank of India,diyaverma42@phonepe,PhonePe,103.234.73.202,Savings,233031.44
+ACC00196,CUST01149,ICICI Bank,gaurireddy44@phonepe,PhonePe,103.197.51.111,Savings,28710.92
+ACC00197,CUST00449,State Bank of India,reyanshchauhan55@bhimupi,BHIM UPI,103.183.164.99,Savings,338433.93
+ACC00198,CUST00201,Punjab National Bank,adityapatel86@paytm,Paytm,103.154.112.174,Savings,281630.9
+ACC00199,CUST00286,Axis Bank,ishaaniyer27@paytm,Paytm,103.61.78.79,Savings,198549.45
+ACC00200,CUST00945,Union Bank of India,vihaansharma58@googlepay,Google Pay,103.223.112.25,Current,154944.52
+ACC00201,CUST00642,Union Bank of India,reyanshiyer55@whatsapppay,WhatsApp Pay,103.119.120.108,Savings,161718.75
+ACC00202,CUST01145,State Bank of India,anushkasharma21@bhimupi,BHIM UPI,103.167.233.78,Current,203322.69
+ACC00203,CUST00765,ICICI Bank,saichoudhary79@amazonpay,Amazon Pay,103.234.76.14,Current,137734.43
+ACC00204,CUST00826,State Bank of India,sunilsaxena76@bhimupi,BHIM UPI,103.23.22.15,Savings,345167.65
+ACC00205,CUST00220,Kotak Mahindra Bank,vikramiyer22@amazonpay,Amazon Pay,103.154.124.177,Current,21772.24
+ACC00206,CUST01198,Union Bank of India,ananyasaxena16@whatsapppay,WhatsApp Pay,103.142.37.144,Current,173608.98
+ACC00207,CUST00458,ICICI Bank,snehagupta90@paytm,Paytm,103.11.207.125,Savings,70644.61
+ACC00208,CUST00138,State Bank of India,deepaksingh87@googlepay,Google Pay,103.143.25.64,Current,166072.97
+ACC00209,CUST01036,Canara Bank,ananyanair17@bhimupi,BHIM UPI,103.86.104.124,Salary,287184.7
+ACC00210,CUST01120,Punjab National Bank,saisaxena97@amazonpay,Amazon Pay,103.178.158.32,Savings,222850.91
+ACC00211,CUST00379,ICICI Bank,rajeshbansal94@whatsapppay,WhatsApp Pay,103.140.190.180,Savings,166917.36
+ACC00212,CUST00594,Punjab National Bank,gaurisaxena22@whatsapppay,WhatsApp Pay,103.136.95.171,Salary,135344.37
+ACC00213,CUST00220,Canara Bank,vikramiyer64@bhimupi,BHIM UPI,103.82.118.31,Savings,4351.37
+ACC00214,CUST00621,State Bank of India,sunilyadav93@whatsapppay,WhatsApp Pay,103.168.114.11,Current,124477.04
+ACC00215,CUST00286,Canara Bank,ishaaniyer68@whatsapppay,WhatsApp Pay,103.50.92.129,Savings,176370.36
+ACC00216,CUST00715,Union Bank of India,kavyasingh75@bhimupi,BHIM UPI,103.177.39.91,Savings,197320.14
+ACC00217,CUST00942,ICICI Bank,manishsaxena94@paytm,Paytm,103.110.18.235,Savings,169568.76
+ACC00218,CUST00967,IndusInd Bank,krishnamehta33@whatsapppay,WhatsApp Pay,103.139.199.169,Savings,45732.98
+ACC00219,CUST00664,IndusInd Bank,poojareddy54@amazonpay,Amazon Pay,103.222.104.18,Savings,298284.9
+ACC00220,CUST00326,Axis Bank,poojagupta95@phonepe,PhonePe,103.183.122.83,Savings,343474.27
+ACC00221,CUST00485,HDFC Bank,reyanshsharma59@googlepay,Google Pay,103.117.237.17,Current,88044.11
+ACC00222,CUST00077,HDFC Bank,manojsingh57@bhimupi,BHIM UPI,103.225.8.237,Savings,38127.52
+ACC00223,CUST00921,Bank of Baroda,ayaanreddy91@googlepay,Google Pay,103.61.51.65,Savings,237757.73
+ACC00224,CUST00462,Axis Bank,krishnapatel30@whatsapppay,WhatsApp Pay,103.145.208.203,Savings,203946.73
+ACC00225,CUST00198,Axis Bank,ishapatel27@phonepe,PhonePe,103.102.199.105,Current,302639.66
+ACC00226,CUST00698,ICICI Bank,poojamalhotra92@whatsapppay,WhatsApp Pay,103.58.214.54,Savings,166069.64
+ACC00227,CUST00722,Kotak Mahindra Bank,diyaverma81@amazonpay,Amazon Pay,103.215.18.113,Current,131953.32
+ACC00228,CUST00146,IndusInd Bank,ayaanpatel26@phonepe,PhonePe,103.86.26.31,Current,18491.91
+ACC00229,CUST01108,Kotak Mahindra Bank,deepakagarwal38@phonepe,PhonePe,103.84.237.213,Current,246294.02
+ACC00230,CUST00140,ICICI Bank,anushkapatel19@paytm,Paytm,103.71.219.133,Savings,175266.43
+ACC00231,CUST00818,IndusInd Bank,krishnaverma79@phonepe,PhonePe,103.38.150.121,Savings,344734.41
+ACC00232,CUST00062,State Bank of India,ayaanmalhotra63@paytm,Paytm,103.95.228.196,Savings,71879.54
+ACC00233,CUST00676,State Bank of India,anushkaagarwal73@googlepay,Google Pay,103.154.232.157,Savings,268068.19
+ACC00234,CUST00073,Kotak Mahindra Bank,reyanshiyer63@phonepe,PhonePe,103.166.238.21,Savings,167830.63
+ACC00235,CUST00266,Punjab National Bank,manojmehta15@whatsapppay,WhatsApp Pay,103.137.130.58,Savings,151314.69
+ACC00236,CUST00622,Axis Bank,rakeshsaxena17@phonepe,PhonePe,103.210.208.51,Savings,301172.92
+ACC00237,CUST00038,Union Bank of India,rameshbansal16@bhimupi,BHIM UPI,103.106.179.33,Savings,149678.34
+ACC00238,CUST00283,HDFC Bank,kavyamehta25@bhimupi,BHIM UPI,103.104.91.50,Current,321364.97
+ACC00239,CUST00488,Axis Bank,diyachauhan85@phonepe,PhonePe,103.115.192.193,Savings,277716.7
+ACC00240,CUST01164,State Bank of India,diyamehta41@phonepe,PhonePe,103.29.15.33,Current,99267.29
+ACC00241,CUST00644,Kotak Mahindra Bank,ishasingh93@amazonpay,Amazon Pay,103.84.34.156,Current,230325.2
+ACC00242,CUST00158,HDFC Bank,ananyanair79@paytm,Paytm,103.190.189.209,Savings,320327.75
+ACC00243,CUST00452,Canara Bank,vihaannair48@whatsapppay,WhatsApp Pay,103.209.142.75,Salary,85849.92
+ACC00244,CUST00548,Kotak Mahindra Bank,aaravchoudhary79@whatsapppay,WhatsApp Pay,103.23.89.231,Savings,332721.93
+ACC00245,CUST00996,Punjab National Bank,diyamehta36@phonepe,PhonePe,103.225.250.134,Salary,259797.08
+ACC00246,CUST00432,HDFC Bank,ananyaagarwal28@paytm,Paytm,103.70.179.113,Savings,159090.16
+ACC00247,CUST00234,State Bank of India,snehaagarwal14@bhimupi,BHIM UPI,103.160.99.77,Savings,30030.41
+ACC00248,CUST00572,IndusInd Bank,rajeshmishra73@bhimupi,BHIM UPI,103.107.99.114,Savings,72402.68
+ACC00249,CUST00378,Bank of Baroda,rajeshbansal16@amazonpay,Amazon Pay,103.18.139.196,Savings,9584.24
+ACC00250,CUST00689,Punjab National Bank,vikrampatel37@amazonpay,Amazon Pay,103.97.186.213,Current,303076.93
+ACC00251,CUST00117,HDFC Bank,priyachoudhary59@amazonpay,Amazon Pay,103.183.74.220,Salary,187399.1
+ACC00252,CUST00869,IndusInd Bank,aaravyadav82@whatsapppay,WhatsApp Pay,103.76.42.246,Current,261099.04
+ACC00253,CUST00488,ICICI Bank,diyachauhan45@phonepe,PhonePe,103.80.22.64,Current,103890.81
+ACC00254,CUST01170,Bank of Baroda,manojchoudhary88@phonepe,PhonePe,103.78.169.65,Savings,283685.69
+ACC00255,CUST00026,HDFC Bank,deepakmalhotra82@paytm,Paytm,103.224.68.217,Savings,162222.13
+ACC00256,CUST00901,State Bank of India,saipandey14@bhimupi,BHIM UPI,103.132.164.217,Salary,143309.51
+ACC00257,CUST01187,HDFC Bank,sureshiyer88@paytm,Paytm,103.26.113.47,Savings,275464.13
+ACC00258,CUST00532,Canara Bank,reyanshchauhan39@googlepay,Google Pay,103.47.224.159,Savings,81819.02
+ACC00259,CUST00079,ICICI Bank,diyapandey74@whatsapppay,WhatsApp Pay,103.158.82.11,Current,80169.37
+ACC00260,CUST00531,Punjab National Bank,manishjoon96@phonepe,PhonePe,103.227.91.139,Current,210402.3
+ACC00261,CUST00717,HDFC Bank,poojasharma74@phonepe,PhonePe,103.140.20.61,Savings,199842.88
+ACC00262,CUST00852,HDFC Bank,diyaiyer64@whatsapppay,WhatsApp Pay,103.46.7.84,Current,126420.29
+ACC00263,CUST00836,Kotak Mahindra Bank,amityadav47@bhimupi,BHIM UPI,103.51.95.12,Savings,52947.11
+ACC00264,CUST00053,HDFC Bank,manojkumar37@amazonpay,Amazon Pay,103.140.184.200,Current,274321.77
+ACC00265,CUST00705,Axis Bank,rameshjoon84@bhimupi,BHIM UPI,103.195.39.98,Savings,227399.62
+ACC00266,CUST00159,Axis Bank,adityagupta74@amazonpay,Amazon Pay,103.171.141.188,Overdraft,256699.46
+ACC00267,CUST01081,State Bank of India,manishsharma70@amazonpay,Amazon Pay,103.143.113.82,Savings,292685.12
+ACC00268,CUST00601,Axis Bank,sunilyadav41@paytm,Paytm,103.102.60.117,Current,340352.7
+ACC00269,CUST00494,Canara Bank,deepakmalhotra62@whatsapppay,WhatsApp Pay,103.100.144.130,Savings,127122.8
+ACC00270,CUST00992,IndusInd Bank,anushkabansal67@googlepay,Google Pay,103.68.146.212,Current,44285.8
+ACC00271,CUST01102,Axis Bank,amitsharma96@bhimupi,BHIM UPI,103.45.156.67,Savings,119879.35
+ACC00272,CUST00242,HDFC Bank,ishasingh63@bhimupi,BHIM UPI,103.47.148.127,Savings,270539.42
+ACC00273,CUST00369,Canara Bank,gaurichauhan31@phonepe,PhonePe,103.77.196.142,Savings,164716.16
+ACC00274,CUST00207,ICICI Bank,ayaansaxena65@phonepe,PhonePe,103.52.254.19,Savings,303474.56
+ACC00275,CUST00795,Bank of Baroda,poojanair26@paytm,Paytm,103.152.62.183,Savings,118214.5
+ACC00276,CUST00690,IndusInd Bank,rameshkumar88@amazonpay,Amazon Pay,103.194.12.19,Savings,124557.69
+ACC00277,CUST00920,Bank of Baroda,sureshgupta67@whatsapppay,WhatsApp Pay,103.121.75.194,Current,47544.64
+ACC00278,CUST00376,IndusInd Bank,manishmalhotra20@amazonpay,Amazon Pay,103.11.152.152,Savings,227466.96
+ACC00279,CUST00777,Kotak Mahindra Bank,adityabansal32@bhimupi,BHIM UPI,103.160.72.242,Savings,81676.11
+ACC00280,CUST01011,Kotak Mahindra Bank,rajeshiyer82@phonepe,PhonePe,103.144.149.131,Savings,149627.99
+ACC00281,CUST00662,Bank of Baroda,reyanshmishra32@paytm,Paytm,103.20.209.242,Salary,346227.28
+ACC00282,CUST00432,Bank of Baroda,ananyaagarwal45@amazonpay,Amazon Pay,103.167.81.26,Savings,58374.59
+ACC00283,CUST00590,Punjab National Bank,diyagupta66@bhimupi,BHIM UPI,103.53.74.241,Savings,346087.55
+ACC00284,CUST00218,Axis Bank,diyaiyer45@whatsapppay,WhatsApp Pay,103.62.142.215,Savings,59513.92
+ACC00285,CUST00082,Union Bank of India,anushkanair34@amazonpay,Amazon Pay,103.223.211.7,Savings,99002.21
+ACC00286,CUST01170,Bank of Baroda,manojchoudhary66@whatsapppay,WhatsApp Pay,103.222.117.76,Savings,250829.69
+ACC00287,CUST00246,Canara Bank,gaurimishra73@bhimupi,BHIM UPI,103.231.36.72,Savings,41203.69
+ACC00288,CUST00725,HDFC Bank,kavyaagarwal38@whatsapppay,WhatsApp Pay,103.93.41.130,Current,158985.69
+ACC00289,CUST01051,HDFC Bank,ananyasharma98@whatsapppay,WhatsApp Pay,103.19.111.26,Savings,278071.99
+ACC00290,CUST00651,Axis Bank,ananyaiyer94@amazonpay,Amazon Pay,103.170.10.243,Current,3285.72
+ACC00291,CUST00281,IndusInd Bank,rakeshsharma38@bhimupi,BHIM UPI,103.77.121.39,Savings,65893.15
+ACC00292,CUST01018,Punjab National Bank,sunilreddy35@googlepay,Google Pay,103.32.244.133,Savings,262431.37
+ACC00293,CUST00007,Bank of Baroda,rajeshpatel72@phonepe,PhonePe,103.63.182.46,Savings,240949.59
+ACC00294,CUST00779,IndusInd Bank,vikramiyer91@googlepay,Google Pay,103.145.169.245,Savings,105385.15
+ACC00295,CUST00475,Punjab National Bank,sureshmehta72@whatsapppay,WhatsApp Pay,103.171.101.154,Savings,168595.19
+ACC00296,CUST00198,Axis Bank,ishapatel46@phonepe,PhonePe,103.124.84.64,Savings,40978.8
+ACC00297,CUST00952,Kotak Mahindra Bank,aaravyadav24@whatsapppay,WhatsApp Pay,103.111.181.33,Savings,169566.69
+ACC00298,CUST01002,IndusInd Bank,arjunpatel97@bhimupi,BHIM UPI,103.84.69.130,Savings,297920.43
+ACC00299,CUST00838,State Bank of India,diyaiyer51@amazonpay,Amazon Pay,103.91.106.101,Savings,149107.15
+ACC00300,CUST00534,State Bank of India,sunilbansal72@paytm,Paytm,103.96.163.210,Current,156948.9
+ACC00301,CUST00454,IndusInd Bank,priyaagarwal78@googlepay,Google Pay,103.170.29.243,Savings,213957.61
+ACC00302,CUST00265,IndusInd Bank,reyanshsingh12@amazonpay,Amazon Pay,103.15.206.98,Salary,246803.32
+ACC00303,CUST00723,Union Bank of India,arjunmalhotra93@phonepe,PhonePe,103.63.93.138,Savings,55369.02
+ACC00304,CUST01098,Bank of Baroda,rajeshgupta39@whatsapppay,WhatsApp Pay,103.51.234.96,Savings,75857.48
+ACC00305,CUST00510,State Bank of India,gaurireddy12@phonepe,PhonePe,103.144.27.129,Current,169972.53
+ACC00306,CUST00322,Punjab National Bank,vikramreddy13@paytm,Paytm,103.207.177.64,Savings,262595.43
+ACC00307,CUST00774,Bank of Baroda,priyakumar44@googlepay,Google Pay,103.29.19.130,Current,266953.9
+ACC00308,CUST00851,State Bank of India,anushkayadav79@phonepe,PhonePe,103.48.25.189,Savings,137197.8
+ACC00309,CUST00640,Kotak Mahindra Bank,vivaanyadav75@bhimupi,BHIM UPI,103.87.71.118,Current,92862.35
+ACC00310,CUST01181,Canara Bank,rameshmalhotra47@bhimupi,BHIM UPI,103.66.248.105,Savings,169430.66
+ACC00311,CUST01093,Union Bank of India,gaurichauhan58@googlepay,Google Pay,103.137.187.101,Savings,267063.78
+ACC00312,CUST00222,Canara Bank,priyabansal83@googlepay,Google Pay,103.111.198.60,Salary,167143.81
+ACC00313,CUST00224,Punjab National Bank,sunilchoudhary28@paytm,Paytm,103.31.25.144,Current,302757.29
+ACC00314,CUST01004,IndusInd Bank,adityayadav20@googlepay,Google Pay,103.167.215.122,Savings,293957.68
+ACC00315,CUST00477,State Bank of India,ayaanpatel42@bhimupi,BHIM UPI,103.199.87.214,Savings,112844.32
+ACC00316,CUST01158,IndusInd Bank,anushkabansal10@bhimupi,BHIM UPI,103.63.194.144,Savings,191183.26
+ACC00317,CUST00642,Axis Bank,reyanshiyer69@paytm,Paytm,103.141.143.220,Current,256707.73
+ACC00318,CUST00216,Bank of Baroda,adityanair19@whatsapppay,WhatsApp Pay,103.203.4.42,Savings,42956.45
+ACC00319,CUST00405,Canara Bank,vivaannair14@phonepe,PhonePe,103.136.44.161,Current,170774.09
+ACC00320,CUST01121,Bank of Baroda,poojasingh11@bhimupi,BHIM UPI,103.121.76.185,Savings,237000.76
+ACC00321,CUST01071,Kotak Mahindra Bank,ananyasaxena57@amazonpay,Amazon Pay,103.52.37.75,Savings,71959.41
+ACC00322,CUST00761,Union Bank of India,ishaannair42@amazonpay,Amazon Pay,103.63.240.85,Savings,252185.52
+ACC00323,CUST00278,ICICI Bank,rameshmishra70@amazonpay,Amazon Pay,103.116.46.39,Savings,347661.96
+ACC00324,CUST00012,Punjab National Bank,ayaanbansal34@whatsapppay,WhatsApp Pay,103.34.138.118,Savings,21857.17
+ACC00325,CUST00960,IndusInd Bank,vihaanpatel18@googlepay,Google Pay,103.153.227.58,Savings,5438.26
+ACC00326,CUST00395,Punjab National Bank,aaravverma64@paytm,Paytm,103.88.95.160,Savings,327040.62
+ACC00327,CUST01150,Union Bank of India,amitbansal94@whatsapppay,WhatsApp Pay,103.161.40.27,Savings,98354.94
+ACC00328,CUST00539,IndusInd Bank,snehaagarwal26@phonepe,PhonePe,103.160.166.197,Current,201691.67
+ACC00329,CUST00568,IndusInd Bank,ishachoudhary70@whatsapppay,WhatsApp Pay,103.10.201.60,Savings,32422.72
+ACC00330,CUST00301,ICICI Bank,gauriiyer70@googlepay,Google Pay,103.92.20.230,Current,48372.74
+ACC00331,CUST00901,Bank of Baroda,saipandey70@whatsapppay,WhatsApp Pay,103.138.195.31,Savings,137939.71
+ACC00332,CUST00790,Canara Bank,sunilmalhotra49@paytm,Paytm,103.91.136.21,Current,294845.83
+ACC00333,CUST00341,Punjab National Bank,vihaanyadav28@whatsapppay,WhatsApp Pay,103.153.114.126,Current,88063.39
+ACC00334,CUST00247,Union Bank of India,gauripatel93@bhimupi,BHIM UPI,103.16.222.94,Savings,269875.3
+ACC00335,CUST00709,Bank of Baroda,anushkamehta88@googlepay,Google Pay,103.58.98.96,Savings,261796.16
+ACC00336,CUST00022,Axis Bank,sunilverma56@bhimupi,BHIM UPI,103.11.151.80,Savings,318908.74
+ACC00337,CUST00520,Union Bank of India,sunilsaxena87@phonepe,PhonePe,103.175.71.165,Savings,15849.13
+ACC00338,CUST00519,Punjab National Bank,aditiverma17@whatsapppay,WhatsApp Pay,103.220.8.221,Salary,165047.85
+ACC00339,CUST00931,Canara Bank,manishsingh70@googlepay,Google Pay,103.175.193.140,Current,13848.66
+ACC00340,CUST00060,IndusInd Bank,rameshsaxena29@whatsapppay,WhatsApp Pay,103.55.223.218,Current,147140.62
+ACC00341,CUST00245,State Bank of India,diyaverma91@bhimupi,BHIM UPI,103.90.25.220,Current,344199.5
+ACC00342,CUST00398,IndusInd Bank,saijoon12@whatsapppay,WhatsApp Pay,103.182.218.231,Savings,248403.48
+ACC00343,CUST00751,Union Bank of India,adityachoudhary95@phonepe,PhonePe,103.224.171.172,Savings,67932.51
+ACC00344,CUST01028,ICICI Bank,adityaverma44@whatsapppay,WhatsApp Pay,103.123.12.71,Savings,241206.49
+ACC00345,CUST00839,ICICI Bank,arjunkumar10@whatsapppay,WhatsApp Pay,103.153.90.31,Savings,199076.56
+ACC00346,CUST00177,IndusInd Bank,adityamishra21@bhimupi,BHIM UPI,103.33.47.187,Savings,111466.7
+ACC00347,CUST00042,ICICI Bank,poojasharma37@phonepe,PhonePe,103.127.21.225,Savings,86732.88
+ACC00348,CUST00392,ICICI Bank,saipatel16@paytm,Paytm,103.83.46.72,Savings,110781.57
+ACC00349,CUST00463,Axis Bank,ishaagarwal35@paytm,Paytm,103.85.67.179,Savings,32798.01
+ACC00350,CUST00728,IndusInd Bank,rakeshchauhan54@paytm,Paytm,103.143.116.213,Current,291189.79
+ACC00351,CUST00076,IndusInd Bank,amitpatel29@bhimupi,BHIM UPI,103.63.180.112,Savings,283912.46
+ACC00352,CUST00592,Axis Bank,reyanshmishra99@paytm,Paytm,103.151.213.191,Salary,32219.75
+ACC00353,CUST00432,Punjab National Bank,ananyaagarwal69@googlepay,Google Pay,103.39.133.169,Savings,166585.83
+ACC00354,CUST00957,IndusInd Bank,ananyachoudhary57@paytm,Paytm,103.178.151.231,Savings,245600.26
+ACC00355,CUST00735,State Bank of India,snehamalhotra63@googlepay,Google Pay,103.96.166.232,Savings,319645.51
+ACC00356,CUST00628,ICICI Bank,saisaxena79@bhimupi,BHIM UPI,103.15.113.208,Savings,207954.38
+ACC00357,CUST00891,Bank of Baroda,saisharma41@bhimupi,BHIM UPI,103.105.154.87,Savings,140703.01
+ACC00358,CUST00083,Axis Bank,krishnaiyer23@amazonpay,Amazon Pay,103.208.69.245,Savings,207780.08
+ACC00359,CUST00336,Union Bank of India,manishgupta48@googlepay,Google Pay,103.188.242.135,Current,340363.5
+ACC00360,CUST00286,ICICI Bank,ishaaniyer52@whatsapppay,WhatsApp Pay,103.23.249.24,Current,268155.18
+ACC00361,CUST00709,Canara Bank,anushkamehta31@bhimupi,BHIM UPI,103.178.38.52,Savings,105798.18
+ACC00362,CUST00165,ICICI Bank,gaurigupta36@googlepay,Google Pay,103.195.63.40,Savings,296061.1
+ACC00363,CUST00767,State Bank of India,arjungupta30@bhimupi,BHIM UPI,103.130.141.176,Savings,74765.91
+ACC00364,CUST00968,Bank of Baroda,saireddy41@bhimupi,BHIM UPI,103.34.100.33,Current,327374.21
+ACC00365,CUST00819,Kotak Mahindra Bank,vikramverma96@paytm,Paytm,103.118.153.101,Current,121730.08
+ACC00366,CUST00056,Axis Bank,kavyasaxena32@amazonpay,Amazon Pay,103.104.93.88,Current,1056.24
+ACC00367,CUST00816,HDFC Bank,rajeshsingh39@whatsapppay,WhatsApp Pay,103.58.12.55,Savings,32951.2
+ACC00368,CUST00787,ICICI Bank,sunilmehta29@bhimupi,BHIM UPI,103.109.173.211,Savings,91726.31
+ACC00369,CUST00864,ICICI Bank,sunilsaxena60@googlepay,Google Pay,103.223.28.120,Savings,121527.26
+ACC00370,CUST00208,Bank of Baroda,aditimishra30@phonepe,PhonePe,103.157.130.99,Savings,4550.24
+ACC00371,CUST00823,Bank of Baroda,ayaannair48@phonepe,PhonePe,103.199.163.30,Savings,280945.23
+ACC00372,CUST00923,Union Bank of India,arjunsharma70@paytm,Paytm,103.226.137.249,Current,275030.41
+ACC00373,CUST00869,Union Bank of India,aaravyadav96@bhimupi,BHIM UPI,103.11.87.243,Savings,206758.48
+ACC00374,CUST00405,Union Bank of India,vivaannair68@amazonpay,Amazon Pay,103.128.73.11,Savings,171622.68
+ACC00375,CUST00752,State Bank of India,snehasaxena97@amazonpay,Amazon Pay,103.118.87.173,Savings,286799.69
+ACC00376,CUST01112,Punjab National Bank,vikrammishra47@googlepay,Google Pay,103.14.115.84,Savings,12947.47
+ACC00377,CUST00229,Kotak Mahindra Bank,aditinair14@whatsapppay,WhatsApp Pay,103.111.64.45,Savings,33553.11
+ACC00378,CUST00297,Canara Bank,adityapandey45@bhimupi,BHIM UPI,103.127.177.159,Savings,289037.21
+ACC00379,CUST01073,IndusInd Bank,anushkamehta15@bhimupi,BHIM UPI,103.105.10.38,Savings,253471.67
+ACC00380,CUST00208,Bank of Baroda,aditimishra20@amazonpay,Amazon Pay,103.173.192.78,Savings,8323.02
+ACC00381,CUST00527,HDFC Bank,reyanshyadav24@bhimupi,BHIM UPI,103.156.67.78,Current,188935.59
+ACC00382,CUST00500,State Bank of India,vihaanverma83@paytm,Paytm,103.204.240.112,Savings,241257.72
+ACC00383,CUST00381,Punjab National Bank,ayaanyadav95@amazonpay,Amazon Pay,103.112.233.47,Savings,95801.45
+ACC00384,CUST00834,Axis Bank,amitbansal63@phonepe,PhonePe,103.80.69.119,Savings,341576.22
+ACC00385,CUST00652,HDFC Bank,ishaanyadav38@googlepay,Google Pay,103.93.57.17,Savings,254993.31
+ACC00386,CUST00944,IndusInd Bank,snehanair91@bhimupi,BHIM UPI,103.148.100.122,Savings,4892.25
+ACC00387,CUST00698,Kotak Mahindra Bank,poojamalhotra66@paytm,Paytm,103.228.191.128,Savings,244355.01
+ACC00388,CUST00799,Punjab National Bank,sunilchoudhary14@bhimupi,BHIM UPI,103.156.248.21,Savings,196683.34
+ACC00389,CUST00708,HDFC Bank,amitverma77@googlepay,Google Pay,103.84.193.81,Savings,163849.35
+ACC00390,CUST00320,IndusInd Bank,amitagarwal31@amazonpay,Amazon Pay,103.154.111.107,Savings,8681.22
+ACC00391,CUST00582,Union Bank of India,kavyayadav72@whatsapppay,WhatsApp Pay,103.106.236.138,Overdraft,212689.05
+ACC00392,CUST00253,HDFC Bank,saimishra37@bhimupi,BHIM UPI,103.38.147.75,Savings,56111.57
+ACC00393,CUST00822,Union Bank of India,priyasaxena55@bhimupi,BHIM UPI,103.117.231.154,Current,269789.64
+ACC00394,CUST00217,Kotak Mahindra Bank,adityakumar78@amazonpay,Amazon Pay,103.67.220.104,Savings,162637.92
+ACC00395,CUST00921,ICICI Bank,ayaanreddy61@googlepay,Google Pay,103.146.213.86,Savings,229838.62
+ACC00396,CUST00202,Bank of Baroda,arjunverma93@amazonpay,Amazon Pay,103.117.106.49,Savings,216797.15
+ACC00397,CUST00284,IndusInd Bank,gaurigupta74@amazonpay,Amazon Pay,103.163.147.188,Overdraft,8480.35
+ACC00398,CUST00512,ICICI Bank,vivaanpandey90@amazonpay,Amazon Pay,103.33.244.95,Savings,210669.23
+ACC00399,CUST00798,Union Bank of India,sunilchoudhary34@amazonpay,Amazon Pay,103.51.118.95,Current,84140.71
+ACC00400,CUST00968,Axis Bank,saireddy26@paytm,Paytm,103.238.8.53,Savings,160987.93
+ACC00401,CUST00909,Axis Bank,krishnasharma69@googlepay,Google Pay,103.38.206.155,Savings,305293.87
+ACC00402,CUST00327,Axis Bank,kavyareddy18@bhimupi,BHIM UPI,103.18.175.174,Savings,182158.75
+ACC00403,CUST00963,Bank of Baroda,vihaanreddy63@phonepe,PhonePe,103.236.184.138,Salary,271920.49
+ACC00404,CUST01094,State Bank of India,krishnapandey71@bhimupi,BHIM UPI,103.25.75.208,Current,287899.36
+ACC00405,CUST00082,Kotak Mahindra Bank,anushkanair75@bhimupi,BHIM UPI,103.122.110.202,Savings,51521.32
+ACC00406,CUST00538,IndusInd Bank,amitagarwal31@phonepe,PhonePe,103.178.87.37,Savings,278545.81
+ACC00407,CUST00431,Punjab National Bank,arjunmehta52@phonepe,PhonePe,103.28.118.231,Savings,263499.61
+ACC00408,CUST00533,Kotak Mahindra Bank,kavyayadav98@paytm,Paytm,103.211.116.180,Savings,96716.99
+ACC00409,CUST00074,ICICI Bank,ishasharma76@googlepay,Google Pay,103.66.226.95,Savings,249974.19
+ACC00410,CUST00629,ICICI Bank,ishapandey91@amazonpay,Amazon Pay,103.192.113.173,Savings,260434.74
+ACC00411,CUST00264,ICICI Bank,vihaanbansal47@amazonpay,Amazon Pay,103.75.164.59,Current,74475.88
+ACC00412,CUST00621,ICICI Bank,sunilyadav11@amazonpay,Amazon Pay,103.194.131.191,Savings,181127.88
+ACC00413,CUST00977,IndusInd Bank,rakeshiyer54@googlepay,Google Pay,103.160.219.129,Savings,131339.72
+ACC00414,CUST00994,ICICI Bank,vikramchoudhary71@amazonpay,Amazon Pay,103.239.98.4,Savings,23131.03
+ACC00415,CUST00461,Punjab National Bank,manishverma38@googlepay,Google Pay,103.165.200.187,Savings,227673.83
+ACC00416,CUST00731,Canara Bank,snehasharma82@bhimupi,BHIM UPI,103.13.216.192,Salary,274189.06
+ACC00417,CUST01074,Axis Bank,kavyamishra35@whatsapppay,WhatsApp Pay,103.18.103.161,Savings,115665.52
+ACC00418,CUST00138,Punjab National Bank,deepaksingh78@amazonpay,Amazon Pay,103.147.224.21,Current,20063.19
+ACC00419,CUST01161,Union Bank of India,amitgupta41@googlepay,Google Pay,103.199.47.177,Savings,300204.15
+ACC00420,CUST00468,Canara Bank,sureshpatel15@googlepay,Google Pay,103.78.142.72,Salary,66909.95
+ACC00421,CUST00131,ICICI Bank,reyanshreddy48@amazonpay,Amazon Pay,103.68.63.150,Savings,167310.17
+ACC00422,CUST00202,Union Bank of India,arjunverma50@phonepe,PhonePe,103.28.51.123,Current,29643.48
+ACC00423,CUST00405,HDFC Bank,vivaannair85@amazonpay,Amazon Pay,103.134.77.146,Savings,150699.6
+ACC00424,CUST00229,Canara Bank,aditinair34@whatsapppay,WhatsApp Pay,103.172.158.194,Savings,673.05
+ACC00425,CUST00834,IndusInd Bank,amitbansal73@paytm,Paytm,103.94.130.124,Savings,333026.78
+ACC00426,CUST00614,Punjab National Bank,rameshmishra41@amazonpay,Amazon Pay,103.183.144.129,Savings,154295.31
+ACC00427,CUST00374,Canara Bank,rakeshjoon50@phonepe,PhonePe,103.140.121.127,Current,23413.04
+ACC00428,CUST00885,Punjab National Bank,ishaanmehta66@phonepe,PhonePe,103.185.138.211,Savings,272687.73
+ACC00429,CUST00475,Axis Bank,sureshmehta74@paytm,Paytm,103.206.136.121,Savings,105371.47
+ACC00430,CUST00431,IndusInd Bank,arjunmehta29@whatsapppay,WhatsApp Pay,103.59.197.102,Savings,298398.87
+ACC00431,CUST00322,Kotak Mahindra Bank,vikramreddy70@amazonpay,Amazon Pay,103.211.107.200,Savings,80438.9
+ACC00432,CUST00539,Canara Bank,snehaagarwal57@paytm,Paytm,103.95.187.91,Savings,110713.65
+ACC00433,CUST00631,Bank of Baroda,aaravchoudhary60@amazonpay,Amazon Pay,103.11.196.241,Current,339053.64
+ACC00434,CUST00725,ICICI Bank,kavyaagarwal45@bhimupi,BHIM UPI,103.190.52.54,Savings,89947.3
+ACC00435,CUST00765,State Bank of India,saichoudhary64@paytm,Paytm,103.93.143.144,Current,279217.38
+ACC00436,CUST01031,Canara Bank,rameshreddy23@paytm,Paytm,103.51.84.186,Savings,252581.76
+ACC00437,CUST00963,State Bank of India,vihaanreddy59@whatsapppay,WhatsApp Pay,103.190.125.64,Savings,212543.34
+ACC00438,CUST00769,State Bank of India,sainair17@phonepe,PhonePe,103.80.138.95,Savings,99840.25
+ACC00439,CUST00967,ICICI Bank,krishnamehta19@whatsapppay,WhatsApp Pay,103.208.188.106,Savings,305945.74
+ACC00440,CUST00613,IndusInd Bank,reyanshbansal81@googlepay,Google Pay,103.72.84.147,Savings,231411.43
+ACC00441,CUST01141,Union Bank of India,diyachoudhary98@paytm,Paytm,103.207.198.18,Savings,244888.33
+ACC00442,CUST00643,Kotak Mahindra Bank,manojkumar37@bhimupi,BHIM UPI,103.129.59.118,Savings,70045.32
+ACC00443,CUST00531,Punjab National Bank,manishjoon12@amazonpay,Amazon Pay,103.174.106.110,Savings,170481.96
+ACC00444,CUST00099,Union Bank of India,sunilagarwal75@phonepe,PhonePe,103.154.112.9,Savings,305641.77
+ACC00445,CUST00670,Union Bank of India,diyasaxena46@bhimupi,BHIM UPI,103.172.18.189,Savings,32704.16
+ACC00446,CUST01144,HDFC Bank,vivaanjoon30@amazonpay,Amazon Pay,103.226.218.23,Current,164222.16
+ACC00447,CUST00391,HDFC Bank,sunilsharma65@whatsapppay,WhatsApp Pay,103.129.116.228,Current,258758.34
+ACC00448,CUST00677,HDFC Bank,arjunbansal92@googlepay,Google Pay,103.126.136.200,Savings,287162.88
+ACC00449,CUST00886,State Bank of India,diyasaxena83@bhimupi,BHIM UPI,103.169.213.100,Savings,79217.86
+ACC00450,CUST00875,ICICI Bank,ayaanchauhan38@paytm,Paytm,103.206.84.137,Savings,233057.95
+ACC00451,CUST01177,Kotak Mahindra Bank,ishaanagarwal83@whatsapppay,WhatsApp Pay,103.207.38.53,Savings,35763.32
+ACC00452,CUST01093,IndusInd Bank,gaurichauhan26@phonepe,PhonePe,103.27.84.223,Savings,80921.3
+ACC00453,CUST00428,Axis Bank,sureshmishra30@paytm,Paytm,103.79.60.240,Savings,270434.7
+ACC00454,CUST00056,ICICI Bank,kavyasaxena25@bhimupi,BHIM UPI,103.106.7.114,Current,299038.75
+ACC00455,CUST00428,Bank of Baroda,sureshmishra67@phonepe,PhonePe,103.60.53.198,Savings,285167.55
+ACC00456,CUST00191,ICICI Bank,diyasingh84@amazonpay,Amazon Pay,103.41.42.194,Current,329273.17
+ACC00457,CUST00734,Kotak Mahindra Bank,manishsharma34@bhimupi,BHIM UPI,103.33.205.130,Savings,89721.95
+ACC00458,CUST00230,Canara Bank,aditipatel10@phonepe,PhonePe,103.117.103.247,Savings,124461.04
+ACC00459,CUST00635,HDFC Bank,kavyachauhan93@bhimupi,BHIM UPI,103.189.22.167,Savings,136695.33
+ACC00460,CUST00966,State Bank of India,deepaksingh92@paytm,Paytm,103.21.37.217,Current,197820.45
+ACC00461,CUST00263,Union Bank of India,vikrammishra27@googlepay,Google Pay,103.205.10.16,Savings,73834.05
+ACC00462,CUST00601,Kotak Mahindra Bank,sunilyadav63@amazonpay,Amazon Pay,103.117.45.45,Current,337872.42
+ACC00463,CUST00372,Kotak Mahindra Bank,anushkaiyer30@phonepe,PhonePe,103.62.79.104,Savings,318188.81
+ACC00464,CUST00544,IndusInd Bank,vivaanmehta13@paytm,Paytm,103.94.8.228,Current,257365.32
+ACC00465,CUST00296,Bank of Baroda,ayaanyadav79@phonepe,PhonePe,103.163.185.135,Savings,35490.28
+ACC00466,CUST00715,Axis Bank,kavyasingh63@phonepe,PhonePe,103.38.248.122,Overdraft,145569.36
+ACC00467,CUST01100,Canara Bank,sureshyadav87@googlepay,Google Pay,103.10.80.122,Current,316057.59
+ACC00468,CUST00263,Kotak Mahindra Bank,vikrammishra79@whatsapppay,WhatsApp Pay,103.167.172.184,Savings,172734.2
+ACC00469,CUST01170,Axis Bank,manojchoudhary38@googlepay,Google Pay,103.216.242.37,Savings,29225.05
+ACC00470,CUST00195,Bank of Baroda,ishaaniyer88@paytm,Paytm,103.67.65.48,Savings,105737.3
+ACC00471,CUST00947,IndusInd Bank,snehachauhan76@amazonpay,Amazon Pay,103.236.69.195,Savings,115116.43
+ACC00472,CUST00768,ICICI Bank,manojnair14@amazonpay,Amazon Pay,103.214.99.162,Current,69664.71
+ACC00473,CUST00374,State Bank of India,rakeshjoon91@googlepay,Google Pay,103.213.61.42,Savings,4593.52
+ACC00474,CUST00985,Canara Bank,ishachoudhary34@paytm,Paytm,103.219.249.148,Savings,347448.22
+ACC00475,CUST00929,IndusInd Bank,vivaanchoudhary79@paytm,Paytm,103.200.72.168,Savings,323398.03
+ACC00476,CUST00691,ICICI Bank,poojasharma53@paytm,Paytm,103.134.198.141,Current,34227.94
+ACC00477,CUST00702,Union Bank of India,diyamehta18@paytm,Paytm,103.119.165.7,Current,44616.75
+ACC00478,CUST00466,Canara Bank,kavyamishra25@phonepe,PhonePe,103.85.33.224,Savings,158671.41
+ACC00479,CUST01134,HDFC Bank,rajeshkumar33@amazonpay,Amazon Pay,103.236.131.50,Savings,238360.74
+ACC00480,CUST00035,Axis Bank,aaraviyer55@whatsapppay,WhatsApp Pay,103.209.39.145,Savings,184003.31
+ACC00481,CUST01092,Kotak Mahindra Bank,rajeshsaxena39@amazonpay,Amazon Pay,103.145.43.96,Savings,238298.72
+ACC00482,CUST00464,ICICI Bank,saiyadav88@amazonpay,Amazon Pay,103.61.72.13,Savings,332140.24
+ACC00483,CUST00608,Bank of Baroda,gaurimehta63@amazonpay,Amazon Pay,103.129.83.35,Current,105347.63
+ACC00484,CUST00154,Punjab National Bank,ishaiyer81@whatsapppay,WhatsApp Pay,103.63.237.188,Savings,335766.88
+ACC00485,CUST00122,Bank of Baroda,ananyaagarwal28@googlepay,Google Pay,103.51.196.249,Savings,332843.26
+ACC00486,CUST00497,Bank of Baroda,manishsaxena92@googlepay,Google Pay,103.161.50.64,Savings,25150.81
+ACC00487,CUST00566,ICICI Bank,rajeshyadav25@bhimupi,BHIM UPI,103.159.242.173,Current,155461.78
+ACC00488,CUST00565,Kotak Mahindra Bank,gaurichoudhary91@phonepe,PhonePe,103.89.135.27,Savings,209657.05
+ACC00489,CUST00476,Canara Bank,rakeshyadav25@paytm,Paytm,103.166.117.40,Savings,342658.04
+ACC00490,CUST00700,Punjab National Bank,aaravagarwal58@phonepe,PhonePe,103.75.29.161,Current,204950.01
+ACC00491,CUST00998,Punjab National Bank,amitverma76@googlepay,Google Pay,103.197.155.246,Savings,127211.01
+ACC00492,CUST01013,Bank of Baroda,aditipandey17@bhimupi,BHIM UPI,103.231.198.72,Savings,256488.7
+ACC00493,CUST00516,Union Bank of India,vivaanmehta63@paytm,Paytm,103.74.252.92,Savings,35845.28
+ACC00494,CUST00995,Axis Bank,ishasingh73@amazonpay,Amazon Pay,103.121.171.69,Savings,273432.21
+ACC00495,CUST01000,Union Bank of India,snehamalhotra82@amazonpay,Amazon Pay,103.142.223.237,Savings,15214.38
+ACC00496,CUST00221,IndusInd Bank,vivaanagarwal22@whatsapppay,WhatsApp Pay,103.40.248.196,Savings,203252.66
+ACC00497,CUST00864,Bank of Baroda,sunilsaxena15@whatsapppay,WhatsApp Pay,103.211.113.219,Savings,302262.24
+ACC00498,CUST00077,Bank of Baroda,manojsingh65@whatsapppay,WhatsApp Pay,103.16.56.146,Savings,220867.19
+ACC00499,CUST00674,HDFC Bank,rakeshagarwal62@paytm,Paytm,103.196.117.218,Current,125826.83
+ACC00500,CUST00705,Kotak Mahindra Bank,rameshjoon45@googlepay,Google Pay,103.22.84.118,Savings,222365.16
+ACC00501,CUST00329,Axis Bank,kavyayadav80@amazonpay,Amazon Pay,103.199.103.193,Savings,285506.57
+ACC00502,CUST01024,HDFC Bank,vivaanmehta55@paytm,Paytm,103.199.207.215,Savings,111128.68
+ACC00503,CUST00627,HDFC Bank,sureshkumar21@whatsapppay,WhatsApp Pay,103.90.160.128,Savings,264919.29
+ACC00504,CUST00415,Punjab National Bank,vihaanverma72@whatsapppay,WhatsApp Pay,103.216.113.230,Savings,56146.47
+ACC00505,CUST00346,Kotak Mahindra Bank,aditimehta24@phonepe,PhonePe,103.89.233.130,Savings,196389.61
+ACC00506,CUST01147,Union Bank of India,rakeshiyer60@googlepay,Google Pay,103.29.51.24,Savings,209490.3
+ACC00507,CUST00829,Punjab National Bank,krishnasharma53@googlepay,Google Pay,103.111.35.236,Savings,295830.82
+ACC00508,CUST00602,IndusInd Bank,manojmehta20@amazonpay,Amazon Pay,103.67.114.212,Savings,192021.53
+ACC00509,CUST00561,State Bank of India,amitbansal38@bhimupi,BHIM UPI,103.66.63.225,Current,226939.32
+ACC00510,CUST00443,ICICI Bank,saisingh47@phonepe,PhonePe,103.15.220.157,Savings,153912.99
+ACC00511,CUST01140,Union Bank of India,ishaanjoon34@amazonpay,Amazon Pay,103.227.133.149,Savings,201622.17
+ACC00512,CUST00793,Punjab National Bank,krishnaverma56@whatsapppay,WhatsApp Pay,103.77.111.95,Current,323964.29
+ACC00513,CUST00481,Kotak Mahindra Bank,amitgupta55@amazonpay,Amazon Pay,103.187.35.83,Savings,345196.4
+ACC00514,CUST00506,Union Bank of India,adityayadav26@amazonpay,Amazon Pay,103.210.253.130,Savings,187608.29
+ACC00515,CUST00215,IndusInd Bank,ishachoudhary54@googlepay,Google Pay,103.175.250.142,Current,78775.35
+ACC00516,CUST00552,IndusInd Bank,manishyadav68@phonepe,PhonePe,103.137.152.112,Savings,348528.11
+ACC00517,CUST00046,Union Bank of India,rakeshkumar81@bhimupi,BHIM UPI,103.239.89.123,Savings,52184.1
+ACC00518,CUST00726,HDFC Bank,ishamishra45@whatsapppay,WhatsApp Pay,103.239.187.8,Savings,172038.03
+ACC00519,CUST00274,Bank of Baroda,gaurimishra94@googlepay,Google Pay,103.147.179.173,Savings,81781.24
+ACC00520,CUST01041,Bank of Baroda,gaurimalhotra79@googlepay,Google Pay,103.160.81.221,Overdraft,213553.25
+ACC00521,CUST00734,IndusInd Bank,manishsharma19@phonepe,PhonePe,103.145.106.187,Savings,68519.33
+ACC00522,CUST00368,ICICI Bank,sureshgupta93@phonepe,PhonePe,103.196.31.85,Salary,331178.43
+ACC00523,CUST01176,Bank of Baroda,rakeshagarwal58@bhimupi,BHIM UPI,103.45.217.88,Savings,109262.79
+ACC00524,CUST00364,Bank of Baroda,sunilsingh73@paytm,Paytm,103.76.103.52,Savings,344979.79
+ACC00525,CUST00168,Kotak Mahindra Bank,ishaagarwal22@bhimupi,BHIM UPI,103.15.226.156,Savings,195216.37
+ACC00526,CUST00765,HDFC Bank,saichoudhary10@googlepay,Google Pay,103.145.4.2,Salary,107539.23
+ACC00527,CUST01164,IndusInd Bank,diyamehta18@paytm,Paytm,103.58.163.159,Salary,187557.29
+ACC00528,CUST00708,HDFC Bank,amitverma29@whatsapppay,WhatsApp Pay,103.156.46.229,Savings,296167.58
+ACC00529,CUST00364,Union Bank of India,sunilsingh66@googlepay,Google Pay,103.19.240.138,Savings,277879.79
+ACC00530,CUST00247,Punjab National Bank,gauripatel23@paytm,Paytm,103.56.152.133,Savings,35352.69
+ACC00531,CUST00396,IndusInd Bank,manojverma88@googlepay,Google Pay,103.126.238.169,Salary,136401.62
+ACC00532,CUST00918,HDFC Bank,poojaagarwal80@whatsapppay,WhatsApp Pay,103.73.94.37,Savings,286246.13
+ACC00533,CUST00386,Bank of Baroda,krishnachauhan55@phonepe,PhonePe,103.132.208.216,Savings,247819.28
+ACC00534,CUST00203,Union Bank of India,aaravgupta94@phonepe,PhonePe,103.144.145.148,Savings,182824.65
+ACC00535,CUST01119,Axis Bank,manishmehta51@paytm,Paytm,103.205.51.75,Savings,149498.56
+ACC00536,CUST00892,Bank of Baroda,vikramgupta72@phonepe,PhonePe,103.36.83.144,Savings,136388.62
+ACC00537,CUST01020,Punjab National Bank,vivaannair99@whatsapppay,WhatsApp Pay,103.222.11.49,Savings,107838.38
+ACC00538,CUST01170,Union Bank of India,manojchoudhary92@googlepay,Google Pay,103.22.137.8,Savings,106379.6
+ACC00539,CUST00386,Kotak Mahindra Bank,krishnachauhan16@amazonpay,Amazon Pay,103.185.224.112,Current,183632.56
+ACC00540,CUST00366,Union Bank of India,priyayadav97@paytm,Paytm,103.64.26.118,Savings,312378.45
+ACC00541,CUST00656,HDFC Bank,vikramgupta36@whatsapppay,WhatsApp Pay,103.156.164.157,Savings,322769.18
+ACC00542,CUST00422,HDFC Bank,ayaanmehta10@paytm,Paytm,103.178.209.235,Salary,344548.49
+ACC00543,CUST00799,Axis Bank,sunilchoudhary61@paytm,Paytm,103.46.154.64,Savings,90735.76
+ACC00544,CUST00866,IndusInd Bank,arjunyadav90@whatsapppay,WhatsApp Pay,103.234.168.189,Savings,143516.59
+ACC00545,CUST00021,Bank of Baroda,ayaangupta58@bhimupi,BHIM UPI,103.240.49.210,Savings,89072.21
+ACC00546,CUST00022,Bank of Baroda,sunilverma99@phonepe,PhonePe,103.42.170.177,Current,223340.17
+ACC00547,CUST00237,ICICI Bank,gaurisingh18@bhimupi,BHIM UPI,103.93.43.242,Savings,334383.36
+ACC00548,CUST00816,Punjab National Bank,rajeshsingh46@amazonpay,Amazon Pay,103.155.67.28,Savings,138519.73
+ACC00549,CUST00414,HDFC Bank,aaravgupta73@amazonpay,Amazon Pay,103.142.10.121,Savings,39436.62
+ACC00550,CUST00078,Bank of Baroda,suniljoon20@googlepay,Google Pay,103.216.18.62,Current,130130.21
+ACC00551,CUST00293,Canara Bank,diyareddy15@amazonpay,Amazon Pay,103.138.197.250,Savings,74045.76
+ACC00552,CUST00652,State Bank of India,ishaanyadav11@amazonpay,Amazon Pay,103.97.221.244,Salary,61847.39
+ACC00553,CUST00947,Axis Bank,snehachauhan17@whatsapppay,WhatsApp Pay,103.49.243.75,Savings,79219.84
+ACC00554,CUST00399,Kotak Mahindra Bank,poojaiyer66@whatsapppay,WhatsApp Pay,103.122.18.216,Savings,185230.53
+ACC00555,CUST01141,ICICI Bank,diyachoudhary80@googlepay,Google Pay,103.24.29.176,Salary,181557.54
+ACC00556,CUST00036,IndusInd Bank,krishnabansal31@whatsapppay,WhatsApp Pay,103.92.95.10,Current,36775.51
+ACC00557,CUST00479,State Bank of India,adityachoudhary10@bhimupi,BHIM UPI,103.218.100.197,Savings,300022.55
+ACC00558,CUST00073,IndusInd Bank,reyanshiyer19@amazonpay,Amazon Pay,103.220.234.122,Savings,225854.16
+ACC00559,CUST00579,IndusInd Bank,rameshagarwal67@bhimupi,BHIM UPI,103.70.175.126,Salary,121128.62
+ACC00560,CUST00932,Canara Bank,ayaanyadav68@googlepay,Google Pay,103.102.58.37,Savings,255977.0
+ACC00561,CUST00796,Punjab National Bank,vihaanverma57@googlepay,Google Pay,103.120.207.77,Current,161246.26
+ACC00562,CUST01109,Axis Bank,adityapandey26@bhimupi,BHIM UPI,103.100.54.242,Current,309325.82
+ACC00563,CUST00944,Canara Bank,snehanair59@bhimupi,BHIM UPI,103.96.84.171,Savings,253296.04
+ACC00564,CUST00422,Axis Bank,ayaanmehta34@googlepay,Google Pay,103.233.187.169,Savings,127513.51
+ACC00565,CUST00949,Union Bank of India,vikramiyer57@bhimupi,BHIM UPI,103.64.101.37,Savings,190218.63
+ACC00566,CUST00927,Punjab National Bank,amitkumar62@amazonpay,Amazon Pay,103.65.87.142,Savings,231048.19
+ACC00567,CUST01060,Bank of Baroda,poojaagarwal66@googlepay,Google Pay,103.62.99.146,Savings,96025.33
+ACC00568,CUST01154,ICICI Bank,ishaansaxena61@whatsapppay,WhatsApp Pay,103.215.51.39,Savings,164268.63
+ACC00569,CUST00268,Canara Bank,poojamishra88@paytm,Paytm,103.166.136.189,Salary,12837.92
+ACC00570,CUST00199,HDFC Bank,krishnaiyer12@phonepe,PhonePe,103.230.223.14,Savings,31936.47
+ACC00571,CUST00731,Axis Bank,snehasharma29@whatsapppay,WhatsApp Pay,103.88.216.17,Salary,318281.34
+ACC00572,CUST01195,Canara Bank,sunilchoudhary53@bhimupi,BHIM UPI,103.84.78.26,Current,56354.44
+ACC00573,CUST00312,ICICI Bank,krishnapatel25@bhimupi,BHIM UPI,103.168.105.41,Savings,220224.53
+ACC00574,CUST00576,Axis Bank,priyagupta94@phonepe,PhonePe,103.123.25.194,Salary,308141.01
+ACC00575,CUST00969,Bank of Baroda,rakeshsingh31@bhimupi,BHIM UPI,103.160.177.253,Current,325864.29
+ACC00576,CUST01198,IndusInd Bank,ananyasaxena67@googlepay,Google Pay,103.135.243.172,Current,310018.55
+ACC00577,CUST00175,Kotak Mahindra Bank,anushkapatel32@phonepe,PhonePe,103.86.174.101,Savings,39284.65
+ACC00578,CUST00404,Kotak Mahindra Bank,anushkagupta20@paytm,Paytm,103.214.127.5,Savings,206817.8
+ACC00579,CUST00347,Kotak Mahindra Bank,rajeshmehta34@paytm,Paytm,103.143.232.235,Savings,111839.36
+ACC00580,CUST00342,State Bank of India,amitsaxena40@whatsapppay,WhatsApp Pay,103.77.115.111,Current,95856.37
+ACC00581,CUST00939,HDFC Bank,saijoon80@paytm,Paytm,103.233.251.238,Savings,257257.12
+ACC00582,CUST00040,Punjab National Bank,aditichoudhary35@bhimupi,BHIM UPI,103.107.100.10,Salary,94964.15
+ACC00583,CUST00769,Kotak Mahindra Bank,sainair75@paytm,Paytm,103.210.109.105,Current,46752.88
+ACC00584,CUST00710,Punjab National Bank,anushkaiyer34@amazonpay,Amazon Pay,103.78.22.234,Savings,235296.87
+ACC00585,CUST00653,Union Bank of India,rakeshmehta12@phonepe,PhonePe,103.216.196.28,Current,62398.97
+ACC00586,CUST00134,ICICI Bank,ayaanchauhan40@amazonpay,Amazon Pay,103.231.20.3,Current,257907.98
+ACC00587,CUST00699,IndusInd Bank,rameshnair29@phonepe,PhonePe,103.233.249.118,Savings,116149.77
+ACC00588,CUST00217,IndusInd Bank,adityakumar17@phonepe,PhonePe,103.61.236.191,Current,65358.4
+ACC00589,CUST00188,State Bank of India,manojagarwal97@bhimupi,BHIM UPI,103.22.184.21,Savings,219095.38
+ACC00590,CUST00395,Canara Bank,aaravverma73@googlepay,Google Pay,103.57.121.74,Savings,207338.31
+ACC00591,CUST00126,Canara Bank,rameshsharma74@googlepay,Google Pay,103.55.250.51,Savings,307422.74
+ACC00592,CUST01179,Axis Bank,poojajoon25@whatsapppay,WhatsApp Pay,103.29.49.48,Current,264822.04
+ACC00593,CUST00467,ICICI Bank,ayaanyadav91@bhimupi,BHIM UPI,103.85.154.106,Current,100248.35
+ACC00594,CUST00874,Punjab National Bank,diyachoudhary40@paytm,Paytm,103.177.228.248,Savings,98866.47
+ACC00595,CUST00331,HDFC Bank,ananyaagarwal18@phonepe,PhonePe,103.197.16.159,Savings,150818.13
+ACC00596,CUST00914,State Bank of India,krishnagupta96@whatsapppay,WhatsApp Pay,103.160.198.235,Savings,244477.55
+ACC00597,CUST00135,IndusInd Bank,rajeshverma50@paytm,Paytm,103.200.208.123,Savings,105436.39
+ACC00598,CUST01002,Kotak Mahindra Bank,arjunpatel34@amazonpay,Amazon Pay,103.53.11.177,Savings,162998.21
+ACC00599,CUST00946,Kotak Mahindra Bank,reyanshyadav69@bhimupi,BHIM UPI,103.128.116.40,Current,262817.95
+ACC00600,CUST00860,State Bank of India,adityachauhan50@googlepay,Google Pay,103.232.162.39,Savings,5375.58
+ACC00601,CUST00354,ICICI Bank,gaurinair33@amazonpay,Amazon Pay,103.14.101.121,Savings,118391.67
+ACC00602,CUST00045,Canara Bank,manojjoon30@bhimupi,BHIM UPI,103.228.141.72,Savings,170543.9
+ACC00603,CUST01023,Bank of Baroda,ishaiyer30@bhimupi,BHIM UPI,103.180.16.91,Savings,23883.67
+ACC00604,CUST00663,Canara Bank,amitsaxena47@amazonpay,Amazon Pay,103.142.242.127,Savings,146012.72
+ACC00605,CUST00027,Punjab National Bank,anushkajoon30@whatsapppay,WhatsApp Pay,103.89.176.159,Savings,43085.66
+ACC00606,CUST00266,Union Bank of India,manojmehta53@paytm,Paytm,103.216.177.222,Current,198082.03
+ACC00607,CUST00970,HDFC Bank,aditichauhan67@phonepe,PhonePe,103.73.54.242,Savings,82086.7
+ACC00608,CUST00641,Canara Bank,manishreddy81@paytm,Paytm,103.213.85.179,Savings,44932.93
+ACC00609,CUST00660,IndusInd Bank,manishpatel85@googlepay,Google Pay,103.218.210.64,Savings,164678.51
+ACC00610,CUST00040,Kotak Mahindra Bank,aditichoudhary22@amazonpay,Amazon Pay,103.47.160.83,Savings,172083.7
+ACC00611,CUST00545,HDFC Bank,anushkareddy59@bhimupi,BHIM UPI,103.212.198.71,Current,127641.97
+ACC00612,CUST00121,Canara Bank,aaravbansal38@googlepay,Google Pay,103.93.92.212,Savings,196876.33
+ACC00613,CUST00559,Kotak Mahindra Bank,adityagupta50@bhimupi,BHIM UPI,103.147.52.211,Savings,66274.17
+ACC00614,CUST00247,Punjab National Bank,gauripatel17@whatsapppay,WhatsApp Pay,103.59.135.205,Current,87255.15
+ACC00615,CUST00771,Bank of Baroda,ishagupta11@whatsapppay,WhatsApp Pay,103.62.37.76,Savings,228246.42
+ACC00616,CUST00864,HDFC Bank,sunilsaxena69@paytm,Paytm,103.47.115.161,Current,55363.96
+ACC00617,CUST00910,Kotak Mahindra Bank,gaurikumar45@phonepe,PhonePe,103.60.181.156,Savings,57433.93
+ACC00618,CUST00264,Kotak Mahindra Bank,vihaanbansal25@phonepe,PhonePe,103.93.142.123,Savings,110686.42
+ACC00619,CUST00769,Union Bank of India,sainair90@phonepe,PhonePe,103.92.102.46,Savings,292707.63
+ACC00620,CUST00071,Punjab National Bank,manojbansal82@paytm,Paytm,103.20.227.131,Current,251185.95
+ACC00621,CUST00271,Canara Bank,rameshreddy18@phonepe,PhonePe,103.36.134.42,Savings,82637.25
+ACC00622,CUST00738,Kotak Mahindra Bank,rameshmishra20@paytm,Paytm,103.202.18.127,Savings,22221.58
+ACC00623,CUST00853,Bank of Baroda,anushkakumar29@whatsapppay,WhatsApp Pay,103.32.209.54,Savings,40779.58
+ACC00624,CUST00535,Axis Bank,snehasingh17@googlepay,Google Pay,103.152.7.14,Savings,244202.08
+ACC00625,CUST00981,State Bank of India,ishaanagarwal38@phonepe,PhonePe,103.49.245.223,Current,112150.93
+ACC00626,CUST00794,Bank of Baroda,adityachoudhary75@phonepe,PhonePe,103.136.7.172,Current,145521.08
+ACC00627,CUST00140,State Bank of India,anushkapatel85@googlepay,Google Pay,103.68.150.126,Savings,245787.56
+ACC00628,CUST01192,Kotak Mahindra Bank,ananyanair31@amazonpay,Amazon Pay,103.48.138.2,Savings,260616.74
+ACC00629,CUST00577,Punjab National Bank,sureshmishra57@amazonpay,Amazon Pay,103.50.214.52,Savings,90069.24
+ACC00630,CUST00401,Kotak Mahindra Bank,ayaanpandey60@paytm,Paytm,103.83.116.8,Savings,338723.3
+ACC00631,CUST01049,Bank of Baroda,krishnanair33@googlepay,Google Pay,103.109.206.28,Savings,306044.89
+ACC00632,CUST00410,IndusInd Bank,manishkumar48@whatsapppay,WhatsApp Pay,103.182.55.227,Current,106528.03
+ACC00633,CUST00950,State Bank of India,vikramchauhan90@whatsapppay,WhatsApp Pay,103.237.227.216,Savings,179129.23
+ACC00634,CUST00635,State Bank of India,kavyachauhan33@googlepay,Google Pay,103.62.128.243,Current,252129.26
+ACC00635,CUST00938,Bank of Baroda,deepakbansal31@amazonpay,Amazon Pay,103.132.144.153,Salary,345380.03
+ACC00636,CUST00509,HDFC Bank,ananyajoon23@amazonpay,Amazon Pay,103.228.8.159,Current,4418.56
+ACC00637,CUST00562,State Bank of India,adityareddy66@paytm,Paytm,103.155.247.41,Savings,129133.39
+ACC00638,CUST00391,Bank of Baroda,sunilsharma57@whatsapppay,WhatsApp Pay,103.116.168.6,Savings,12729.97
+ACC00639,CUST00246,Punjab National Bank,gaurimishra43@googlepay,Google Pay,103.237.252.205,Savings,42553.59
+ACC00640,CUST00063,Canara Bank,ananyaiyer11@googlepay,Google Pay,103.195.61.117,Savings,203132.06
+ACC00641,CUST01142,Punjab National Bank,anushkakumar12@paytm,Paytm,103.132.17.188,Current,75808.71
+ACC00642,CUST00815,Bank of Baroda,saiagarwal14@phonepe,PhonePe,103.222.120.106,Savings,5137.54
+ACC00643,CUST00091,HDFC Bank,diyamehta46@paytm,Paytm,103.61.206.69,Current,95550.87
+ACC00644,CUST00386,Axis Bank,krishnachauhan67@whatsapppay,WhatsApp Pay,103.176.12.224,Current,300020.88
+ACC00645,CUST01145,Canara Bank,anushkasharma16@googlepay,Google Pay,103.32.154.95,Savings,165630.08
+ACC00646,CUST00336,Kotak Mahindra Bank,manishgupta57@whatsapppay,WhatsApp Pay,103.148.38.83,Current,121702.32
+ACC00647,CUST00357,IndusInd Bank,ishamehta57@bhimupi,BHIM UPI,103.98.197.75,Savings,235593.95
+ACC00648,CUST01013,Union Bank of India,aditipandey56@bhimupi,BHIM UPI,103.32.155.65,Salary,116815.02
+ACC00649,CUST00735,Canara Bank,snehamalhotra79@bhimupi,BHIM UPI,103.52.228.11,Current,321445.39
+ACC00650,CUST00298,IndusInd Bank,snehaverma79@paytm,Paytm,103.200.41.218,Savings,49262.69
+ACC00651,CUST00422,Bank of Baroda,ayaanmehta63@phonepe,PhonePe,103.138.140.11,Current,201624.87
+ACC00652,CUST00522,Union Bank of India,krishnareddy31@whatsapppay,WhatsApp Pay,103.185.182.202,Current,41364.01
+ACC00653,CUST00765,Union Bank of India,saichoudhary76@bhimupi,BHIM UPI,103.110.57.148,Savings,143095.46
+ACC00654,CUST00218,Axis Bank,diyaiyer92@whatsapppay,WhatsApp Pay,103.223.178.230,Savings,250812.56
+ACC00655,CUST01034,HDFC Bank,vihaanpandey28@bhimupi,BHIM UPI,103.187.244.79,Salary,142438.89
+ACC00656,CUST00429,Union Bank of India,ananyasingh22@whatsapppay,WhatsApp Pay,103.58.7.5,Salary,42815.9
+ACC00657,CUST00381,HDFC Bank,ayaanyadav42@phonepe,PhonePe,103.40.109.242,Savings,141348.78
+ACC00658,CUST00615,Kotak Mahindra Bank,vivaanreddy57@bhimupi,BHIM UPI,103.119.159.151,Savings,222509.25
+ACC00659,CUST00086,Canara Bank,ishapandey73@phonepe,PhonePe,103.17.66.180,Savings,279342.19
+ACC00660,CUST01104,HDFC Bank,ananyachauhan98@bhimupi,BHIM UPI,103.235.90.243,Savings,171862.81
+ACC00661,CUST00056,Bank of Baroda,kavyasaxena72@phonepe,PhonePe,103.32.122.65,Current,29496.16
+ACC00662,CUST00193,Canara Bank,rameshagarwal53@bhimupi,BHIM UPI,103.130.9.83,Savings,272118.74
+ACC00663,CUST00925,Axis Bank,ishaangupta62@amazonpay,Amazon Pay,103.185.33.152,Savings,273401.8
+ACC00664,CUST01037,Canara Bank,vihaanpandey74@phonepe,PhonePe,103.80.179.145,Savings,323780.68
+ACC00665,CUST00100,Punjab National Bank,manojyadav25@amazonpay,Amazon Pay,103.135.45.231,Savings,298817.49
+ACC00666,CUST00082,Punjab National Bank,anushkanair52@amazonpay,Amazon Pay,103.185.40.248,Savings,70093.52
+ACC00667,CUST00996,Axis Bank,diyamehta59@phonepe,PhonePe,103.216.168.232,Current,132163.5
+ACC00668,CUST00620,ICICI Bank,gaurigupta53@googlepay,Google Pay,103.159.217.127,Current,155910.91
+ACC00669,CUST00238,HDFC Bank,anushkachauhan27@googlepay,Google Pay,103.164.145.7,Savings,128653.14
+ACC00670,CUST00881,State Bank of India,vihaanyadav77@whatsapppay,WhatsApp Pay,103.104.163.140,Current,166043.47
+ACC00671,CUST00572,Bank of Baroda,rajeshmishra99@amazonpay,Amazon Pay,103.26.23.68,Savings,232813.46
+ACC00672,CUST00973,Bank of Baroda,rajeshmishra41@amazonpay,Amazon Pay,103.234.36.31,Salary,30688.95
+ACC00673,CUST00383,Axis Bank,vivaanjoon94@bhimupi,BHIM UPI,103.105.143.68,Overdraft,339817.45
+ACC00674,CUST00380,IndusInd Bank,arjunmalhotra24@bhimupi,BHIM UPI,103.69.52.38,Savings,261451.43
+ACC00675,CUST00801,State Bank of India,saipandey17@paytm,Paytm,103.13.29.135,Savings,205157.71
+ACC00676,CUST00019,Punjab National Bank,arjunchoudhary50@googlepay,Google Pay,103.230.123.206,Salary,232580.71
+ACC00677,CUST00980,Canara Bank,aaravreddy22@googlepay,Google Pay,103.151.163.161,Savings,281452.55
+ACC00678,CUST00300,ICICI Bank,sunilagarwal28@amazonpay,Amazon Pay,103.27.123.132,Current,25870.24
+ACC00679,CUST00338,Axis Bank,priyareddy62@whatsapppay,WhatsApp Pay,103.102.241.58,Current,142533.82
+ACC00680,CUST00885,State Bank of India,ishaanmehta60@paytm,Paytm,103.181.186.239,Savings,157715.0
+ACC00681,CUST00461,ICICI Bank,manishverma88@bhimupi,BHIM UPI,103.140.228.105,Salary,264522.84
+ACC00682,CUST00323,Axis Bank,adityayadav76@amazonpay,Amazon Pay,103.207.20.111,Savings,146352.09
+ACC00683,CUST01151,HDFC Bank,poojamehta28@whatsapppay,WhatsApp Pay,103.20.95.72,Current,162845.23
+ACC00684,CUST00700,Punjab National Bank,aaravagarwal87@amazonpay,Amazon Pay,103.88.219.243,Savings,170981.73
+ACC00685,CUST01148,IndusInd Bank,ayaansingh94@amazonpay,Amazon Pay,103.45.121.87,Current,171641.6
+ACC00686,CUST00702,Union Bank of India,diyamehta88@amazonpay,Amazon Pay,103.74.162.69,Savings,306225.66
+ACC00687,CUST01052,Axis Bank,vikrammehta51@paytm,Paytm,103.154.49.90,Salary,67550.37
+ACC00688,CUST00687,Union Bank of India,rameshmishra62@whatsapppay,WhatsApp Pay,103.163.109.172,Savings,269025.76
+ACC00689,CUST00286,Punjab National Bank,ishaaniyer97@googlepay,Google Pay,103.192.139.142,Savings,279411.71
+ACC00690,CUST01192,Union Bank of India,ananyanair25@googlepay,Google Pay,103.234.75.164,Current,209546.87
+ACC00691,CUST00691,ICICI Bank,poojasharma73@whatsapppay,WhatsApp Pay,103.110.124.184,Savings,199082.19
+ACC00692,CUST01101,Kotak Mahindra Bank,aaravsingh42@googlepay,Google Pay,103.74.32.248,Savings,192963.86
+ACC00693,CUST00806,State Bank of India,ayaangupta34@phonepe,PhonePe,103.75.238.127,Current,346803.39
+ACC00694,CUST01196,Punjab National Bank,aaravpatel82@amazonpay,Amazon Pay,103.78.14.252,Savings,343602.98
+ACC00695,CUST00222,Canara Bank,priyabansal59@bhimupi,BHIM UPI,103.45.47.32,Savings,280554.28
+ACC00696,CUST00112,State Bank of India,rajeshagarwal45@phonepe,PhonePe,103.147.69.33,Savings,324048.86
+ACC00697,CUST00867,Axis Bank,manojjoon94@phonepe,PhonePe,103.12.29.87,Savings,251990.4
+ACC00698,CUST00583,Bank of Baroda,aaravreddy39@googlepay,Google Pay,103.164.147.193,Savings,193639.22
+ACC00699,CUST00485,ICICI Bank,reyanshsharma80@phonepe,PhonePe,103.205.57.44,Savings,288879.22
+ACC00700,CUST00417,Union Bank of India,vivaanagarwal12@amazonpay,Amazon Pay,103.33.147.190,Salary,340943.06
+ACC00701,CUST00996,HDFC Bank,diyamehta41@phonepe,PhonePe,103.66.62.118,Current,312213.87
+ACC00702,CUST00452,Punjab National Bank,vihaannair10@phonepe,PhonePe,103.88.112.149,Savings,297431.55
+ACC00703,CUST00914,Axis Bank,krishnagupta22@googlepay,Google Pay,103.114.183.114,Current,258837.95
+ACC00704,CUST00788,IndusInd Bank,vihaanmishra12@bhimupi,BHIM UPI,103.79.53.226,Savings,153109.28
+ACC00705,CUST01074,Kotak Mahindra Bank,kavyamishra12@paytm,Paytm,103.167.100.215,Savings,72311.62
+ACC00706,CUST00296,HDFC Bank,ayaanyadav99@amazonpay,Amazon Pay,103.53.202.104,Savings,110317.02
+ACC00707,CUST00830,Punjab National Bank,ayaansaxena47@googlepay,Google Pay,103.107.154.225,Current,8984.45
+ACC00708,CUST01154,Axis Bank,ishaansaxena99@whatsapppay,WhatsApp Pay,103.192.205.6,Savings,121141.86
+ACC00709,CUST00781,State Bank of India,amitnair65@bhimupi,BHIM UPI,103.118.23.112,Current,80380.61
+ACC00710,CUST00751,Punjab National Bank,adityachoudhary30@bhimupi,BHIM UPI,103.228.150.166,Savings,186062.33
+ACC00711,CUST00401,State Bank of India,ayaanpandey56@bhimupi,BHIM UPI,103.68.24.182,Savings,32785.68
+ACC00712,CUST01133,State Bank of India,kavyamalhotra20@paytm,Paytm,103.75.116.39,Savings,300545.84
+ACC00713,CUST00571,ICICI Bank,sainair62@googlepay,Google Pay,103.143.18.60,Savings,217520.15
+ACC00714,CUST01173,ICICI Bank,sureshmishra80@paytm,Paytm,103.118.230.43,Savings,282801.19
+ACC00715,CUST00401,IndusInd Bank,ayaanpandey19@whatsapppay,WhatsApp Pay,103.35.69.210,Savings,187116.69
+ACC00716,CUST00948,Union Bank of India,aaravsingh32@paytm,Paytm,103.57.63.202,Savings,299464.86
+ACC00717,CUST00558,Union Bank of India,vihaanmehta74@phonepe,PhonePe,103.24.101.35,Savings,164438.88
+ACC00718,CUST00271,Axis Bank,rameshreddy57@amazonpay,Amazon Pay,103.81.119.63,Savings,248718.11
+ACC00719,CUST00509,ICICI Bank,ananyajoon87@whatsapppay,WhatsApp Pay,103.27.252.97,Current,100877.27
+ACC00720,CUST01084,Canara Bank,reyanshsharma60@whatsapppay,WhatsApp Pay,103.195.104.228,Savings,336755.66
+ACC00721,CUST01065,Kotak Mahindra Bank,priyakumar83@amazonpay,Amazon Pay,103.201.104.193,Current,327936.1
+ACC00722,CUST00342,Union Bank of India,amitsaxena26@bhimupi,BHIM UPI,103.62.19.154,Current,294760.13
+ACC00723,CUST00237,IndusInd Bank,gaurisingh58@bhimupi,BHIM UPI,103.105.7.81,Savings,262733.83
+ACC00724,CUST00442,Bank of Baroda,kavyagupta28@whatsapppay,WhatsApp Pay,103.161.203.195,Savings,227350.43
+ACC00725,CUST00619,Bank of Baroda,anushkabansal28@googlepay,Google Pay,103.68.232.113,Savings,140034.1
+ACC00726,CUST00953,Kotak Mahindra Bank,arjunpandey69@googlepay,Google Pay,103.23.63.243,Savings,224187.99
+ACC00727,CUST00208,Punjab National Bank,aditimishra16@paytm,Paytm,103.108.228.168,Savings,27804.16
+ACC00728,CUST00603,Kotak Mahindra Bank,rakeshchauhan80@amazonpay,Amazon Pay,103.232.217.123,Savings,116342.6
+ACC00729,CUST00636,Union Bank of India,anushkayadav11@googlepay,Google Pay,103.47.191.183,Overdraft,21430.49
+ACC00730,CUST01044,Axis Bank,adityamishra76@whatsapppay,WhatsApp Pay,103.124.104.86,Savings,161371.69
+ACC00731,CUST00669,Punjab National Bank,priyasaxena16@paytm,Paytm,103.159.32.227,Current,170887.13
+ACC00732,CUST01053,State Bank of India,deepakgupta80@whatsapppay,WhatsApp Pay,103.154.130.18,Current,54088.84
+ACC00733,CUST00774,Kotak Mahindra Bank,priyakumar66@whatsapppay,WhatsApp Pay,103.172.69.37,Current,320290.69
+ACC00734,CUST00191,IndusInd Bank,diyasingh45@bhimupi,BHIM UPI,103.20.12.78,Savings,46963.24
+ACC00735,CUST00857,IndusInd Bank,adityapandey63@googlepay,Google Pay,103.236.39.110,Current,89674.18
+ACC00736,CUST00432,State Bank of India,ananyaagarwal30@phonepe,PhonePe,103.77.187.124,Current,77073.51
+ACC00737,CUST00340,Canara Bank,snehaverma20@phonepe,PhonePe,103.217.231.88,Savings,342820.62
+ACC00738,CUST00961,Punjab National Bank,priyachauhan81@amazonpay,Amazon Pay,103.240.209.190,Savings,232897.05
+ACC00739,CUST01079,ICICI Bank,anushkaverma97@whatsapppay,WhatsApp Pay,103.160.134.175,Current,208050.69
+ACC00740,CUST00503,Axis Bank,vihaanbansal65@phonepe,PhonePe,103.94.241.131,Savings,340480.02
+ACC00741,CUST00829,State Bank of India,krishnasharma48@amazonpay,Amazon Pay,103.75.28.211,Current,78657.01
+ACC00742,CUST00449,Axis Bank,reyanshchauhan29@bhimupi,BHIM UPI,103.188.139.130,Salary,260011.99
+ACC00743,CUST00859,IndusInd Bank,diyareddy48@paytm,Paytm,103.51.160.124,Savings,232177.38
+ACC00744,CUST00643,State Bank of India,manojkumar61@bhimupi,BHIM UPI,103.49.107.122,Current,117158.16
+ACC00745,CUST00759,HDFC Bank,deepaksharma40@paytm,Paytm,103.135.238.246,Savings,75302.99
+ACC00746,CUST00881,Axis Bank,vihaanyadav41@paytm,Paytm,103.52.87.41,Savings,207909.39
+ACC00747,CUST00170,HDFC Bank,snehaverma20@phonepe,PhonePe,103.12.39.139,Current,313855.17
+ACC00748,CUST00312,State Bank of India,krishnapatel70@phonepe,PhonePe,103.44.75.252,Savings,237719.53
+ACC00749,CUST00732,IndusInd Bank,anushkapandey15@phonepe,PhonePe,103.89.85.26,Savings,204210.79
+ACC00750,CUST00081,IndusInd Bank,kavyamehta34@phonepe,PhonePe,103.239.101.211,Current,38084.7
+ACC00751,CUST00597,IndusInd Bank,adityamishra19@amazonpay,Amazon Pay,103.82.36.17,Current,298412.21
+ACC00752,CUST00323,Union Bank of India,adityayadav73@phonepe,PhonePe,103.186.73.9,Savings,118860.83
+ACC00753,CUST00334,Canara Bank,ananyareddy55@bhimupi,BHIM UPI,103.88.76.168,Salary,140682.36
+ACC00754,CUST00482,Punjab National Bank,anushkayadav51@whatsapppay,WhatsApp Pay,103.128.39.181,Savings,28268.87
+ACC00755,CUST00242,ICICI Bank,ishasingh67@phonepe,PhonePe,103.195.19.73,Savings,240860.17
+ACC00756,CUST01187,Axis Bank,sureshiyer71@whatsapppay,WhatsApp Pay,103.41.239.165,Savings,235238.42
+ACC00757,CUST00620,Axis Bank,gaurigupta93@bhimupi,BHIM UPI,103.50.101.50,Savings,17594.81
+ACC00758,CUST00517,Bank of Baroda,reyanshmalhotra73@googlepay,Google Pay,103.111.201.182,Savings,157639.48
+ACC00759,CUST00670,Bank of Baroda,diyasaxena50@whatsapppay,WhatsApp Pay,103.202.146.223,Salary,3099.83
+ACC00760,CUST00337,Punjab National Bank,vikrambansal21@bhimupi,BHIM UPI,103.95.38.11,Savings,84388.17
+ACC00761,CUST01015,Punjab National Bank,rakeshverma33@googlepay,Google Pay,103.207.3.162,Savings,120365.57
+ACC00762,CUST00764,Kotak Mahindra Bank,gaurikumar23@phonepe,PhonePe,103.221.249.129,Savings,52158.14
+ACC00763,CUST01035,Punjab National Bank,anushkagupta60@amazonpay,Amazon Pay,103.161.157.238,Current,152510.71
+ACC00764,CUST00081,Canara Bank,kavyamehta85@whatsapppay,WhatsApp Pay,103.147.194.117,Savings,116745.59
+ACC00765,CUST00835,IndusInd Bank,aaravgupta18@whatsapppay,WhatsApp Pay,103.234.107.238,Savings,309586.55
+ACC00766,CUST01172,Axis Bank,deepakmalhotra85@paytm,Paytm,103.77.77.229,Savings,14029.31
+ACC00767,CUST00470,IndusInd Bank,vikrammalhotra60@paytm,Paytm,103.145.59.11,Savings,287616.74
+ACC00768,CUST00490,Bank of Baroda,krishnapandey65@phonepe,PhonePe,103.29.206.206,Savings,285141.42
+ACC00769,CUST01120,Bank of Baroda,saisaxena74@phonepe,PhonePe,103.197.204.197,Current,107518.34
+ACC00770,CUST00105,Canara Bank,amityadav37@amazonpay,Amazon Pay,103.151.74.200,Savings,82574.28
+ACC00771,CUST00797,Union Bank of India,arjunsharma52@whatsapppay,WhatsApp Pay,103.177.52.4,Savings,28347.07
+ACC00772,CUST00503,Canara Bank,vihaanbansal22@phonepe,PhonePe,103.201.188.67,Savings,102664.66
+ACC00773,CUST00527,Bank of Baroda,reyanshyadav64@googlepay,Google Pay,103.51.93.25,Savings,101428.09
+ACC00774,CUST01111,Union Bank of India,saichauhan18@whatsapppay,WhatsApp Pay,103.49.224.32,Savings,1663.21
+ACC00775,CUST00491,HDFC Bank,vivaanmalhotra32@paytm,Paytm,103.125.87.32,Savings,292399.36
+ACC00776,CUST01095,Canara Bank,ayaansaxena25@amazonpay,Amazon Pay,103.167.72.202,Savings,276255.51
+ACC00777,CUST00724,ICICI Bank,sunilchauhan34@bhimupi,BHIM UPI,103.74.186.5,Savings,217309.52
+ACC00778,CUST00177,HDFC Bank,adityamishra28@googlepay,Google Pay,103.143.209.177,Savings,167802.28
+ACC00779,CUST00720,State Bank of India,sureshverma59@paytm,Paytm,103.120.27.207,Current,284227.4
+ACC00780,CUST00435,ICICI Bank,rakeshsharma89@googlepay,Google Pay,103.208.151.192,Savings,341659.97
+ACC00781,CUST00465,Canara Bank,saisaxena68@amazonpay,Amazon Pay,103.174.95.51,Savings,13214.63
+ACC00782,CUST00386,State Bank of India,krishnachauhan55@amazonpay,Amazon Pay,103.180.240.96,Savings,145729.02
+ACC00783,CUST00016,Kotak Mahindra Bank,aditimalhotra20@bhimupi,BHIM UPI,103.34.153.134,Savings,41214.62
+ACC00784,CUST00279,Canara Bank,anushkamalhotra80@bhimupi,BHIM UPI,103.195.195.88,Overdraft,283884.84
+ACC00785,CUST00650,Axis Bank,poojasingh78@paytm,Paytm,103.85.10.220,Current,328697.49
+ACC00786,CUST00281,Punjab National Bank,rakeshsharma29@bhimupi,BHIM UPI,103.227.106.252,Savings,186071.33
+ACC00787,CUST00154,Canara Bank,ishaiyer48@paytm,Paytm,103.16.252.73,Savings,249274.21
+ACC00788,CUST00282,Union Bank of India,vivaannair86@amazonpay,Amazon Pay,103.102.30.25,Current,268915.57
+ACC00789,CUST00652,HDFC Bank,ishaanyadav83@googlepay,Google Pay,103.214.21.60,Savings,109365.24
+ACC00790,CUST01127,Union Bank of India,vihaanpandey80@phonepe,PhonePe,103.232.177.140,Salary,193552.18
+ACC00791,CUST00610,HDFC Bank,krishnachoudhary15@bhimupi,BHIM UPI,103.234.108.24,Savings,94532.34
+ACC00792,CUST00107,ICICI Bank,ananyakumar22@phonepe,PhonePe,103.160.2.28,Salary,15362.43
+ACC00793,CUST00740,Bank of Baroda,vihaansharma23@amazonpay,Amazon Pay,103.161.241.144,Savings,87027.73
+ACC00794,CUST00685,ICICI Bank,ishaaniyer93@googlepay,Google Pay,103.189.222.27,Salary,6387.5
+ACC00795,CUST00448,ICICI Bank,gauriverma97@googlepay,Google Pay,103.114.2.175,Savings,96023.39
+ACC00796,CUST00385,Canara Bank,poojamehta40@amazonpay,Amazon Pay,103.64.157.171,Savings,288846.37
+ACC00797,CUST00600,Kotak Mahindra Bank,gaurijoon61@googlepay,Google Pay,103.115.234.149,Salary,87536.22
+ACC00798,CUST00256,Bank of Baroda,poojakumar92@paytm,Paytm,103.10.251.30,Savings,67312.15
+ACC00799,CUST00519,ICICI Bank,aditiverma33@amazonpay,Amazon Pay,103.158.31.248,Current,46790.78
+ACC00800,CUST00083,Axis Bank,krishnaiyer15@googlepay,Google Pay,103.185.102.35,Current,97153.9
+ACC00801,CUST00231,IndusInd Bank,manishmalhotra93@phonepe,PhonePe,103.38.213.179,Savings,37880.3
+ACC00802,CUST00423,Canara Bank,amitjoon28@googlepay,Google Pay,103.211.32.223,Current,342048.88
+ACC00803,CUST00776,Union Bank of India,saisaxena45@whatsapppay,WhatsApp Pay,103.61.220.163,Savings,136529.26
+ACC00804,CUST00386,Axis Bank,krishnachauhan72@bhimupi,BHIM UPI,103.121.13.65,Salary,162522.09
+ACC00805,CUST00126,State Bank of India,rameshsharma68@whatsapppay,WhatsApp Pay,103.62.106.29,Savings,49673.9
+ACC00806,CUST00573,ICICI Bank,aditireddy11@bhimupi,BHIM UPI,103.205.136.17,Savings,122071.12
+ACC00807,CUST00460,Canara Bank,gauribansal98@googlepay,Google Pay,103.224.123.247,Current,56580.17
+ACC00808,CUST00452,Canara Bank,vihaannair12@googlepay,Google Pay,103.175.125.99,Current,332006.11
+ACC00809,CUST01044,ICICI Bank,adityamishra44@phonepe,PhonePe,103.143.66.177,Current,301769.84
+ACC00810,CUST01058,Punjab National Bank,saipandey61@whatsapppay,WhatsApp Pay,103.155.246.227,Savings,314622.1
+ACC00811,CUST00517,Axis Bank,reyanshmalhotra81@whatsapppay,WhatsApp Pay,103.157.205.237,Current,64440.06
+ACC00812,CUST01018,Union Bank of India,sunilreddy29@phonepe,PhonePe,103.93.197.177,Salary,147194.29
+ACC00813,CUST00699,State Bank of India,rameshnair34@bhimupi,BHIM UPI,103.197.79.185,Savings,88283.12
+ACC00814,CUST00557,IndusInd Bank,arjunkumar90@googlepay,Google Pay,103.225.246.155,Savings,125232.18
+ACC00815,CUST00779,Canara Bank,vikramiyer35@amazonpay,Amazon Pay,103.93.12.220,Current,165248.65
+ACC00816,CUST00494,Union Bank of India,deepakmalhotra73@paytm,Paytm,103.153.5.177,Savings,198023.06
+ACC00817,CUST00281,Axis Bank,rakeshsharma15@bhimupi,BHIM UPI,103.115.137.190,Savings,238495.78
+ACC00818,CUST01124,Canara Bank,sureshchauhan27@whatsapppay,WhatsApp Pay,103.64.56.95,Savings,90131.56
+ACC00819,CUST00838,HDFC Bank,diyaiyer92@paytm,Paytm,103.125.229.54,Savings,323286.72
+ACC00820,CUST00244,HDFC Bank,aaravmalhotra86@paytm,Paytm,103.171.241.195,Savings,166866.36
+ACC00821,CUST00568,Union Bank of India,ishachoudhary94@googlepay,Google Pay,103.196.2.238,Current,286064.36
+ACC00822,CUST00444,Bank of Baroda,krishnagupta22@paytm,Paytm,103.159.59.237,Savings,532.47
+ACC00823,CUST00715,Kotak Mahindra Bank,kavyasingh81@bhimupi,BHIM UPI,103.16.190.25,Savings,200310.63
+ACC00824,CUST00564,Axis Bank,ayaangupta30@googlepay,Google Pay,103.21.188.46,Savings,73570.29
+ACC00825,CUST00272,Punjab National Bank,ananyajoon17@bhimupi,BHIM UPI,103.67.159.35,Savings,254147.47
+ACC00826,CUST00419,Kotak Mahindra Bank,ayaanpandey48@whatsapppay,WhatsApp Pay,103.120.40.177,Current,315454.19
+ACC00827,CUST00971,Bank of Baroda,kavyagupta31@phonepe,PhonePe,103.146.45.176,Savings,147414.65
+ACC00828,CUST00174,ICICI Bank,sunilnair19@googlepay,Google Pay,103.37.112.59,Savings,58583.12
+ACC00829,CUST01066,Union Bank of India,adityaagarwal77@whatsapppay,WhatsApp Pay,103.161.231.247,Salary,344550.43
+ACC00830,CUST00928,ICICI Bank,arjunmalhotra78@amazonpay,Amazon Pay,103.65.245.115,Savings,214026.59
+ACC00831,CUST00912,Punjab National Bank,rajeshgupta43@paytm,Paytm,103.197.205.198,Savings,69096.24
+ACC00832,CUST00606,Bank of Baroda,ananyachoudhary69@amazonpay,Amazon Pay,103.233.149.30,Salary,44809.24
+ACC00833,CUST00111,Axis Bank,reyanshyadav99@whatsapppay,WhatsApp Pay,103.229.29.144,Savings,318311.88
+ACC00834,CUST01190,ICICI Bank,vivaankumar76@phonepe,PhonePe,103.234.60.205,Savings,317846.44
+ACC00835,CUST01042,IndusInd Bank,aaravnair19@amazonpay,Amazon Pay,103.151.22.87,Savings,33191.02
+ACC00836,CUST00535,Kotak Mahindra Bank,snehasingh27@amazonpay,Amazon Pay,103.21.110.126,Current,72252.48
+ACC00837,CUST00452,HDFC Bank,vihaannair28@amazonpay,Amazon Pay,103.28.109.185,Savings,28514.83
+ACC00838,CUST00660,Canara Bank,manishpatel97@googlepay,Google Pay,103.226.87.8,Savings,4529.6
+ACC00839,CUST00056,State Bank of India,kavyasaxena13@whatsapppay,WhatsApp Pay,103.52.194.191,Savings,205251.27
+ACC00840,CUST00170,Axis Bank,snehaverma22@bhimupi,BHIM UPI,103.238.138.166,Savings,275719.29
+ACC00841,CUST00053,ICICI Bank,manojkumar50@paytm,Paytm,103.39.204.235,Savings,101806.7
+ACC00842,CUST00599,Punjab National Bank,amitkumar20@googlepay,Google Pay,103.47.154.172,Savings,167134.03
+ACC00843,CUST01006,Union Bank of India,rameshiyer29@phonepe,PhonePe,103.205.74.129,Savings,15339.71
+ACC00844,CUST00778,Canara Bank,krishnayadav74@phonepe,PhonePe,103.16.12.154,Savings,231881.97
+ACC00845,CUST00504,Bank of Baroda,ishasaxena91@paytm,Paytm,103.102.186.133,Savings,52910.53
+ACC00846,CUST00774,IndusInd Bank,priyakumar40@phonepe,PhonePe,103.214.69.131,Savings,112913.33
+ACC00847,CUST00101,Kotak Mahindra Bank,rajeshbansal31@paytm,Paytm,103.106.187.11,Current,14261.91
+ACC00848,CUST00963,State Bank of India,vihaanreddy36@bhimupi,BHIM UPI,103.164.220.158,Savings,216522.84
+ACC00849,CUST00035,IndusInd Bank,aaraviyer77@whatsapppay,WhatsApp Pay,103.26.16.69,Savings,324884.44
+ACC00850,CUST00803,Punjab National Bank,rakeshsaxena25@amazonpay,Amazon Pay,103.145.190.2,Current,256783.11
+ACC00851,CUST00364,Union Bank of India,sunilsingh73@bhimupi,BHIM UPI,103.73.133.50,Current,267466.56
+ACC00852,CUST01083,HDFC Bank,saijoon44@bhimupi,BHIM UPI,103.182.17.37,Savings,216866.6
+ACC00853,CUST00605,ICICI Bank,vikramchoudhary83@amazonpay,Amazon Pay,103.180.188.79,Savings,55928.21
+ACC00854,CUST00498,Bank of Baroda,rameshyadav26@whatsapppay,WhatsApp Pay,103.195.217.136,Savings,36880.47
+ACC00855,CUST00516,HDFC Bank,vivaanmehta15@bhimupi,BHIM UPI,103.84.243.252,Current,55256.87
+ACC00856,CUST00766,Punjab National Bank,arjunbansal33@phonepe,PhonePe,103.68.185.173,Savings,190442.49
+ACC00857,CUST00383,Punjab National Bank,vivaanjoon12@googlepay,Google Pay,103.130.97.79,Savings,98285.78
+ACC00858,CUST00596,Union Bank of India,manojreddy77@amazonpay,Amazon Pay,103.15.198.58,Savings,129245.94
+ACC00859,CUST01139,Union Bank of India,aditisaxena32@amazonpay,Amazon Pay,103.80.85.186,Current,163256.1
+ACC00860,CUST00127,Kotak Mahindra Bank,arjunjoon47@phonepe,PhonePe,103.24.219.75,Savings,320811.82
+ACC00861,CUST00428,Kotak Mahindra Bank,sureshmishra77@googlepay,Google Pay,103.90.227.182,Savings,255093.63
+ACC00862,CUST00290,HDFC Bank,amitverma22@phonepe,PhonePe,103.126.135.120,Current,275686.89
+ACC00863,CUST01115,State Bank of India,ishamehta35@amazonpay,Amazon Pay,103.33.162.174,Savings,76265.4
+ACC00864,CUST00830,Kotak Mahindra Bank,ayaansaxena15@googlepay,Google Pay,103.228.9.186,Current,29810.92
+ACC00865,CUST01035,Canara Bank,anushkagupta59@paytm,Paytm,103.138.220.105,Savings,252239.98
+ACC00866,CUST01075,State Bank of India,snehakumar33@phonepe,PhonePe,103.16.208.8,Savings,117438.67
+ACC00867,CUST00850,HDFC Bank,manishbansal26@amazonpay,Amazon Pay,103.144.237.4,Current,132363.25
+ACC00868,CUST00968,Canara Bank,saireddy46@paytm,Paytm,103.162.31.246,Current,145721.06
+ACC00869,CUST00007,IndusInd Bank,rajeshpatel37@whatsapppay,WhatsApp Pay,103.166.203.89,Savings,20751.79
+ACC00870,CUST00638,IndusInd Bank,rakeshsharma25@phonepe,PhonePe,103.173.198.148,Current,188960.65
+ACC00871,CUST00463,Axis Bank,ishaagarwal77@bhimupi,BHIM UPI,103.224.7.151,Savings,348928.04
+ACC00872,CUST00399,ICICI Bank,poojaiyer30@whatsapppay,WhatsApp Pay,103.165.155.130,Salary,84429.76
+ACC00873,CUST00564,Kotak Mahindra Bank,ayaangupta63@paytm,Paytm,103.75.240.10,Savings,300118.41
+ACC00874,CUST00603,ICICI Bank,rakeshchauhan78@amazonpay,Amazon Pay,103.201.11.213,Savings,7928.35
+ACC00875,CUST00692,Axis Bank,aaravpatel60@bhimupi,BHIM UPI,103.212.191.12,Savings,34046.87
+ACC00876,CUST00264,Bank of Baroda,vihaanbansal15@phonepe,PhonePe,103.233.254.15,Salary,71512.18
+ACC00877,CUST00800,Bank of Baroda,rajeshgupta21@amazonpay,Amazon Pay,103.205.7.99,Current,159742.25
+ACC00878,CUST00657,Axis Bank,reyanshmalhotra32@phonepe,PhonePe,103.75.230.88,Current,286180.49
+ACC00879,CUST01043,Union Bank of India,vihaanjoon65@googlepay,Google Pay,103.134.161.217,Savings,267186.67
+ACC00880,CUST00293,IndusInd Bank,diyareddy77@googlepay,Google Pay,103.84.192.247,Current,85113.99
+ACC00881,CUST01136,State Bank of India,ishamalhotra67@amazonpay,Amazon Pay,103.97.77.61,Current,233653.82
+ACC00882,CUST01127,Union Bank of India,vihaanpandey62@googlepay,Google Pay,103.69.166.96,Savings,43885.93
+ACC00883,CUST00210,Kotak Mahindra Bank,rakeshkumar98@bhimupi,BHIM UPI,103.165.211.13,Savings,347620.08
+ACC00884,CUST01190,HDFC Bank,vivaankumar46@paytm,Paytm,103.14.183.116,Savings,204223.24
+ACC00885,CUST00340,Bank of Baroda,snehaverma83@amazonpay,Amazon Pay,103.170.108.197,Savings,282920.49
+ACC00886,CUST00608,Union Bank of India,gaurimehta87@whatsapppay,WhatsApp Pay,103.200.187.174,Current,343441.89
+ACC00887,CUST00935,HDFC Bank,rameshnair47@amazonpay,Amazon Pay,103.210.94.149,Savings,333201.33
+ACC00888,CUST00509,ICICI Bank,ananyajoon82@paytm,Paytm,103.15.198.129,Savings,199533.8
+ACC00889,CUST00399,ICICI Bank,poojaiyer23@googlepay,Google Pay,103.209.207.210,Savings,273294.58
+ACC00890,CUST00881,Bank of Baroda,vihaanyadav81@amazonpay,Amazon Pay,103.24.105.160,Salary,346512.92
+ACC00891,CUST00969,ICICI Bank,rakeshsingh91@bhimupi,BHIM UPI,103.205.107.249,Savings,224856.62
+ACC00892,CUST00357,Axis Bank,ishamehta81@paytm,Paytm,103.195.59.134,Salary,114359.44
+ACC00893,CUST00741,Axis Bank,vihaanmishra27@amazonpay,Amazon Pay,103.153.194.5,Savings,343337.37
+ACC00894,CUST00007,Kotak Mahindra Bank,rajeshpatel94@bhimupi,BHIM UPI,103.46.231.178,Savings,152234.8
+ACC00895,CUST00062,Union Bank of India,ayaanmalhotra61@googlepay,Google Pay,103.101.140.174,Savings,231491.05
+ACC00896,CUST00192,Union Bank of India,arjungupta83@bhimupi,BHIM UPI,103.114.162.19,Savings,76212.92
+ACC00897,CUST01151,Canara Bank,poojamehta22@bhimupi,BHIM UPI,103.185.226.38,Savings,282627.75
+ACC00898,CUST00643,IndusInd Bank,manojkumar25@paytm,Paytm,103.59.199.69,Savings,52558.74
+ACC00899,CUST00637,Union Bank of India,poojasharma90@paytm,Paytm,103.228.8.214,Current,167706.86
+ACC00900,CUST00459,State Bank of India,sureshpatel95@phonepe,PhonePe,103.121.154.101,Current,136555.56
+ACC00901,CUST00113,HDFC Bank,adityajoon74@bhimupi,BHIM UPI,103.30.172.50,Savings,117526.92
+ACC00902,CUST00053,State Bank of India,manojkumar58@phonepe,PhonePe,103.166.166.72,Savings,220636.78
+ACC00903,CUST00150,Kotak Mahindra Bank,krishnamehta68@phonepe,PhonePe,103.55.221.162,Savings,305208.31
+ACC00904,CUST00908,Bank of Baroda,aaravpandey28@whatsapppay,WhatsApp Pay,103.104.57.164,Savings,6377.86
+ACC00905,CUST01015,Canara Bank,rakeshverma86@bhimupi,BHIM UPI,103.51.15.183,Savings,309959.71
+ACC00906,CUST00826,Bank of Baroda,sunilsaxena26@whatsapppay,WhatsApp Pay,103.98.5.143,Savings,261179.13
+ACC00907,CUST01008,Canara Bank,amitmehta16@bhimupi,BHIM UPI,103.154.180.239,Overdraft,269305.04
+ACC00908,CUST00540,State Bank of India,rakeshsingh77@bhimupi,BHIM UPI,103.77.18.249,Savings,71331.92
+ACC00909,CUST00476,HDFC Bank,rakeshyadav50@googlepay,Google Pay,103.53.52.89,Savings,140758.65
+ACC00910,CUST00957,Union Bank of India,ananyachoudhary69@phonepe,PhonePe,103.227.231.233,Savings,36028.97
+ACC00911,CUST00335,State Bank of India,priyapandey24@bhimupi,BHIM UPI,103.118.61.212,Savings,234536.69
+ACC00912,CUST00272,Canara Bank,ananyajoon79@bhimupi,BHIM UPI,103.98.97.32,Savings,156897.53
+ACC00913,CUST01117,Punjab National Bank,snehajoon43@paytm,Paytm,103.195.247.44,Savings,113396.42
+ACC00914,CUST00289,Bank of Baroda,snehaverma75@paytm,Paytm,103.219.25.111,Savings,348227.63
+ACC00915,CUST00485,Canara Bank,reyanshsharma97@googlepay,Google Pay,103.36.102.121,Savings,324725.54
+ACC00916,CUST00949,Canara Bank,vikramiyer75@whatsapppay,WhatsApp Pay,103.57.20.4,Savings,223852.33
+ACC00917,CUST01007,IndusInd Bank,amitsharma33@amazonpay,Amazon Pay,103.59.67.133,Savings,147243.77
+ACC00918,CUST01173,Union Bank of India,sureshmishra72@paytm,Paytm,103.185.156.113,Current,149394.17
+ACC00919,CUST00475,Union Bank of India,sureshmehta24@googlepay,Google Pay,103.55.140.175,Current,143244.6
+ACC00920,CUST00694,Axis Bank,arjunkumar67@amazonpay,Amazon Pay,103.15.127.202,Salary,190837.13
+ACC00921,CUST00878,Bank of Baroda,ayaanbansal25@whatsapppay,WhatsApp Pay,103.189.16.104,Savings,174014.31
+ACC00922,CUST00830,Union Bank of India,ayaansaxena11@googlepay,Google Pay,103.10.97.139,Savings,230789.23
+ACC00923,CUST00351,ICICI Bank,priyamalhotra90@googlepay,Google Pay,103.182.41.23,Savings,237722.12
+ACC00924,CUST00750,State Bank of India,sureshagarwal79@paytm,Paytm,103.36.176.68,Overdraft,53044.01
+ACC00925,CUST00150,Union Bank of India,krishnamehta32@whatsapppay,WhatsApp Pay,103.156.36.84,Savings,339136.33
+ACC00926,CUST00081,Union Bank of India,kavyamehta78@amazonpay,Amazon Pay,103.78.61.111,Current,189879.25
+ACC00927,CUST01120,State Bank of India,saisaxena26@googlepay,Google Pay,103.19.218.85,Current,333014.3
+ACC00928,CUST00471,Union Bank of India,krishnasingh86@bhimupi,BHIM UPI,103.74.130.249,Current,45930.87
+ACC00929,CUST00692,IndusInd Bank,aaravpatel80@amazonpay,Amazon Pay,103.175.22.73,Savings,219310.01
+ACC00930,CUST01040,Canara Bank,manishmalhotra98@phonepe,PhonePe,103.33.92.237,Savings,313371.02
+ACC00931,CUST00823,Canara Bank,ayaannair71@bhimupi,BHIM UPI,103.206.249.169,Savings,326899.57
+ACC00932,CUST00926,Punjab National Bank,priyamishra19@bhimupi,BHIM UPI,103.26.185.161,Salary,161761.39
+ACC00933,CUST01090,Canara Bank,aditireddy79@bhimupi,BHIM UPI,103.169.148.235,Savings,174280.51
+ACC00934,CUST00316,ICICI Bank,reyanshsaxena76@paytm,Paytm,103.136.192.10,Savings,186483.16
+ACC00935,CUST01074,State Bank of India,kavyamishra92@bhimupi,BHIM UPI,103.170.203.61,Savings,243577.82
+ACC00936,CUST00062,Kotak Mahindra Bank,ayaanmalhotra58@bhimupi,BHIM UPI,103.94.176.117,Current,11206.63
+ACC00937,CUST00256,ICICI Bank,poojakumar79@paytm,Paytm,103.201.88.219,Savings,88296.4
+ACC00938,CUST01073,Bank of Baroda,anushkamehta85@bhimupi,BHIM UPI,103.45.91.212,Savings,103310.27
+ACC00939,CUST00506,ICICI Bank,adityayadav78@whatsapppay,WhatsApp Pay,103.226.69.203,Current,303297.32
+ACC00940,CUST00399,Union Bank of India,poojaiyer23@amazonpay,Amazon Pay,103.52.67.21,Savings,320641.0
+ACC00941,CUST00383,Union Bank of India,vivaanjoon71@paytm,Paytm,103.97.100.43,Savings,60564.09
+ACC00942,CUST00454,Axis Bank,priyaagarwal77@paytm,Paytm,103.185.95.27,Savings,347004.53
+ACC00943,CUST01034,HDFC Bank,vihaanpandey60@amazonpay,Amazon Pay,103.16.244.166,Savings,92365.85
+ACC00944,CUST00792,Union Bank of India,manojyadav12@paytm,Paytm,103.203.125.198,Savings,288789.27
+ACC00945,CUST00460,State Bank of India,gauribansal49@googlepay,Google Pay,103.40.225.173,Savings,288602.84
+ACC00946,CUST00153,HDFC Bank,vivaanmishra86@bhimupi,BHIM UPI,103.22.51.134,Savings,117098.49
+ACC00947,CUST00484,Punjab National Bank,poojachauhan21@phonepe,PhonePe,103.63.101.79,Current,103130.67
+ACC00948,CUST00221,Kotak Mahindra Bank,vivaanagarwal35@paytm,Paytm,103.196.45.94,Savings,75456.43
+ACC00949,CUST00860,Canara Bank,adityachauhan77@whatsapppay,WhatsApp Pay,103.214.110.115,Savings,16504.36
+ACC00950,CUST00545,ICICI Bank,anushkareddy92@whatsapppay,WhatsApp Pay,103.82.244.198,Current,12799.67
+ACC00951,CUST00725,ICICI Bank,kavyaagarwal59@bhimupi,BHIM UPI,103.41.179.152,Savings,196739.22
+ACC00952,CUST00270,Canara Bank,aaravkumar44@phonepe,PhonePe,103.70.217.132,Savings,299830.46
+ACC00953,CUST00714,Bank of Baroda,amitmehta27@googlepay,Google Pay,103.152.208.234,Salary,150139.04
+ACC00954,CUST00120,Kotak Mahindra Bank,arjunmishra74@amazonpay,Amazon Pay,103.203.116.138,Savings,104878.24
+ACC00955,CUST00344,ICICI Bank,deepakchauhan53@bhimupi,BHIM UPI,103.199.229.172,Savings,221444.25
+ACC00956,CUST00865,Kotak Mahindra Bank,manishsingh88@paytm,Paytm,103.138.33.78,Savings,318715.12
+ACC00957,CUST00170,Bank of Baroda,snehaverma13@paytm,Paytm,103.227.2.226,Savings,55002.13
+ACC00958,CUST00629,Kotak Mahindra Bank,ishapandey39@whatsapppay,WhatsApp Pay,103.234.60.19,Savings,46329.2
+ACC00959,CUST00238,Kotak Mahindra Bank,anushkachauhan18@paytm,Paytm,103.92.88.124,Savings,71829.9
+ACC00960,CUST00872,Union Bank of India,snehamehta33@whatsapppay,WhatsApp Pay,103.82.78.73,Savings,183914.77
+ACC00961,CUST00785,Bank of Baroda,rajeshpatel89@amazonpay,Amazon Pay,103.135.37.128,Overdraft,241781.05
+ACC00962,CUST00455,Bank of Baroda,vikramreddy91@bhimupi,BHIM UPI,103.194.244.75,Current,52821.79
+ACC00963,CUST00014,ICICI Bank,sureshsharma75@paytm,Paytm,103.190.43.236,Overdraft,73598.21
+ACC00964,CUST00143,Union Bank of India,vivaanverma32@googlepay,Google Pay,103.216.209.28,Current,67053.09
+ACC00965,CUST00129,ICICI Bank,anushkayadav87@googlepay,Google Pay,103.225.166.2,Savings,218611.72
+ACC00966,CUST00121,Bank of Baroda,aaravbansal11@whatsapppay,WhatsApp Pay,103.143.63.107,Current,56472.7
+ACC00967,CUST01133,Canara Bank,kavyamalhotra13@paytm,Paytm,103.206.121.104,Savings,30938.62
+ACC00968,CUST00934,ICICI Bank,manojjoon54@googlepay,Google Pay,103.92.67.192,Savings,196933.44
+ACC00969,CUST00545,Canara Bank,anushkareddy58@googlepay,Google Pay,103.156.242.9,Savings,216704.72
+ACC00970,CUST01047,Canara Bank,gauripatel94@bhimupi,BHIM UPI,103.196.27.101,Savings,304226.11
+ACC00971,CUST00901,HDFC Bank,saipandey70@whatsapppay,WhatsApp Pay,103.127.176.56,Savings,275630.47
+ACC00972,CUST00445,IndusInd Bank,vivaanyadav84@whatsapppay,WhatsApp Pay,103.224.238.8,Salary,60804.08
+ACC00973,CUST01181,IndusInd Bank,rameshmalhotra37@amazonpay,Amazon Pay,103.235.44.245,Current,149771.47
+ACC00974,CUST00670,IndusInd Bank,diyasaxena91@phonepe,PhonePe,103.151.141.37,Savings,58714.06
+ACC00975,CUST00745,Axis Bank,priyajoon79@amazonpay,Amazon Pay,103.152.241.79,Savings,43193.71
+ACC00976,CUST00949,Canara Bank,vikramiyer30@googlepay,Google Pay,103.84.64.242,Current,116752.15
+ACC00977,CUST00520,IndusInd Bank,sunilsaxena88@bhimupi,BHIM UPI,103.39.47.229,Current,288791.73
+ACC00978,CUST01193,Canara Bank,aditisingh33@phonepe,PhonePe,103.122.18.42,Savings,86648.03
+ACC00979,CUST00960,Union Bank of India,vihaanpatel24@bhimupi,BHIM UPI,103.191.230.210,Savings,203062.71
+ACC00980,CUST01144,Union Bank of India,vivaanjoon26@googlepay,Google Pay,103.217.173.193,Savings,47583.34
+ACC00981,CUST00747,Bank of Baroda,saiagarwal16@whatsapppay,WhatsApp Pay,103.54.10.227,Savings,266468.37
+ACC00982,CUST01002,IndusInd Bank,arjunpatel69@whatsapppay,WhatsApp Pay,103.139.222.146,Savings,239417.26
+ACC00983,CUST00763,Union Bank of India,vivaansharma33@paytm,Paytm,103.146.101.237,Savings,293330.13
+ACC00984,CUST00083,Axis Bank,krishnaiyer45@phonepe,PhonePe,103.70.237.100,Salary,285228.12
+ACC00985,CUST01176,Kotak Mahindra Bank,rakeshagarwal68@phonepe,PhonePe,103.223.224.42,Savings,305266.31
+ACC00986,CUST01169,HDFC Bank,vihaanchauhan29@phonepe,PhonePe,103.52.200.238,Savings,205614.39
+ACC00987,CUST00714,State Bank of India,amitmehta48@phonepe,PhonePe,103.80.168.223,Savings,67901.52
+ACC00988,CUST00403,State Bank of India,sunilyadav63@amazonpay,Amazon Pay,103.31.54.176,Overdraft,32978.76
+ACC00989,CUST00236,ICICI Bank,rameshpandey16@bhimupi,BHIM UPI,103.197.39.30,Savings,41768.69
+ACC00990,CUST00943,Bank of Baroda,rajeshjoon94@bhimupi,BHIM UPI,103.39.156.198,Savings,31688.19
+ACC00991,CUST00231,Bank of Baroda,manishmalhotra23@bhimupi,BHIM UPI,103.56.11.31,Savings,11655.12
+ACC00992,CUST00279,Kotak Mahindra Bank,anushkamalhotra77@whatsapppay,WhatsApp Pay,103.73.51.237,Current,255523.49
+ACC00993,CUST00076,Punjab National Bank,amitpatel34@amazonpay,Amazon Pay,103.96.54.138,Savings,63003.77
+ACC00994,CUST00618,Union Bank of India,poojamehta29@phonepe,PhonePe,103.82.46.26,Current,8436.95
+ACC00995,CUST01144,Bank of Baroda,vivaanjoon77@whatsapppay,WhatsApp Pay,103.96.221.3,Savings,114660.43
+ACC00996,CUST00276,ICICI Bank,manojchoudhary46@amazonpay,Amazon Pay,103.14.216.211,Savings,245368.68
+ACC00997,CUST00752,Kotak Mahindra Bank,snehasaxena58@whatsapppay,WhatsApp Pay,103.26.208.190,Current,932.01
+ACC00998,CUST00440,IndusInd Bank,saiverma54@amazonpay,Amazon Pay,103.187.150.128,Savings,271838.86
+ACC00999,CUST00469,Canara Bank,aaravmishra28@phonepe,PhonePe,103.118.240.92,Savings,189103.94
+ACC01000,CUST00794,Punjab National Bank,adityachoudhary37@googlepay,Google Pay,103.76.242.20,Current,272593.11
+ACC01001,CUST00053,ICICI Bank,manojkumar16@bhimupi,BHIM UPI,103.102.158.42,Savings,195356.18
+ACC01002,CUST00570,State Bank of India,vikramjoon86@googlepay,Google Pay,103.123.185.185,Savings,151212.05
+ACC01003,CUST00046,Bank of Baroda,rakeshkumar26@googlepay,Google Pay,103.82.136.167,Savings,37910.37
+ACC01004,CUST00655,Punjab National Bank,amitpandey97@googlepay,Google Pay,103.11.57.180,Savings,100266.8
+ACC01005,CUST00512,State Bank of India,vivaanpandey12@phonepe,PhonePe,103.113.245.128,Savings,269060.17
+ACC01006,CUST00925,Kotak Mahindra Bank,ishaangupta49@bhimupi,BHIM UPI,103.104.114.152,Savings,349314.82
+ACC01007,CUST00762,Punjab National Bank,snehamishra32@bhimupi,BHIM UPI,103.74.123.216,Salary,292951.19
+ACC01008,CUST00515,Canara Bank,ayaansharma10@bhimupi,BHIM UPI,103.152.16.197,Savings,274368.41
+ACC01009,CUST00252,State Bank of India,deepaksharma13@googlepay,Google Pay,103.198.203.106,Current,35581.83
+ACC01010,CUST00817,Punjab National Bank,snehapatel72@phonepe,PhonePe,103.142.11.140,Savings,34551.2
+ACC01011,CUST00751,Canara Bank,adityachoudhary28@phonepe,PhonePe,103.232.185.28,Savings,246654.17
+ACC01012,CUST00950,HDFC Bank,vikramchauhan75@googlepay,Google Pay,103.125.27.64,Savings,249561.13
+ACC01013,CUST00681,HDFC Bank,vikramnair46@phonepe,PhonePe,103.145.245.71,Savings,70223.34
+ACC01014,CUST00821,ICICI Bank,deepaksharma35@phonepe,PhonePe,103.154.112.47,Savings,300861.89
+ACC01015,CUST00728,Canara Bank,rakeshchauhan64@bhimupi,BHIM UPI,103.137.8.53,Savings,2410.6
+ACC01016,CUST00408,Axis Bank,anushkakumar61@amazonpay,Amazon Pay,103.217.236.241,Savings,89350.29
+ACC01017,CUST00896,Bank of Baroda,ishachoudhary29@bhimupi,BHIM UPI,103.159.17.135,Savings,48808.6
+ACC01018,CUST00973,State Bank of India,rajeshmishra17@phonepe,PhonePe,103.113.107.109,Salary,337795.79
+ACC01019,CUST00052,HDFC Bank,aaravmishra16@phonepe,PhonePe,103.134.171.120,Savings,88684.66
+ACC01020,CUST00041,Punjab National Bank,vivaansharma40@amazonpay,Amazon Pay,103.151.18.211,Savings,265171.89
+ACC01021,CUST00553,IndusInd Bank,poojagupta50@phonepe,PhonePe,103.191.17.82,Savings,15282.78
+ACC01022,CUST01028,State Bank of India,adityaverma48@amazonpay,Amazon Pay,103.163.211.128,Savings,138552.57
+ACC01023,CUST01084,Canara Bank,reyanshsharma38@whatsapppay,WhatsApp Pay,103.60.119.152,Savings,42537.14
+ACC01024,CUST00850,Bank of Baroda,manishbansal81@amazonpay,Amazon Pay,103.36.106.233,Current,35302.08
+ACC01025,CUST00443,Canara Bank,saisingh16@paytm,Paytm,103.156.69.64,Savings,61381.3
+ACC01026,CUST00661,Bank of Baroda,manishsingh36@googlepay,Google Pay,103.141.172.152,Current,204210.95
+ACC01027,CUST00234,IndusInd Bank,snehaagarwal11@bhimupi,BHIM UPI,103.220.234.68,Savings,151060.06
+ACC01028,CUST00286,State Bank of India,ishaaniyer69@googlepay,Google Pay,103.127.210.232,Savings,60449.1
+ACC01029,CUST00183,Bank of Baroda,aditireddy30@phonepe,PhonePe,103.178.8.162,Savings,219905.64
+ACC01030,CUST00195,Union Bank of India,ishaaniyer40@phonepe,PhonePe,103.189.193.158,Savings,208618.14
+ACC01031,CUST01198,Canara Bank,ananyasaxena24@googlepay,Google Pay,103.123.247.6,Savings,188356.88
+ACC01032,CUST00594,Union Bank of India,gaurisaxena19@phonepe,PhonePe,103.112.229.67,Salary,48815.11
+ACC01033,CUST00247,Canara Bank,gauripatel76@paytm,Paytm,103.69.147.252,Savings,177643.37
+ACC01034,CUST00897,State Bank of India,manishgupta32@amazonpay,Amazon Pay,103.16.67.139,Savings,166270.52
+ACC01035,CUST00970,HDFC Bank,aditichauhan34@googlepay,Google Pay,103.31.77.153,Savings,267731.04
+ACC01036,CUST00173,ICICI Bank,kavyasharma73@amazonpay,Amazon Pay,103.161.70.203,Savings,234809.11
+ACC01037,CUST01147,Union Bank of India,rakeshiyer69@googlepay,Google Pay,103.110.149.242,Current,325610.14
+ACC01038,CUST00978,State Bank of India,ananyasaxena15@paytm,Paytm,103.68.183.31,Savings,276769.56
+ACC01039,CUST01190,Bank of Baroda,vivaankumar55@phonepe,PhonePe,103.136.231.142,Savings,62371.74
+ACC01040,CUST00582,Union Bank of India,kavyayadav38@amazonpay,Amazon Pay,103.106.91.28,Savings,161353.7
+ACC01041,CUST00816,ICICI Bank,rajeshsingh91@paytm,Paytm,103.164.238.108,Savings,99422.48
+ACC01042,CUST00771,Bank of Baroda,ishagupta41@amazonpay,Amazon Pay,103.166.110.7,Current,179339.37
+ACC01043,CUST00311,HDFC Bank,kavyamehta11@bhimupi,BHIM UPI,103.96.27.99,Savings,343438.59
+ACC01044,CUST00729,IndusInd Bank,deepakchauhan90@googlepay,Google Pay,103.148.140.33,Savings,338697.61
+ACC01045,CUST00455,Punjab National Bank,vikramreddy61@amazonpay,Amazon Pay,103.138.59.158,Savings,152849.93
+ACC01046,CUST00530,Bank of Baroda,ananyapandey29@bhimupi,BHIM UPI,103.202.135.114,Overdraft,24318.38
+ACC01047,CUST00046,IndusInd Bank,rakeshkumar21@phonepe,PhonePe,103.64.213.29,Savings,264962.67
+ACC01048,CUST00509,Kotak Mahindra Bank,ananyajoon86@whatsapppay,WhatsApp Pay,103.51.211.224,Savings,142879.13
+ACC01049,CUST00477,Axis Bank,ayaanpatel62@bhimupi,BHIM UPI,103.97.48.252,Current,321463.55
+ACC01050,CUST00658,Union Bank of India,sunilsaxena22@amazonpay,Amazon Pay,103.209.213.180,Savings,58367.89
+ACC01051,CUST00571,Punjab National Bank,sainair28@bhimupi,BHIM UPI,103.167.25.110,Savings,11532.25
+ACC01052,CUST00396,Punjab National Bank,manojverma13@paytm,Paytm,103.116.103.217,Current,264584.12
+ACC01053,CUST00992,HDFC Bank,anushkabansal26@amazonpay,Amazon Pay,103.162.138.147,Current,220855.18
+ACC01054,CUST01120,Union Bank of India,saisaxena10@whatsapppay,WhatsApp Pay,103.128.214.142,Current,95388.76
+ACC01055,CUST00907,Punjab National Bank,ayaanjoon76@bhimupi,BHIM UPI,103.36.202.58,Current,218080.36
+ACC01056,CUST00808,Bank of Baroda,manishmalhotra79@paytm,Paytm,103.179.138.159,Savings,87517.04
+ACC01057,CUST01192,Bank of Baroda,ananyanair89@whatsapppay,WhatsApp Pay,103.89.239.130,Savings,109666.43
+ACC01058,CUST00185,Kotak Mahindra Bank,sunilgupta85@paytm,Paytm,103.90.206.169,Savings,43878.83
+ACC01059,CUST00277,IndusInd Bank,sureshgupta33@whatsapppay,WhatsApp Pay,103.185.200.123,Savings,86615.58
+ACC01060,CUST00782,State Bank of India,priyapatel24@paytm,Paytm,103.30.109.175,Savings,79860.7
+ACC01061,CUST01102,Union Bank of India,amitsharma36@bhimupi,BHIM UPI,103.73.106.250,Savings,44454.18
+ACC01062,CUST01055,IndusInd Bank,anushkasharma51@paytm,Paytm,103.24.98.125,Savings,9158.23
+ACC01063,CUST01173,Punjab National Bank,sureshmishra48@googlepay,Google Pay,103.158.65.46,Savings,322217.7
+ACC01064,CUST00769,Punjab National Bank,sainair81@whatsapppay,WhatsApp Pay,103.120.128.106,Savings,276317.68
+ACC01065,CUST00537,ICICI Bank,adityapatel49@phonepe,PhonePe,103.231.94.126,Savings,119300.9
+ACC01066,CUST00060,IndusInd Bank,rameshsaxena49@bhimupi,BHIM UPI,103.66.50.201,Current,213209.45
+ACC01067,CUST00871,ICICI Bank,ishaanmishra57@googlepay,Google Pay,103.113.225.98,Savings,299073.73
+ACC01068,CUST00378,Bank of Baroda,rajeshbansal99@paytm,Paytm,103.37.102.162,Savings,213079.93
+ACC01069,CUST00469,State Bank of India,aaravmishra98@phonepe,PhonePe,103.118.42.220,Salary,61630.31
+ACC01070,CUST00603,ICICI Bank,rakeshchauhan64@bhimupi,BHIM UPI,103.132.178.169,Salary,140732.02
+ACC01071,CUST00648,IndusInd Bank,sunilpandey59@phonepe,PhonePe,103.30.46.72,Savings,35420.19
+ACC01072,CUST00763,Union Bank of India,vivaansharma78@paytm,Paytm,103.173.100.16,Current,316600.82
+ACC01073,CUST01100,State Bank of India,sureshyadav70@phonepe,PhonePe,103.111.124.183,Savings,195810.86
+ACC01074,CUST00402,HDFC Bank,gaurisingh83@googlepay,Google Pay,103.101.114.239,Savings,5260.18
+ACC01075,CUST00560,Canara Bank,amitsaxena62@googlepay,Google Pay,103.228.43.164,Current,27110.82
+ACC01076,CUST00228,ICICI Bank,diyaiyer36@phonepe,PhonePe,103.68.189.195,Savings,120081.54
+ACC01077,CUST00881,Kotak Mahindra Bank,vihaanyadav85@whatsapppay,WhatsApp Pay,103.231.193.137,Current,194160.62
+ACC01078,CUST00346,Kotak Mahindra Bank,aditimehta75@paytm,Paytm,103.42.32.172,Savings,263036.9
+ACC01079,CUST01032,Kotak Mahindra Bank,sureshmehta56@paytm,Paytm,103.78.13.9,Current,150518.42
+ACC01080,CUST00626,Kotak Mahindra Bank,anushkabansal93@paytm,Paytm,103.199.38.223,Savings,308079.04
+ACC01081,CUST00229,ICICI Bank,aditinair29@googlepay,Google Pay,103.124.74.198,Salary,267989.82
+ACC01082,CUST01007,IndusInd Bank,amitsharma20@whatsapppay,WhatsApp Pay,103.240.199.102,Savings,85392.22
+ACC01083,CUST00602,ICICI Bank,manojmehta31@bhimupi,BHIM UPI,103.232.214.143,Savings,239936.51
+ACC01084,CUST00150,Canara Bank,krishnamehta11@paytm,Paytm,103.25.206.217,Savings,274521.34
+ACC01085,CUST00506,State Bank of India,adityayadav52@paytm,Paytm,103.59.9.99,Current,277592.75
+ACC01086,CUST00471,Kotak Mahindra Bank,krishnasingh79@whatsapppay,WhatsApp Pay,103.47.69.160,Savings,116192.92
+ACC01087,CUST00471,Punjab National Bank,krishnasingh14@phonepe,PhonePe,103.230.180.202,Current,36791.02
+ACC01088,CUST00142,Bank of Baroda,ayaangupta70@bhimupi,BHIM UPI,103.141.232.18,Savings,121196.46
+ACC01089,CUST00353,Punjab National Bank,vihaanmehta42@paytm,Paytm,103.102.67.68,Salary,289135.22
+ACC01090,CUST00431,Union Bank of India,arjunmehta98@paytm,Paytm,103.164.159.56,Savings,274605.24
+ACC01091,CUST00220,State Bank of India,vikramiyer97@whatsapppay,WhatsApp Pay,103.214.186.172,Savings,225455.46
+ACC01092,CUST00253,ICICI Bank,saimishra68@amazonpay,Amazon Pay,103.141.170.66,Salary,257501.73
+ACC01093,CUST01164,IndusInd Bank,diyamehta85@bhimupi,BHIM UPI,103.208.40.227,Savings,241864.67
+ACC01094,CUST00125,Punjab National Bank,kavyamalhotra71@paytm,Paytm,103.44.215.123,Savings,293991.11
+ACC01095,CUST00282,Punjab National Bank,vivaannair39@bhimupi,BHIM UPI,103.32.221.187,Savings,189386.24
+ACC01096,CUST00781,Punjab National Bank,amitnair44@googlepay,Google Pay,103.62.213.143,Savings,207541.32
+ACC01097,CUST00334,Union Bank of India,ananyareddy40@googlepay,Google Pay,103.36.39.250,Savings,226301.94
+ACC01098,CUST01126,Canara Bank,manishyadav60@phonepe,PhonePe,103.50.242.226,Salary,344200.2
+ACC01099,CUST01059,Union Bank of India,arjunyadav83@phonepe,PhonePe,103.64.43.38,Savings,285766.91
+ACC01100,CUST00031,ICICI Bank,aditimishra32@googlepay,Google Pay,103.14.17.178,Current,161727.54
+ACC01101,CUST00778,HDFC Bank,krishnayadav13@phonepe,PhonePe,103.171.153.172,Savings,321882.86
+ACC01102,CUST00985,Bank of Baroda,ishachoudhary11@phonepe,PhonePe,103.219.76.49,Savings,279002.43
+ACC01103,CUST00592,State Bank of India,reyanshmishra40@whatsapppay,WhatsApp Pay,103.84.238.82,Current,224583.07
+ACC01104,CUST00175,IndusInd Bank,anushkapatel16@amazonpay,Amazon Pay,103.80.108.201,Current,299746.99
+ACC01105,CUST00284,Axis Bank,gaurigupta49@paytm,Paytm,103.160.81.214,Savings,34631.52
+ACC01106,CUST00008,Axis Bank,rajeshgupta12@whatsapppay,WhatsApp Pay,103.202.104.235,Savings,129835.37
+ACC01107,CUST00572,Kotak Mahindra Bank,rajeshmishra85@whatsapppay,WhatsApp Pay,103.223.20.85,Savings,241316.55
+ACC01108,CUST00893,Bank of Baroda,adityapatel59@whatsapppay,WhatsApp Pay,103.33.19.4,Savings,137849.09
+ACC01109,CUST00760,Punjab National Bank,priyaiyer21@phonepe,PhonePe,103.238.242.58,Current,1054.18
+ACC01110,CUST00916,Union Bank of India,kavyareddy22@paytm,Paytm,103.219.237.235,Savings,270462.86
+ACC01111,CUST00962,State Bank of India,ayaanchoudhary88@amazonpay,Amazon Pay,103.207.144.195,Savings,147181.8
+ACC01112,CUST00415,Punjab National Bank,vihaanverma28@amazonpay,Amazon Pay,103.195.146.145,Savings,56177.31
+ACC01113,CUST00941,State Bank of India,manishkumar39@amazonpay,Amazon Pay,103.152.143.134,Savings,198230.57
+ACC01114,CUST00968,Union Bank of India,saireddy94@whatsapppay,WhatsApp Pay,103.210.158.19,Savings,130163.01
+ACC01115,CUST00879,ICICI Bank,adityanair68@paytm,Paytm,103.155.117.230,Current,242778.1
+ACC01116,CUST00485,ICICI Bank,reyanshsharma21@phonepe,PhonePe,103.235.180.196,Savings,159365.97
+ACC01117,CUST01070,IndusInd Bank,gauriiyer33@amazonpay,Amazon Pay,103.87.251.21,Savings,2542.6
+ACC01118,CUST01171,Kotak Mahindra Bank,ananyajoon19@googlepay,Google Pay,103.102.86.131,Current,335089.25
+ACC01119,CUST00944,Canara Bank,snehanair47@bhimupi,BHIM UPI,103.181.192.36,Current,135091.25
+ACC01120,CUST00379,HDFC Bank,rajeshbansal79@phonepe,PhonePe,103.223.166.142,Savings,32619.77
+ACC01121,CUST00825,ICICI Bank,anushkachauhan44@bhimupi,BHIM UPI,103.46.155.242,Savings,179523.25
+ACC01122,CUST00153,Canara Bank,vivaanmishra43@phonepe,PhonePe,103.103.69.235,Current,288245.97
+ACC01123,CUST00710,Punjab National Bank,anushkaiyer72@paytm,Paytm,103.21.82.112,Current,44683.46
+ACC01124,CUST01184,ICICI Bank,manojchauhan56@googlepay,Google Pay,103.10.182.148,Savings,257143.91
+ACC01125,CUST00130,Bank of Baroda,diyasaxena53@googlepay,Google Pay,103.23.118.44,Savings,48036.34
+ACC01126,CUST00963,ICICI Bank,vihaanreddy30@amazonpay,Amazon Pay,103.166.84.228,Salary,275747.84
+ACC01127,CUST00011,State Bank of India,ayaanpandey72@phonepe,PhonePe,103.219.133.47,Savings,92005.24
+ACC01128,CUST00927,Axis Bank,amitkumar27@phonepe,PhonePe,103.28.100.242,Overdraft,323506.5
+ACC01129,CUST00765,State Bank of India,saichoudhary18@bhimupi,BHIM UPI,103.99.242.144,Savings,263693.81
+ACC01130,CUST00121,HDFC Bank,aaravbansal83@phonepe,PhonePe,103.10.157.46,Savings,310125.05
+ACC01131,CUST00224,HDFC Bank,sunilchoudhary33@paytm,Paytm,103.201.226.12,Savings,79980.76
+ACC01132,CUST00903,State Bank of India,priyachoudhary27@amazonpay,Amazon Pay,103.18.119.19,Savings,207980.13
+ACC01133,CUST00031,State Bank of India,aditimishra42@bhimupi,BHIM UPI,103.222.253.168,Salary,176710.91
+ACC01134,CUST00640,Union Bank of India,vivaanyadav51@whatsapppay,WhatsApp Pay,103.68.208.166,Savings,198836.7
+ACC01135,CUST00960,Bank of Baroda,vihaanpatel81@amazonpay,Amazon Pay,103.231.220.106,Savings,208514.69
+ACC01136,CUST00572,Canara Bank,rajeshmishra62@phonepe,PhonePe,103.32.246.160,Current,180377.31
+ACC01137,CUST00290,Canara Bank,amitverma49@googlepay,Google Pay,103.31.55.231,Current,270819.43
+ACC01138,CUST00073,Punjab National Bank,reyanshiyer15@paytm,Paytm,103.208.144.170,Savings,78011.77
+ACC01139,CUST00376,HDFC Bank,manishmalhotra47@bhimupi,BHIM UPI,103.235.201.203,Savings,153528.71
+ACC01140,CUST01074,Axis Bank,kavyamishra29@paytm,Paytm,103.25.104.221,Savings,191211.67
+ACC01141,CUST00080,Bank of Baroda,manishchoudhary34@bhimupi,BHIM UPI,103.66.254.184,Savings,311903.01
+ACC01142,CUST01110,Union Bank of India,rameshsingh80@googlepay,Google Pay,103.55.82.205,Savings,322437.5
+ACC01143,CUST00611,Bank of Baroda,sunilpatel79@googlepay,Google Pay,103.95.14.115,Savings,324490.69
+ACC01144,CUST00103,Bank of Baroda,krishnamishra67@paytm,Paytm,103.100.21.94,Savings,56229.79
+ACC01145,CUST01157,ICICI Bank,vivaanpatel11@whatsapppay,WhatsApp Pay,103.148.240.86,Savings,113931.08
+ACC01146,CUST00088,Canara Bank,kavyapandey99@whatsapppay,WhatsApp Pay,103.17.171.254,Savings,311374.38
+ACC01147,CUST00205,HDFC Bank,anushkagupta69@phonepe,PhonePe,103.109.25.154,Current,7174.26
+ACC01148,CUST00673,Punjab National Bank,amitverma66@whatsapppay,WhatsApp Pay,103.23.176.180,Savings,222029.14
+ACC01149,CUST00832,IndusInd Bank,poojasharma39@paytm,Paytm,103.78.179.241,Savings,62405.71
+ACC01150,CUST00002,HDFC Bank,aditiagarwal27@whatsapppay,WhatsApp Pay,103.240.81.201,Savings,198278.66
+ACC01151,CUST00122,State Bank of India,ananyaagarwal63@googlepay,Google Pay,103.189.236.13,Current,39292.33
+ACC01152,CUST00440,ICICI Bank,saiverma93@paytm,Paytm,103.160.67.113,Savings,216363.51
+ACC01153,CUST00066,Canara Bank,rameshpandey15@paytm,Paytm,103.136.26.196,Salary,67346.36
+ACC01154,CUST00265,Canara Bank,reyanshsingh80@amazonpay,Amazon Pay,103.100.182.191,Savings,128472.04
+ACC01155,CUST00058,Axis Bank,snehakumar18@whatsapppay,WhatsApp Pay,103.110.74.246,Savings,76073.01
+ACC01156,CUST00623,State Bank of India,arjunjoon98@googlepay,Google Pay,103.40.1.72,Current,328221.84
+ACC01157,CUST00440,Bank of Baroda,saiverma74@phonepe,PhonePe,103.204.73.17,Savings,105312.22
+ACC01158,CUST00193,Axis Bank,rameshagarwal53@whatsapppay,WhatsApp Pay,103.167.229.45,Current,126031.37
+ACC01159,CUST00499,Kotak Mahindra Bank,manishmehta82@whatsapppay,WhatsApp Pay,103.21.93.100,Savings,21234.05
+ACC01160,CUST00998,IndusInd Bank,amitverma11@amazonpay,Amazon Pay,103.111.147.110,Savings,318137.22
+ACC01161,CUST01122,State Bank of India,vihaanpatel79@phonepe,PhonePe,103.122.123.68,Savings,243560.42
+ACC01162,CUST00495,Canara Bank,reyanshpatel44@amazonpay,Amazon Pay,103.42.184.228,Savings,231943.22
+ACC01163,CUST01168,Punjab National Bank,aaravverma84@paytm,Paytm,103.105.221.58,Savings,137724.36
+ACC01164,CUST00939,Bank of Baroda,saijoon52@googlepay,Google Pay,103.65.42.163,Savings,4363.44
+ACC01165,CUST01011,Axis Bank,rajeshiyer50@bhimupi,BHIM UPI,103.240.101.48,Savings,161052.79
+ACC01166,CUST00522,ICICI Bank,krishnareddy17@amazonpay,Amazon Pay,103.179.243.147,Savings,52733.34
+ACC01167,CUST00454,Punjab National Bank,priyaagarwal22@paytm,Paytm,103.198.202.9,Savings,225281.29
+ACC01168,CUST00864,State Bank of India,sunilsaxena41@paytm,Paytm,103.205.246.139,Savings,145194.59
+ACC01169,CUST00519,Axis Bank,aditiverma29@phonepe,PhonePe,103.39.23.99,Current,77370.45
+ACC01170,CUST00279,IndusInd Bank,anushkamalhotra46@phonepe,PhonePe,103.95.246.250,Current,160060.22
+ACC01171,CUST01153,Union Bank of India,aaravmishra67@amazonpay,Amazon Pay,103.154.221.48,Savings,207899.97
+ACC01172,CUST00868,Punjab National Bank,priyachoudhary60@googlepay,Google Pay,103.225.62.108,Savings,308865.71
+ACC01173,CUST00018,ICICI Bank,ayaanverma57@bhimupi,BHIM UPI,103.57.20.66,Savings,162446.87
+ACC01174,CUST00051,IndusInd Bank,aditimalhotra10@googlepay,Google Pay,103.39.24.206,Salary,57154.87
+ACC01175,CUST01128,State Bank of India,saichauhan34@googlepay,Google Pay,103.53.26.166,Savings,254082.23
+ACC01176,CUST00351,HDFC Bank,priyamalhotra77@paytm,Paytm,103.143.147.233,Current,1994.44
+ACC01177,CUST00750,IndusInd Bank,sureshagarwal65@phonepe,PhonePe,103.38.129.112,Savings,130314.22
+ACC01178,CUST01127,Union Bank of India,vihaanpandey85@phonepe,PhonePe,103.155.192.119,Current,164920.59
+ACC01179,CUST00193,Bank of Baroda,rameshagarwal76@amazonpay,Amazon Pay,103.22.193.198,Savings,83098.45
+ACC01180,CUST01096,IndusInd Bank,kavyapatel18@googlepay,Google Pay,103.106.156.242,Savings,318060.9
+ACC01181,CUST00983,ICICI Bank,arjunjoon45@amazonpay,Amazon Pay,103.235.80.222,Savings,34043.08
+ACC01182,CUST01053,ICICI Bank,deepakgupta71@googlepay,Google Pay,103.23.46.142,Savings,103443.67
+ACC01183,CUST00262,Axis Bank,krishnapandey94@googlepay,Google Pay,103.25.65.23,Salary,170802.5
+ACC01184,CUST00571,Axis Bank,sainair26@whatsapppay,WhatsApp Pay,103.230.135.192,Salary,147800.33
+ACC01185,CUST00738,IndusInd Bank,rameshmishra35@amazonpay,Amazon Pay,103.182.33.189,Current,5059.5
+ACC01186,CUST00074,Axis Bank,ishasharma45@phonepe,PhonePe,103.188.39.57,Salary,46139.28
+ACC01187,CUST00899,Canara Bank,ishachoudhary26@paytm,Paytm,103.36.63.96,Savings,14979.38
+ACC01188,CUST00268,Union Bank of India,poojamishra63@phonepe,PhonePe,103.22.105.65,Savings,1508.6
+ACC01189,CUST00118,Kotak Mahindra Bank,gauriiyer86@whatsapppay,WhatsApp Pay,103.222.113.117,Savings,139560.34
+ACC01190,CUST01198,HDFC Bank,ananyasaxena78@amazonpay,Amazon Pay,103.206.19.176,Savings,57083.74
+ACC01191,CUST00184,Bank of Baroda,ananyaagarwal97@whatsapppay,WhatsApp Pay,103.28.121.77,Salary,213037.4
+ACC01192,CUST00326,IndusInd Bank,poojagupta77@whatsapppay,WhatsApp Pay,103.211.8.68,Savings,337893.63
+ACC01193,CUST01109,Punjab National Bank,adityapandey89@phonepe,PhonePe,103.51.39.146,Savings,304087.71
+ACC01194,CUST00243,Bank of Baroda,priyapatel11@bhimupi,BHIM UPI,103.103.104.143,Savings,339109.23
+ACC01195,CUST00856,Bank of Baroda,vivaanagarwal15@bhimupi,BHIM UPI,103.189.101.239,Savings,199829.62
+ACC01196,CUST00807,Kotak Mahindra Bank,vivaanjoon17@paytm,Paytm,103.83.200.196,Savings,105525.83
+ACC01197,CUST00075,Canara Bank,snehabansal60@bhimupi,BHIM UPI,103.185.79.155,Salary,251189.27
+ACC01198,CUST01163,Bank of Baroda,adityanair11@paytm,Paytm,103.164.97.43,Savings,45751.78
+ACC01199,CUST00346,Bank of Baroda,aditimehta65@googlepay,Google Pay,103.40.23.76,Current,89876.38
+ACC01200,CUST00842,ICICI Bank,anushkaagarwal53@whatsapppay,WhatsApp Pay,103.152.179.83,Salary,53381.3
+ACC01201,CUST01055,Union Bank of India,anushkasharma15@whatsapppay,WhatsApp Pay,103.136.243.253,Savings,240691.55
+ACC01202,CUST00201,IndusInd Bank,adityapatel28@bhimupi,BHIM UPI,103.195.80.233,Savings,30080.07
+ACC01203,CUST01170,Bank of Baroda,manojchoudhary38@paytm,Paytm,103.96.207.62,Savings,252197.82
+ACC01204,CUST00577,Canara Bank,sureshmishra56@googlepay,Google Pay,103.103.137.61,Savings,91629.34
+ACC01205,CUST00415,State Bank of India,vihaanverma40@whatsapppay,WhatsApp Pay,103.190.214.94,Savings,185386.2
+ACC01206,CUST00831,State Bank of India,vivaannair44@paytm,Paytm,103.129.200.187,Savings,241595.22
+ACC01207,CUST00551,Canara Bank,reyanshpatel68@paytm,Paytm,103.192.230.185,Savings,94253.78
+ACC01208,CUST00688,Axis Bank,krishnaverma40@paytm,Paytm,103.154.121.254,Savings,137863.1
+ACC01209,CUST01030,Bank of Baroda,anushkaiyer65@phonepe,PhonePe,103.81.33.21,Savings,100299.97
+ACC01210,CUST00046,Union Bank of India,rakeshkumar11@whatsapppay,WhatsApp Pay,103.224.240.159,Savings,107569.15
+ACC01211,CUST00180,Kotak Mahindra Bank,rajeshagarwal61@googlepay,Google Pay,103.92.202.241,Savings,133759.75
+ACC01212,CUST00619,Canara Bank,anushkabansal24@googlepay,Google Pay,103.71.4.117,Current,97026.27
+ACC01213,CUST00491,Kotak Mahindra Bank,vivaanmalhotra85@whatsapppay,WhatsApp Pay,103.78.47.99,Overdraft,284866.39
+ACC01214,CUST00108,Punjab National Bank,ishaanreddy79@whatsapppay,WhatsApp Pay,103.73.203.230,Savings,145701.91
+ACC01215,CUST00239,Punjab National Bank,aditipandey49@paytm,Paytm,103.217.15.116,Savings,77393.75
+ACC01216,CUST00938,Axis Bank,deepakbansal97@phonepe,PhonePe,103.17.137.166,Salary,43132.68
+ACC01217,CUST01088,Kotak Mahindra Bank,ayaanverma28@googlepay,Google Pay,103.30.95.187,Salary,32786.14
+ACC01218,CUST01141,Punjab National Bank,diyachoudhary30@paytm,Paytm,103.218.249.169,Savings,313743.28
+ACC01219,CUST00887,Union Bank of India,ayaannair43@bhimupi,BHIM UPI,103.184.167.228,Savings,17489.0
+ACC01220,CUST01019,Axis Bank,manishpatel30@whatsapppay,WhatsApp Pay,103.218.174.7,Current,144117.29
+ACC01221,CUST00700,ICICI Bank,aaravagarwal66@googlepay,Google Pay,103.43.148.111,Savings,113707.87
+ACC01222,CUST00386,Axis Bank,krishnachauhan10@bhimupi,BHIM UPI,103.25.166.212,Savings,267235.65
+ACC01223,CUST00732,ICICI Bank,anushkapandey78@bhimupi,BHIM UPI,103.104.84.167,Savings,344437.19
+ACC01224,CUST00075,State Bank of India,snehabansal71@googlepay,Google Pay,103.55.187.33,Current,65614.85
+ACC01225,CUST00949,Axis Bank,vikramiyer64@phonepe,PhonePe,103.87.59.248,Savings,277220.34
+ACC01226,CUST00446,Bank of Baroda,arjunmalhotra90@amazonpay,Amazon Pay,103.136.43.233,Savings,43007.28
+ACC01227,CUST00775,IndusInd Bank,rakeshsingh54@paytm,Paytm,103.142.199.101,Current,252435.62
+ACC01228,CUST00382,IndusInd Bank,rameshsingh90@whatsapppay,WhatsApp Pay,103.210.64.89,Current,131048.35
+ACC01229,CUST00722,Axis Bank,diyaverma28@googlepay,Google Pay,103.173.178.198,Savings,79780.38
+ACC01230,CUST00390,Union Bank of India,vihaaniyer87@amazonpay,Amazon Pay,103.83.94.219,Savings,242875.71
+ACC01231,CUST00455,Kotak Mahindra Bank,vikramreddy26@googlepay,Google Pay,103.119.23.130,Savings,12648.07
+ACC01232,CUST00814,HDFC Bank,sunilbansal80@phonepe,PhonePe,103.21.131.48,Salary,174493.05
+ACC01233,CUST00248,Union Bank of India,aditireddy35@googlepay,Google Pay,103.35.4.126,Savings,139050.79
+ACC01234,CUST00726,Union Bank of India,ishamishra81@googlepay,Google Pay,103.171.247.47,Savings,337298.3
+ACC01235,CUST01010,Bank of Baroda,rameshmishra43@whatsapppay,WhatsApp Pay,103.76.200.104,Savings,113846.99
+ACC01236,CUST00538,ICICI Bank,amitagarwal36@googlepay,Google Pay,103.65.252.177,Salary,50001.22
+ACC01237,CUST00331,Union Bank of India,ananyaagarwal91@phonepe,PhonePe,103.165.75.65,Savings,121464.09
+ACC01238,CUST01160,ICICI Bank,krishnasingh95@whatsapppay,WhatsApp Pay,103.171.221.48,Overdraft,335444.83
+ACC01239,CUST00830,State Bank of India,ayaansaxena33@bhimupi,BHIM UPI,103.168.87.55,Current,17733.47
+ACC01240,CUST00798,Axis Bank,sunilchoudhary71@whatsapppay,WhatsApp Pay,103.72.18.219,Current,186284.64
+ACC01241,CUST00557,Bank of Baroda,arjunkumar72@whatsapppay,WhatsApp Pay,103.221.61.2,Savings,110681.73
+ACC01242,CUST01145,Punjab National Bank,anushkasharma93@phonepe,PhonePe,103.48.4.228,Savings,77303.16
+ACC01243,CUST00790,ICICI Bank,sunilmalhotra94@bhimupi,BHIM UPI,103.210.74.170,Savings,200033.24
+ACC01244,CUST00970,Kotak Mahindra Bank,aditichauhan18@bhimupi,BHIM UPI,103.80.203.122,Savings,111787.94
+ACC01245,CUST01165,HDFC Bank,priyachauhan90@googlepay,Google Pay,103.104.23.110,Savings,94050.01
+ACC01246,CUST00159,IndusInd Bank,adityagupta53@whatsapppay,WhatsApp Pay,103.79.5.146,Savings,32417.73
+ACC01247,CUST00770,IndusInd Bank,priyapatel85@googlepay,Google Pay,103.150.128.92,Savings,21539.24
+ACC01248,CUST00002,ICICI Bank,aditiagarwal42@phonepe,PhonePe,103.50.171.4,Savings,303473.59
+ACC01249,CUST01017,HDFC Bank,priyapandey94@googlepay,Google Pay,103.88.19.241,Savings,85655.99
+ACC01250,CUST00881,IndusInd Bank,vihaanyadav69@bhimupi,BHIM UPI,103.175.117.104,Savings,334234.43
+ACC01251,CUST00972,Axis Bank,vivaanmishra31@phonepe,PhonePe,103.238.124.60,Savings,210878.77
+ACC01252,CUST00380,ICICI Bank,arjunmalhotra93@bhimupi,BHIM UPI,103.205.8.118,Savings,243560.78
+ACC01253,CUST01087,Union Bank of India,deepakchauhan70@amazonpay,Amazon Pay,103.117.91.61,Savings,327621.3
+ACC01254,CUST01171,Punjab National Bank,ananyajoon24@googlepay,Google Pay,103.171.198.98,Savings,66337.45
+ACC01255,CUST01050,IndusInd Bank,amitiyer52@whatsapppay,WhatsApp Pay,103.41.38.12,Savings,205339.68
+ACC01256,CUST00721,State Bank of India,saimehta72@paytm,Paytm,103.79.73.145,Current,279939.54
+ACC01257,CUST00582,Canara Bank,kavyayadav16@phonepe,PhonePe,103.117.248.144,Savings,107506.54
+ACC01258,CUST01116,Bank of Baroda,anushkayadav61@bhimupi,BHIM UPI,103.124.152.116,Savings,309742.32
+ACC01259,CUST00183,Bank of Baroda,aditireddy59@googlepay,Google Pay,103.119.177.254,Current,300336.38
+ACC01260,CUST00068,State Bank of India,sunilsharma41@bhimupi,BHIM UPI,103.188.57.121,Savings,206307.73
+ACC01261,CUST00791,Punjab National Bank,rameshmalhotra64@amazonpay,Amazon Pay,103.128.113.21,Savings,222428.91
+ACC01262,CUST00734,ICICI Bank,manishsharma99@amazonpay,Amazon Pay,103.92.53.13,Savings,207950.78
+ACC01263,CUST00017,ICICI Bank,poojamishra54@paytm,Paytm,103.145.42.119,Savings,72626.34
+ACC01264,CUST00614,Axis Bank,rameshmishra50@phonepe,PhonePe,103.144.159.218,Savings,199685.91
+ACC01265,CUST00687,IndusInd Bank,rameshmishra54@bhimupi,BHIM UPI,103.115.169.112,Salary,340344.94
+ACC01266,CUST00537,Punjab National Bank,adityapatel38@whatsapppay,WhatsApp Pay,103.75.202.19,Savings,107220.71
+ACC01267,CUST00249,Bank of Baroda,snehamishra87@amazonpay,Amazon Pay,103.202.156.63,Savings,330690.12
+ACC01268,CUST00530,Punjab National Bank,ananyapandey67@amazonpay,Amazon Pay,103.157.226.70,Savings,92696.13
+ACC01269,CUST01077,Union Bank of India,rajeshchauhan28@googlepay,Google Pay,103.161.85.129,Savings,212100.84
+ACC01270,CUST00977,Axis Bank,rakeshiyer95@amazonpay,Amazon Pay,103.174.198.226,Current,300417.69
+ACC01271,CUST00553,HDFC Bank,poojagupta30@googlepay,Google Pay,103.12.229.195,Savings,45616.52
+ACC01272,CUST00355,HDFC Bank,arjunmehta15@bhimupi,BHIM UPI,103.87.231.219,Savings,67854.38
+ACC01273,CUST00846,Kotak Mahindra Bank,adityasharma70@paytm,Paytm,103.43.220.200,Current,85929.63
+ACC01274,CUST00088,Punjab National Bank,kavyapandey82@paytm,Paytm,103.87.98.238,Savings,253375.31
+ACC01275,CUST00458,IndusInd Bank,snehagupta13@phonepe,PhonePe,103.198.224.92,Savings,272685.41
+ACC01276,CUST00418,Canara Bank,ishaverma60@paytm,Paytm,103.145.181.153,Current,116103.19
+ACC01277,CUST00691,Canara Bank,poojasharma81@phonepe,PhonePe,103.216.21.237,Salary,76831.11
+ACC01278,CUST00141,Punjab National Bank,diyamalhotra56@whatsapppay,WhatsApp Pay,103.58.67.179,Savings,136066.26
+ACC01279,CUST00174,HDFC Bank,sunilnair79@googlepay,Google Pay,103.22.227.53,Savings,64656.73
+ACC01280,CUST00835,ICICI Bank,aaravgupta27@whatsapppay,WhatsApp Pay,103.73.50.80,Savings,64497.5
+ACC01281,CUST00833,Axis Bank,rajeshgupta23@whatsapppay,WhatsApp Pay,103.69.170.116,Savings,145781.98
+ACC01282,CUST00812,Union Bank of India,ayaansaxena14@phonepe,PhonePe,103.240.254.244,Savings,248909.09
+ACC01283,CUST00289,IndusInd Bank,snehaverma58@paytm,Paytm,103.22.40.227,Current,31839.87
+ACC01284,CUST00998,Canara Bank,amitverma18@paytm,Paytm,103.58.10.78,Savings,111828.67
+ACC01285,CUST00318,Axis Bank,ayaansaxena56@amazonpay,Amazon Pay,103.51.42.209,Salary,330539.86
+ACC01286,CUST00865,Bank of Baroda,manishsingh33@paytm,Paytm,103.96.187.224,Savings,265692.2
+ACC01287,CUST00408,Axis Bank,anushkakumar76@googlepay,Google Pay,103.169.204.60,Overdraft,6176.48
+ACC01288,CUST00677,Bank of Baroda,arjunbansal23@amazonpay,Amazon Pay,103.234.3.59,Savings,69445.36
+ACC01289,CUST00837,Canara Bank,rakeshverma18@bhimupi,BHIM UPI,103.41.172.231,Current,159974.84
+ACC01290,CUST00022,Canara Bank,sunilverma28@bhimupi,BHIM UPI,103.166.157.89,Current,110658.45
+ACC01291,CUST00117,ICICI Bank,priyachoudhary92@paytm,Paytm,103.24.21.242,Savings,318627.2
+ACC01292,CUST01192,Union Bank of India,ananyanair72@paytm,Paytm,103.17.56.70,Savings,332791.09
+ACC01293,CUST00270,State Bank of India,aaravkumar79@googlepay,Google Pay,103.27.243.249,Savings,283420.05
+ACC01294,CUST00034,HDFC Bank,sunilkumar30@bhimupi,BHIM UPI,103.179.205.34,Salary,308437.47
+ACC01295,CUST00120,Canara Bank,arjunmishra62@whatsapppay,WhatsApp Pay,103.76.170.227,Salary,255511.74
+ACC01296,CUST00209,Canara Bank,krishnasharma91@whatsapppay,WhatsApp Pay,103.92.212.67,Savings,217993.36
+ACC01297,CUST00375,Punjab National Bank,arjunsaxena59@phonepe,PhonePe,103.148.59.138,Savings,154526.83
+ACC01298,CUST00961,ICICI Bank,priyachauhan74@paytm,Paytm,103.26.47.40,Current,14516.09
+ACC01299,CUST01198,Kotak Mahindra Bank,ananyasaxena60@bhimupi,BHIM UPI,103.82.183.66,Current,253785.13
+ACC01300,CUST00302,Axis Bank,anushkamalhotra41@bhimupi,BHIM UPI,103.125.147.197,Savings,278152.99
+ACC01301,CUST00205,ICICI Bank,anushkagupta21@phonepe,PhonePe,103.40.136.118,Salary,15166.29
+ACC01302,CUST00710,Union Bank of India,anushkaiyer88@bhimupi,BHIM UPI,103.238.250.231,Savings,299342.68
+ACC01303,CUST00993,Punjab National Bank,rajeshpatel14@whatsapppay,WhatsApp Pay,103.67.154.39,Current,205921.06
+ACC01304,CUST00516,Kotak Mahindra Bank,vivaanmehta86@googlepay,Google Pay,103.236.230.196,Savings,36157.27
+ACC01305,CUST00360,ICICI Bank,poojachauhan59@bhimupi,BHIM UPI,103.73.57.143,Current,57660.65
+ACC01306,CUST00739,Punjab National Bank,arjunmalhotra28@googlepay,Google Pay,103.55.97.174,Savings,283912.65
+ACC01307,CUST00784,Axis Bank,arjunmishra10@googlepay,Google Pay,103.219.51.52,Savings,103402.46
+ACC01308,CUST00907,State Bank of India,ayaanjoon74@paytm,Paytm,103.137.131.154,Current,116042.47
+ACC01309,CUST00555,Canara Bank,rameshchauhan31@phonepe,PhonePe,103.105.158.175,Savings,177866.65
+ACC01310,CUST00716,HDFC Bank,rameshbansal50@amazonpay,Amazon Pay,103.184.115.128,Savings,245845.79
+ACC01311,CUST00373,Bank of Baroda,adityapatel91@bhimupi,BHIM UPI,103.50.243.225,Savings,111128.08
+ACC01312,CUST00478,Punjab National Bank,priyasingh67@googlepay,Google Pay,103.131.82.204,Salary,319260.96
+ACC01313,CUST01162,ICICI Bank,manojreddy63@phonepe,PhonePe,103.112.90.139,Savings,283427.66
+ACC01314,CUST00275,State Bank of India,ayaanjoon57@whatsapppay,WhatsApp Pay,103.50.39.152,Savings,25431.89
+ACC01315,CUST00841,Axis Bank,diyapatel29@phonepe,PhonePe,103.90.194.171,Savings,141077.01
+ACC01316,CUST00893,Axis Bank,adityapatel95@bhimupi,BHIM UPI,103.49.166.105,Current,218036.84
+ACC01317,CUST00608,ICICI Bank,gaurimehta65@phonepe,PhonePe,103.95.170.67,Savings,9960.21
+ACC01318,CUST01129,Kotak Mahindra Bank,anushkaverma34@phonepe,PhonePe,103.37.58.168,Savings,298040.97
+ACC01319,CUST00090,Punjab National Bank,krishnasaxena78@amazonpay,Amazon Pay,103.67.181.220,Current,286713.26
+ACC01320,CUST00172,ICICI Bank,suniljoon22@googlepay,Google Pay,103.54.201.20,Salary,103977.35
+ACC01321,CUST00231,Kotak Mahindra Bank,manishmalhotra29@amazonpay,Amazon Pay,103.149.107.138,Current,140811.46
+ACC01322,CUST00018,HDFC Bank,ayaanverma24@amazonpay,Amazon Pay,103.77.143.138,Savings,108601.71
+ACC01323,CUST00626,ICICI Bank,anushkabansal10@whatsapppay,WhatsApp Pay,103.109.46.146,Savings,320490.41
+ACC01324,CUST01020,Canara Bank,vivaannair77@whatsapppay,WhatsApp Pay,103.222.81.134,Savings,257993.76
+ACC01325,CUST00795,Bank of Baroda,poojanair61@paytm,Paytm,103.208.191.31,Current,253615.05
+ACC01326,CUST00446,Punjab National Bank,arjunmalhotra33@whatsapppay,WhatsApp Pay,103.46.184.239,Savings,51118.28
+ACC01327,CUST00154,Axis Bank,ishaiyer12@googlepay,Google Pay,103.26.12.73,Savings,88901.01
+ACC01328,CUST00445,HDFC Bank,vivaanyadav72@paytm,Paytm,103.235.146.198,Salary,303111.46
+ACC01329,CUST00185,Canara Bank,sunilgupta67@amazonpay,Amazon Pay,103.204.105.151,Savings,341879.1
+ACC01330,CUST00569,IndusInd Bank,aditiyadav77@whatsapppay,WhatsApp Pay,103.51.132.179,Savings,257506.87
+ACC01331,CUST00041,State Bank of India,vivaansharma65@googlepay,Google Pay,103.15.189.177,Savings,247327.52
+ACC01332,CUST00128,State Bank of India,sureshreddy35@paytm,Paytm,103.148.87.50,Current,66398.94
+ACC01333,CUST00198,State Bank of India,ishapatel90@paytm,Paytm,103.217.46.70,Savings,185546.33
+ACC01334,CUST00482,Union Bank of India,anushkayadav10@whatsapppay,WhatsApp Pay,103.151.177.42,Salary,294936.72
+ACC01335,CUST00351,IndusInd Bank,priyamalhotra17@amazonpay,Amazon Pay,103.111.137.179,Savings,288010.92
+ACC01336,CUST00894,Axis Bank,rakeshchoudhary32@googlepay,Google Pay,103.237.53.226,Current,213490.12
+ACC01337,CUST00790,Axis Bank,sunilmalhotra71@googlepay,Google Pay,103.201.22.130,Savings,40358.63
+ACC01338,CUST01111,Bank of Baroda,saichauhan60@googlepay,Google Pay,103.73.112.142,Savings,272051.53
+ACC01339,CUST00002,HDFC Bank,aditiagarwal29@googlepay,Google Pay,103.212.41.52,Savings,251055.24
+ACC01340,CUST00313,HDFC Bank,suniljoon79@whatsapppay,WhatsApp Pay,103.197.249.58,Current,65798.82
+ACC01341,CUST00130,Union Bank of India,diyasaxena51@bhimupi,BHIM UPI,103.205.189.241,Current,142418.19
+ACC01342,CUST00988,Canara Bank,aditisaxena22@bhimupi,BHIM UPI,103.118.194.162,Savings,289019.86
+ACC01343,CUST00343,State Bank of India,ishaannair78@whatsapppay,WhatsApp Pay,103.229.168.209,Savings,269728.42
+ACC01344,CUST00261,Canara Bank,diyaiyer66@amazonpay,Amazon Pay,103.39.118.236,Salary,39178.81
+ACC01345,CUST00859,IndusInd Bank,diyareddy92@amazonpay,Amazon Pay,103.187.77.90,Savings,62779.18
+ACC01346,CUST00035,ICICI Bank,aaraviyer60@whatsapppay,WhatsApp Pay,103.188.245.211,Savings,134873.04
+ACC01347,CUST00350,IndusInd Bank,vikramchoudhary83@paytm,Paytm,103.45.83.115,Current,216051.56
+ACC01348,CUST01159,ICICI Bank,rajeshreddy51@paytm,Paytm,103.79.172.112,Savings,3656.85
+ACC01349,CUST00911,Punjab National Bank,aditikumar84@googlepay,Google Pay,103.15.114.69,Current,50380.43
+ACC01350,CUST00844,Bank of Baroda,sunilbansal48@amazonpay,Amazon Pay,103.122.147.159,Savings,8046.99
+ACC01351,CUST00008,Union Bank of India,rajeshgupta68@amazonpay,Amazon Pay,103.184.128.66,Savings,240111.58
+ACC01352,CUST01170,Punjab National Bank,manojchoudhary45@bhimupi,BHIM UPI,103.140.50.206,Savings,176671.89
+ACC01353,CUST00620,HDFC Bank,gaurigupta69@bhimupi,BHIM UPI,103.224.118.133,Savings,120505.26
+ACC01354,CUST00817,IndusInd Bank,snehapatel78@amazonpay,Amazon Pay,103.107.75.199,Savings,10270.06
+ACC01355,CUST00594,Kotak Mahindra Bank,gaurisaxena87@phonepe,PhonePe,103.173.132.207,Savings,3964.51
+ACC01356,CUST00351,HDFC Bank,priyamalhotra30@phonepe,PhonePe,103.127.11.102,Savings,193730.49
+ACC01357,CUST00126,State Bank of India,rameshsharma32@amazonpay,Amazon Pay,103.223.65.92,Savings,269675.27
+ACC01358,CUST00002,Union Bank of India,aditiagarwal83@amazonpay,Amazon Pay,103.233.171.206,Savings,169122.43
+ACC01359,CUST01108,Union Bank of India,deepakagarwal89@googlepay,Google Pay,103.131.68.214,Savings,348197.79
+ACC01360,CUST01134,Kotak Mahindra Bank,rajeshkumar40@bhimupi,BHIM UPI,103.124.202.95,Savings,17011.53
+ACC01361,CUST00436,State Bank of India,ishareddy54@whatsapppay,WhatsApp Pay,103.204.174.104,Current,311067.29
+ACC01362,CUST00729,Axis Bank,deepakchauhan55@phonepe,PhonePe,103.34.143.67,Savings,67457.87
+ACC01363,CUST00898,Union Bank of India,arjunsingh47@whatsapppay,WhatsApp Pay,103.155.14.129,Savings,319936.22
+ACC01364,CUST00040,HDFC Bank,aditichoudhary70@amazonpay,Amazon Pay,103.234.165.206,Savings,39993.0
+ACC01365,CUST00418,Bank of Baroda,ishaverma98@paytm,Paytm,103.69.70.236,Savings,332418.03
+ACC01366,CUST00517,ICICI Bank,reyanshmalhotra86@amazonpay,Amazon Pay,103.110.124.71,Salary,334164.9
+ACC01367,CUST01145,Bank of Baroda,anushkasharma31@paytm,Paytm,103.19.97.37,Savings,44553.08
+ACC01368,CUST00663,Kotak Mahindra Bank,amitsaxena86@amazonpay,Amazon Pay,103.132.36.81,Savings,268957.38
+ACC01369,CUST00378,ICICI Bank,rajeshbansal87@phonepe,PhonePe,103.70.56.239,Savings,231137.33
+ACC01370,CUST00901,State Bank of India,saipandey73@paytm,Paytm,103.240.100.78,Savings,239814.64
+ACC01371,CUST00667,Kotak Mahindra Bank,rakeshverma38@amazonpay,Amazon Pay,103.93.44.25,Savings,286314.52
+ACC01372,CUST01095,Axis Bank,ayaansaxena10@paytm,Paytm,103.30.249.36,Savings,255164.63
+ACC01373,CUST00447,HDFC Bank,manishreddy99@googlepay,Google Pay,103.240.153.15,Current,87573.33
+ACC01374,CUST00262,ICICI Bank,krishnapandey18@phonepe,PhonePe,103.209.121.61,Salary,224212.33
+ACC01375,CUST00949,Canara Bank,vikramiyer64@googlepay,Google Pay,103.147.165.140,Current,216311.18
+ACC01376,CUST01139,Kotak Mahindra Bank,aditisaxena96@whatsapppay,WhatsApp Pay,103.93.44.47,Savings,107193.21
+ACC01377,CUST00710,ICICI Bank,anushkaiyer50@whatsapppay,WhatsApp Pay,103.39.251.129,Savings,129201.07
+ACC01378,CUST00173,Canara Bank,kavyasharma17@phonepe,PhonePe,103.23.136.219,Savings,127463.85
+ACC01379,CUST00190,Punjab National Bank,deepakkumar68@bhimupi,BHIM UPI,103.130.59.196,Savings,75580.97
+ACC01380,CUST00290,Punjab National Bank,amitverma77@bhimupi,BHIM UPI,103.228.188.76,Current,276420.02
+ACC01381,CUST00945,HDFC Bank,vihaansharma84@paytm,Paytm,103.216.251.147,Savings,91355.14
+ACC01382,CUST00417,State Bank of India,vivaanagarwal39@paytm,Paytm,103.146.8.57,Savings,185682.97
+ACC01383,CUST00863,HDFC Bank,adityasharma98@phonepe,PhonePe,103.221.165.134,Savings,343150.86
+ACC01384,CUST00875,State Bank of India,ayaanchauhan70@amazonpay,Amazon Pay,103.237.45.208,Savings,24376.92
+ACC01385,CUST00357,Canara Bank,ishamehta70@amazonpay,Amazon Pay,103.83.212.143,Savings,110931.41
+ACC01386,CUST00129,Kotak Mahindra Bank,anushkayadav25@googlepay,Google Pay,103.88.105.84,Savings,74841.06
+ACC01387,CUST00671,Axis Bank,manojchauhan75@bhimupi,BHIM UPI,103.141.145.222,Savings,148987.1
+ACC01388,CUST00980,Axis Bank,aaravreddy45@paytm,Paytm,103.137.23.189,Current,259936.21
+ACC01389,CUST00333,IndusInd Bank,ananyasingh85@bhimupi,BHIM UPI,103.89.58.54,Salary,48224.83
+ACC01390,CUST01179,Punjab National Bank,poojajoon90@bhimupi,BHIM UPI,103.77.249.232,Current,213552.19
+ACC01391,CUST01178,IndusInd Bank,ishaanpandey98@phonepe,PhonePe,103.22.137.153,Savings,168151.85
+ACC01392,CUST01183,State Bank of India,ayaanyadav39@amazonpay,Amazon Pay,103.185.182.88,Current,246642.97
+ACC01393,CUST01107,IndusInd Bank,aaravsaxena94@bhimupi,BHIM UPI,103.83.44.167,Savings,97288.91
+ACC01394,CUST01054,Union Bank of India,manishagarwal89@paytm,Paytm,103.240.215.172,Current,160508.5
+ACC01395,CUST00760,Canara Bank,priyaiyer81@googlepay,Google Pay,103.104.211.199,Salary,115343.4
+ACC01396,CUST01170,Kotak Mahindra Bank,manojchoudhary26@amazonpay,Amazon Pay,103.199.29.216,Salary,63112.96
+ACC01397,CUST00147,Canara Bank,reyanshmalhotra84@whatsapppay,WhatsApp Pay,103.147.156.170,Savings,296082.06
+ACC01398,CUST00152,ICICI Bank,ishaiyer77@paytm,Paytm,103.173.156.233,Savings,314600.43
+ACC01399,CUST00947,State Bank of India,snehachauhan84@paytm,Paytm,103.77.237.85,Savings,276572.69
+ACC01400,CUST00423,Bank of Baroda,amitjoon30@bhimupi,BHIM UPI,103.110.252.134,Savings,64187.71
+ACC01401,CUST00446,State Bank of India,arjunmalhotra77@googlepay,Google Pay,103.202.112.218,Savings,271488.57
+ACC01402,CUST01184,Axis Bank,manojchauhan72@amazonpay,Amazon Pay,103.30.71.242,Current,201964.99
+ACC01403,CUST00047,IndusInd Bank,gauriverma83@whatsapppay,WhatsApp Pay,103.52.214.27,Savings,202193.72
+ACC01404,CUST00759,Kotak Mahindra Bank,deepaksharma81@googlepay,Google Pay,103.118.150.54,Current,276366.86
+ACC01405,CUST00184,Kotak Mahindra Bank,ananyaagarwal74@whatsapppay,WhatsApp Pay,103.15.194.185,Savings,262276.29
+ACC01406,CUST00653,Axis Bank,rakeshmehta96@googlepay,Google Pay,103.201.191.32,Savings,84775.33
+ACC01407,CUST01198,HDFC Bank,ananyasaxena41@phonepe,PhonePe,103.146.33.219,Salary,166271.54
+ACC01408,CUST00276,Kotak Mahindra Bank,manojchoudhary25@paytm,Paytm,103.119.11.147,Savings,186126.02
+ACC01409,CUST01096,HDFC Bank,kavyapatel25@amazonpay,Amazon Pay,103.93.16.226,Savings,74656.01
+ACC01410,CUST00945,Axis Bank,vihaansharma18@bhimupi,BHIM UPI,103.188.204.202,Salary,72371.73
+ACC01411,CUST00824,ICICI Bank,vivaannair20@bhimupi,BHIM UPI,103.99.131.185,Savings,199138.3
+ACC01412,CUST00429,Kotak Mahindra Bank,ananyasingh89@googlepay,Google Pay,103.11.161.86,Savings,341411.99
+ACC01413,CUST00882,HDFC Bank,manojagarwal91@paytm,Paytm,103.125.171.64,Salary,117342.13
+ACC01414,CUST00791,Bank of Baroda,rameshmalhotra84@googlepay,Google Pay,103.57.92.89,Savings,40933.71
+ACC01415,CUST00778,Punjab National Bank,krishnayadav60@googlepay,Google Pay,103.167.11.169,Salary,178066.31
+ACC01416,CUST00492,Canara Bank,reyanshsharma33@bhimupi,BHIM UPI,103.228.41.140,Savings,348870.58
+ACC01417,CUST00775,Bank of Baroda,rakeshsingh53@phonepe,PhonePe,103.85.46.134,Salary,282629.66
+ACC01418,CUST00526,HDFC Bank,deepaksharma97@whatsapppay,WhatsApp Pay,103.18.229.27,Savings,243950.47
+ACC01419,CUST00663,Axis Bank,amitsaxena78@paytm,Paytm,103.172.236.77,Current,93327.54
+ACC01420,CUST00765,HDFC Bank,saichoudhary34@phonepe,PhonePe,103.149.1.35,Savings,75290.63
+ACC01421,CUST00541,ICICI Bank,ishaanchauhan63@bhimupi,BHIM UPI,103.44.240.220,Savings,36305.78
+ACC01422,CUST00531,Punjab National Bank,manishjoon24@bhimupi,BHIM UPI,103.158.59.152,Savings,74389.41
+ACC01423,CUST00045,IndusInd Bank,manojjoon83@bhimupi,BHIM UPI,103.117.127.103,Current,264781.93
+ACC01424,CUST00008,IndusInd Bank,rajeshgupta32@googlepay,Google Pay,103.205.220.72,Savings,178447.06
+ACC01425,CUST00553,Kotak Mahindra Bank,poojagupta24@paytm,Paytm,103.70.213.213,Current,188404.33
+ACC01426,CUST00930,ICICI Bank,vikramjoon25@bhimupi,BHIM UPI,103.237.51.6,Savings,148973.97
+ACC01427,CUST01133,Union Bank of India,kavyamalhotra23@phonepe,PhonePe,103.224.214.211,Current,252434.73
+ACC01428,CUST00072,Axis Bank,adityanair36@paytm,Paytm,103.204.134.231,Savings,172949.47
+ACC01429,CUST01124,Canara Bank,sureshchauhan93@bhimupi,BHIM UPI,103.141.57.188,Current,141943.69
+ACC01430,CUST00973,Canara Bank,rajeshmishra42@phonepe,PhonePe,103.193.3.155,Savings,319643.94
+ACC01431,CUST00715,Axis Bank,kavyasingh91@amazonpay,Amazon Pay,103.15.48.140,Current,47067.47
+ACC01432,CUST00542,ICICI Bank,adityachauhan43@phonepe,PhonePe,103.226.44.221,Savings,313106.32
+ACC01433,CUST00072,Kotak Mahindra Bank,adityanair69@bhimupi,BHIM UPI,103.78.195.72,Savings,20280.69
+ACC01434,CUST01014,IndusInd Bank,priyayadav44@whatsapppay,WhatsApp Pay,103.65.41.70,Savings,273383.7
+ACC01435,CUST01129,HDFC Bank,anushkaverma89@phonepe,PhonePe,103.167.80.26,Savings,323297.13
+ACC01436,CUST00296,Punjab National Bank,ayaanyadav69@amazonpay,Amazon Pay,103.196.189.143,Savings,260670.88
+ACC01437,CUST00524,IndusInd Bank,reyanshchauhan36@bhimupi,BHIM UPI,103.105.21.254,Savings,104842.29
+ACC01438,CUST00296,ICICI Bank,ayaanyadav11@paytm,Paytm,103.237.178.166,Savings,60750.77
+ACC01439,CUST00205,HDFC Bank,anushkagupta89@amazonpay,Amazon Pay,103.59.79.98,Savings,35176.26
+ACC01440,CUST00782,Axis Bank,priyapatel70@phonepe,PhonePe,103.149.103.115,Savings,59857.41
+ACC01441,CUST00311,State Bank of India,kavyamehta86@phonepe,PhonePe,103.212.61.101,Savings,145229.55
+ACC01442,CUST00278,HDFC Bank,rameshmishra56@amazonpay,Amazon Pay,103.149.150.8,Savings,162963.8
+ACC01443,CUST00642,State Bank of India,reyanshiyer22@phonepe,PhonePe,103.44.86.245,Savings,338011.05
+ACC01444,CUST00054,Canara Bank,kavyakumar88@googlepay,Google Pay,103.58.193.200,Savings,158289.12
+ACC01445,CUST00329,HDFC Bank,kavyayadav36@phonepe,PhonePe,103.107.145.11,Savings,165678.59
+ACC01446,CUST00155,Bank of Baroda,krishnaagarwal28@bhimupi,BHIM UPI,103.16.206.211,Savings,304613.5
+ACC01447,CUST00573,Bank of Baroda,aditireddy73@phonepe,PhonePe,103.52.141.207,Savings,24406.73
+ACC01448,CUST00013,Canara Bank,sainair49@paytm,Paytm,103.23.252.251,Savings,79341.22
+ACC01449,CUST00618,Punjab National Bank,poojamehta33@googlepay,Google Pay,103.33.166.102,Savings,120141.27
+ACC01450,CUST00440,IndusInd Bank,saiverma20@paytm,Paytm,103.197.234.240,Savings,6447.67
+ACC01451,CUST00557,Punjab National Bank,arjunkumar67@whatsapppay,WhatsApp Pay,103.131.227.47,Current,8400.08
+ACC01452,CUST00375,Bank of Baroda,arjunsaxena90@whatsapppay,WhatsApp Pay,103.34.58.237,Savings,143436.86
+ACC01453,CUST00954,IndusInd Bank,rameshiyer81@paytm,Paytm,103.183.35.70,Savings,289592.85
+ACC01454,CUST00736,IndusInd Bank,adityachoudhary54@amazonpay,Amazon Pay,103.19.34.28,Savings,233761.49
+ACC01455,CUST00655,Union Bank of India,amitpandey21@amazonpay,Amazon Pay,103.120.139.226,Savings,265228.1
+ACC01456,CUST00585,IndusInd Bank,vikramreddy62@amazonpay,Amazon Pay,103.152.110.203,Savings,343242.33
+ACC01457,CUST00863,ICICI Bank,adityasharma69@googlepay,Google Pay,103.25.233.3,Savings,94597.38
+ACC01458,CUST00935,Punjab National Bank,rameshnair75@phonepe,PhonePe,103.122.211.169,Current,31455.48
+ACC01459,CUST01157,HDFC Bank,vivaanpatel14@amazonpay,Amazon Pay,103.168.217.146,Savings,153295.53
+ACC01460,CUST00090,State Bank of India,krishnasaxena83@bhimupi,BHIM UPI,103.205.136.239,Current,312859.98
+ACC01461,CUST00413,Bank of Baroda,arjunchauhan90@amazonpay,Amazon Pay,103.60.202.84,Savings,97871.57
+ACC01462,CUST00551,Union Bank of India,reyanshpatel44@bhimupi,BHIM UPI,103.20.130.41,Savings,201142.45
+ACC01463,CUST01081,Bank of Baroda,manishsharma45@paytm,Paytm,103.47.183.220,Savings,23538.36
+ACC01464,CUST00341,Axis Bank,vihaanyadav72@whatsapppay,WhatsApp Pay,103.200.38.222,Savings,315980.5
+ACC01465,CUST00004,Axis Bank,vihaangupta10@googlepay,Google Pay,103.14.141.133,Savings,277751.16
+ACC01466,CUST00826,Canara Bank,sunilsaxena85@googlepay,Google Pay,103.11.1.133,Savings,268957.22
+ACC01467,CUST01164,HDFC Bank,diyamehta42@phonepe,PhonePe,103.214.1.6,Savings,299627.95
+ACC01468,CUST00190,Bank of Baroda,deepakkumar90@amazonpay,Amazon Pay,103.70.36.176,Savings,326869.67
+ACC01469,CUST01192,Union Bank of India,ananyanair68@amazonpay,Amazon Pay,103.168.12.100,Current,278407.27
+ACC01470,CUST00690,Punjab National Bank,rameshkumar20@amazonpay,Amazon Pay,103.231.233.141,Salary,349991.24
+ACC01471,CUST00796,Axis Bank,vihaanverma16@phonepe,PhonePe,103.162.209.216,Savings,180509.97
+ACC01472,CUST00449,Axis Bank,reyanshchauhan25@bhimupi,BHIM UPI,103.195.214.63,Current,29327.44
+ACC01473,CUST00197,Union Bank of India,kavyamehta50@phonepe,PhonePe,103.164.143.166,Savings,91068.7
+ACC01474,CUST01027,ICICI Bank,manojsingh49@amazonpay,Amazon Pay,103.14.49.163,Savings,296828.62
+ACC01475,CUST00025,HDFC Bank,kavyaiyer36@paytm,Paytm,103.71.72.106,Savings,156543.96
+ACC01476,CUST00769,IndusInd Bank,sainair86@amazonpay,Amazon Pay,103.158.228.181,Savings,141845.48
+ACC01477,CUST00905,ICICI Bank,priyaverma16@whatsapppay,WhatsApp Pay,103.150.36.69,Savings,252495.7
+ACC01478,CUST00286,Union Bank of India,ishaaniyer98@phonepe,PhonePe,103.45.168.57,Savings,208964.0
+ACC01479,CUST00592,State Bank of India,reyanshmishra60@googlepay,Google Pay,103.145.89.129,Savings,174159.79
+ACC01480,CUST00666,ICICI Bank,poojachauhan39@bhimupi,BHIM UPI,103.101.164.249,Current,109394.78
+ACC01481,CUST00456,Kotak Mahindra Bank,manojyadav12@bhimupi,BHIM UPI,103.32.41.159,Savings,270170.54
+ACC01482,CUST00286,Union Bank of India,ishaaniyer52@whatsapppay,WhatsApp Pay,103.39.176.108,Savings,220105.45
+ACC01483,CUST00671,Kotak Mahindra Bank,manojchauhan12@amazonpay,Amazon Pay,103.231.229.102,Savings,11581.65
+ACC01484,CUST00952,IndusInd Bank,aaravyadav38@googlepay,Google Pay,103.119.105.7,Savings,45161.5
+ACC01485,CUST00497,Union Bank of India,manishsaxena68@googlepay,Google Pay,103.32.186.226,Savings,61935.47
+ACC01486,CUST00261,IndusInd Bank,diyaiyer90@whatsapppay,WhatsApp Pay,103.99.23.33,Savings,316605.07
+ACC01487,CUST01091,Kotak Mahindra Bank,ananyapatel73@phonepe,PhonePe,103.121.193.84,Current,285306.41
+ACC01488,CUST00530,Punjab National Bank,ananyapandey15@bhimupi,BHIM UPI,103.88.168.46,Salary,342475.06
+ACC01489,CUST00859,Axis Bank,diyareddy48@whatsapppay,WhatsApp Pay,103.16.28.160,Savings,83190.94
+ACC01490,CUST00750,Canara Bank,sureshagarwal90@whatsapppay,WhatsApp Pay,103.197.80.126,Overdraft,91185.81
+ACC01491,CUST00717,Union Bank of India,poojasharma20@bhimupi,BHIM UPI,103.114.137.44,Savings,111588.69
+ACC01492,CUST00208,ICICI Bank,aditimishra95@bhimupi,BHIM UPI,103.110.116.253,Salary,137498.62
+ACC01493,CUST00857,Bank of Baroda,adityapandey99@paytm,Paytm,103.49.220.34,Current,27267.65
+ACC01494,CUST00906,Bank of Baroda,ananyareddy66@amazonpay,Amazon Pay,103.226.70.203,Savings,165920.09
+ACC01495,CUST00165,ICICI Bank,gaurigupta17@amazonpay,Amazon Pay,103.102.4.10,Savings,326460.96
+ACC01496,CUST01046,Punjab National Bank,ishaanmehta82@amazonpay,Amazon Pay,103.87.250.38,Savings,109965.85
+ACC01497,CUST00557,Axis Bank,arjunkumar16@paytm,Paytm,103.117.225.190,Savings,191915.47
+ACC01498,CUST00227,ICICI Bank,vihaanchauhan53@phonepe,PhonePe,103.120.216.65,Current,263047.88
+ACC01499,CUST00336,Kotak Mahindra Bank,manishgupta83@paytm,Paytm,103.14.249.103,Current,97106.09
+ACC01500,CUST00580,HDFC Bank,sunilmishra22@phonepe,PhonePe,103.166.127.199,Savings,192875.72
+ACC01501,CUST01088,ICICI Bank,ayaanverma41@bhimupi,BHIM UPI,103.181.110.60,Savings,118408.43
+ACC01502,CUST00589,Union Bank of India,deepakgupta32@amazonpay,Amazon Pay,103.145.133.71,Current,147211.52
+ACC01503,CUST00048,Bank of Baroda,ayaansharma43@bhimupi,BHIM UPI,103.14.89.217,Current,35714.4
+ACC01504,CUST00090,ICICI Bank,krishnasaxena30@phonepe,PhonePe,103.104.80.51,Current,97998.58
+ACC01505,CUST00382,Axis Bank,rameshsingh25@phonepe,PhonePe,103.23.80.157,Current,184998.46
+ACC01506,CUST00009,Axis Bank,manojpandey28@bhimupi,BHIM UPI,103.196.165.224,Savings,18978.55
+ACC01507,CUST00120,Axis Bank,arjunmishra17@googlepay,Google Pay,103.61.27.153,Overdraft,289911.15
+ACC01508,CUST00102,HDFC Bank,snehasaxena45@phonepe,PhonePe,103.13.54.77,Savings,166457.93
+ACC01509,CUST00240,Axis Bank,arjunmalhotra98@phonepe,PhonePe,103.35.151.211,Savings,228454.93
+ACC01510,CUST00850,State Bank of India,manishbansal23@whatsapppay,WhatsApp Pay,103.203.100.227,Current,266315.59
+ACC01511,CUST00727,IndusInd Bank,ayaansingh74@phonepe,PhonePe,103.158.166.73,Savings,222828.32
+ACC01512,CUST01073,Kotak Mahindra Bank,anushkamehta11@paytm,Paytm,103.29.53.246,Savings,78598.18
+ACC01513,CUST01086,ICICI Bank,vikrammehta25@whatsapppay,WhatsApp Pay,103.52.143.136,Savings,293073.78
+ACC01514,CUST01071,State Bank of India,ananyasaxena27@bhimupi,BHIM UPI,103.163.195.15,Current,164047.92
+ACC01515,CUST00851,HDFC Bank,anushkayadav13@bhimupi,BHIM UPI,103.141.29.200,Savings,341593.81
+ACC01516,CUST00317,ICICI Bank,saikumar96@googlepay,Google Pay,103.204.151.163,Savings,88334.32
+ACC01517,CUST01005,HDFC Bank,arjunmishra35@amazonpay,Amazon Pay,103.224.59.11,Savings,147019.25
+ACC01518,CUST00218,State Bank of India,diyaiyer46@googlepay,Google Pay,103.182.186.184,Savings,274640.16
+ACC01519,CUST00954,Union Bank of India,rameshiyer11@phonepe,PhonePe,103.75.172.223,Savings,279541.69
+ACC01520,CUST00277,Axis Bank,sureshgupta33@bhimupi,BHIM UPI,103.221.32.101,Savings,276375.03
+ACC01521,CUST00788,IndusInd Bank,vihaanmishra58@whatsapppay,WhatsApp Pay,103.226.117.67,Savings,165519.85
+ACC01522,CUST00797,Canara Bank,arjunsharma97@whatsapppay,WhatsApp Pay,103.121.159.177,Savings,202533.43
+ACC01523,CUST00747,ICICI Bank,saiagarwal51@phonepe,PhonePe,103.39.215.105,Savings,288296.28
+ACC01524,CUST00796,HDFC Bank,vihaanverma71@phonepe,PhonePe,103.65.51.94,Salary,329385.43
+ACC01525,CUST01071,Punjab National Bank,ananyasaxena46@googlepay,Google Pay,103.189.192.178,Current,188598.66
+ACC01526,CUST00455,IndusInd Bank,vikramreddy46@googlepay,Google Pay,103.84.129.17,Savings,4071.5
+ACC01527,CUST00220,Bank of Baroda,vikramiyer19@amazonpay,Amazon Pay,103.90.220.59,Current,35776.43
+ACC01528,CUST00146,Bank of Baroda,ayaanpatel56@bhimupi,BHIM UPI,103.192.141.254,Current,102135.18
+ACC01529,CUST00502,Axis Bank,anushkayadav88@whatsapppay,WhatsApp Pay,103.69.80.141,Current,1597.52
+ACC01530,CUST00035,HDFC Bank,aaraviyer73@paytm,Paytm,103.206.40.126,Savings,283030.49
+ACC01531,CUST00870,HDFC Bank,diyamehta70@paytm,Paytm,103.96.83.191,Savings,302547.47
+ACC01532,CUST00281,Union Bank of India,rakeshsharma67@phonepe,PhonePe,103.94.207.26,Salary,207500.23
+ACC01533,CUST01153,Canara Bank,aaravmishra22@amazonpay,Amazon Pay,103.76.40.97,Savings,224002.39
+ACC01534,CUST00946,ICICI Bank,reyanshyadav59@googlepay,Google Pay,103.85.202.75,Savings,258481.95
+ACC01535,CUST00758,Punjab National Bank,rajeshverma69@bhimupi,BHIM UPI,103.19.92.17,Savings,10047.11
+ACC01536,CUST00417,State Bank of India,vivaanagarwal69@amazonpay,Amazon Pay,103.108.207.68,Savings,168499.18
+ACC01537,CUST00471,Canara Bank,krishnasingh17@whatsapppay,WhatsApp Pay,103.134.82.79,Savings,185761.66
+ACC01538,CUST00381,Canara Bank,ayaanyadav19@paytm,Paytm,103.138.217.84,Current,235265.77
+ACC01539,CUST00786,State Bank of India,krishnasaxena82@googlepay,Google Pay,103.76.198.193,Savings,185063.02
+ACC01540,CUST00303,Canara Bank,kavyaverma81@googlepay,Google Pay,103.86.12.115,Savings,88109.75
+ACC01541,CUST00022,Canara Bank,sunilverma58@whatsapppay,WhatsApp Pay,103.46.123.243,Savings,292274.78
+ACC01542,CUST00423,Kotak Mahindra Bank,amitjoon80@googlepay,Google Pay,103.112.122.107,Salary,125668.02
+ACC01543,CUST00257,Axis Bank,ananyapandey65@amazonpay,Amazon Pay,103.223.122.156,Current,313624.33
+ACC01544,CUST00062,Punjab National Bank,ayaanmalhotra76@amazonpay,Amazon Pay,103.161.174.60,Overdraft,243025.64
+ACC01545,CUST00759,Axis Bank,deepaksharma10@paytm,Paytm,103.16.176.135,Savings,211592.45
+ACC01546,CUST00297,Canara Bank,adityapandey83@googlepay,Google Pay,103.31.245.232,Savings,298887.17
+ACC01547,CUST00879,Punjab National Bank,adityanair50@phonepe,PhonePe,103.177.189.83,Savings,20691.67
+ACC01548,CUST00971,Union Bank of India,kavyagupta69@amazonpay,Amazon Pay,103.96.89.66,Savings,297763.16
+ACC01549,CUST00057,Axis Bank,aditichoudhary43@amazonpay,Amazon Pay,103.56.123.54,Savings,262477.92
+ACC01550,CUST00267,Canara Bank,saisingh36@whatsapppay,WhatsApp Pay,103.190.46.45,Savings,51955.15
+ACC01551,CUST00212,HDFC Bank,deepakchauhan69@phonepe,PhonePe,103.176.228.126,Current,42681.86
+ACC01552,CUST01008,HDFC Bank,amitmehta31@bhimupi,BHIM UPI,103.85.41.158,Savings,130496.15
+ACC01553,CUST00592,Punjab National Bank,reyanshmishra61@amazonpay,Amazon Pay,103.69.9.96,Savings,36696.09
+ACC01554,CUST00871,IndusInd Bank,ishaanmishra36@phonepe,PhonePe,103.216.46.48,Savings,63473.9
+ACC01555,CUST00847,IndusInd Bank,rajeshkumar11@amazonpay,Amazon Pay,103.237.69.48,Savings,94388.85
+ACC01556,CUST00159,State Bank of India,adityagupta79@bhimupi,BHIM UPI,103.28.116.119,Savings,265935.89
+ACC01557,CUST00443,HDFC Bank,saisingh34@bhimupi,BHIM UPI,103.209.11.228,Savings,4267.72
+ACC01558,CUST00068,Punjab National Bank,sunilsharma35@amazonpay,Amazon Pay,103.115.214.118,Savings,320928.71
+ACC01559,CUST00772,IndusInd Bank,rameshagarwal24@googlepay,Google Pay,103.122.41.145,Current,155538.64
+ACC01560,CUST00495,Union Bank of India,reyanshpatel79@phonepe,PhonePe,103.154.9.190,Savings,325405.0
+ACC01561,CUST00533,State Bank of India,kavyayadav54@googlepay,Google Pay,103.166.210.253,Savings,38499.64
+ACC01562,CUST00449,IndusInd Bank,reyanshchauhan26@googlepay,Google Pay,103.50.254.195,Savings,189550.89
+ACC01563,CUST00179,ICICI Bank,amitgupta25@amazonpay,Amazon Pay,103.66.90.167,Current,341241.6
+ACC01564,CUST01154,Bank of Baroda,ishaansaxena26@phonepe,PhonePe,103.193.108.116,Current,116229.13
+ACC01565,CUST00352,Canara Bank,sunilsingh80@googlepay,Google Pay,103.101.251.53,Savings,93038.86
+ACC01566,CUST00766,State Bank of India,arjunbansal10@bhimupi,BHIM UPI,103.149.112.78,Savings,146834.2
+ACC01567,CUST01015,Kotak Mahindra Bank,rakeshverma12@bhimupi,BHIM UPI,103.149.3.171,Savings,36597.32
+ACC01568,CUST00352,IndusInd Bank,sunilsingh31@phonepe,PhonePe,103.29.232.96,Savings,330601.52
+ACC01569,CUST00488,IndusInd Bank,diyachauhan45@phonepe,PhonePe,103.156.234.9,Savings,61086.78
+ACC01570,CUST00322,Kotak Mahindra Bank,vikramreddy41@googlepay,Google Pay,103.11.246.43,Savings,23998.86
+ACC01571,CUST00316,Kotak Mahindra Bank,reyanshsaxena52@whatsapppay,WhatsApp Pay,103.25.30.159,Savings,79571.61
+ACC01572,CUST00692,Punjab National Bank,aaravpatel97@paytm,Paytm,103.67.219.104,Current,284699.2
+ACC01573,CUST01148,Punjab National Bank,ayaansingh36@whatsapppay,WhatsApp Pay,103.203.199.63,Savings,57189.32
+ACC01574,CUST00505,Bank of Baroda,sureshbansal85@googlepay,Google Pay,103.11.208.138,Savings,197733.56
+ACC01575,CUST01103,Axis Bank,rakeshchauhan26@phonepe,PhonePe,103.211.69.193,Current,57011.46
+ACC01576,CUST01188,State Bank of India,anushkabansal52@bhimupi,BHIM UPI,103.110.81.233,Current,210599.65
+ACC01577,CUST00275,State Bank of India,ayaanjoon28@phonepe,PhonePe,103.137.103.51,Savings,161195.11
+ACC01578,CUST00762,Punjab National Bank,snehamishra18@googlepay,Google Pay,103.108.47.153,Salary,94236.49
+ACC01579,CUST00191,IndusInd Bank,diyasingh67@googlepay,Google Pay,103.213.26.151,Savings,138735.36
+ACC01580,CUST00156,Axis Bank,aditiagarwal71@phonepe,PhonePe,103.194.103.33,Savings,299312.33
+ACC01581,CUST00562,Canara Bank,adityareddy29@paytm,Paytm,103.140.162.235,Savings,134391.75
+ACC01582,CUST00291,State Bank of India,amitkumar64@amazonpay,Amazon Pay,103.217.197.59,Savings,200093.12
+ACC01583,CUST00325,Union Bank of India,sainair50@paytm,Paytm,103.79.16.49,Current,37510.21
+ACC01584,CUST00725,Axis Bank,kavyaagarwal55@paytm,Paytm,103.34.70.54,Savings,49281.12
+ACC01585,CUST01192,HDFC Bank,ananyanair40@paytm,Paytm,103.22.133.218,Savings,321105.23
+ACC01586,CUST00945,ICICI Bank,vihaansharma69@paytm,Paytm,103.42.96.178,Savings,301059.36
+ACC01587,CUST00315,HDFC Bank,sureshnair79@amazonpay,Amazon Pay,103.219.66.161,Savings,112806.96
+ACC01588,CUST01106,HDFC Bank,manishpatel33@amazonpay,Amazon Pay,103.11.78.198,Current,172677.04
+ACC01589,CUST00884,Canara Bank,ayaanmishra58@whatsapppay,WhatsApp Pay,103.60.247.54,Current,265265.01
+ACC01590,CUST01144,Bank of Baroda,vivaanjoon22@paytm,Paytm,103.168.242.15,Savings,163810.85
+ACC01591,CUST01112,Punjab National Bank,vikrammishra45@bhimupi,BHIM UPI,103.143.86.163,Savings,274643.6
+ACC01592,CUST01080,Union Bank of India,anushkaagarwal79@googlepay,Google Pay,103.208.83.180,Savings,277910.28
+ACC01593,CUST00277,Bank of Baroda,sureshgupta12@googlepay,Google Pay,103.78.102.124,Current,204783.12
+ACC01594,CUST00345,Kotak Mahindra Bank,ananyagupta37@paytm,Paytm,103.173.224.82,Current,28513.51
+ACC01595,CUST01200,Bank of Baroda,sureshreddy81@googlepay,Google Pay,103.56.223.90,Savings,37648.2
+ACC01596,CUST00376,Kotak Mahindra Bank,manishmalhotra94@whatsapppay,WhatsApp Pay,103.113.44.194,Salary,105306.57
+ACC01597,CUST00353,Union Bank of India,vihaanmehta34@bhimupi,BHIM UPI,103.74.226.47,Savings,32178.57
+ACC01598,CUST00348,ICICI Bank,rameshchauhan45@googlepay,Google Pay,103.155.147.45,Savings,275927.32
+ACC01599,CUST00856,Bank of Baroda,vivaanagarwal98@googlepay,Google Pay,103.44.105.103,Savings,321536.99
+ACC01600,CUST00702,State Bank of India,diyamehta56@amazonpay,Amazon Pay,103.57.18.123,Savings,226632.06
+ACC01601,CUST00039,Axis Bank,ishaanagarwal19@amazonpay,Amazon Pay,103.204.22.148,Savings,130072.07
+ACC01602,CUST00412,Union Bank of India,ayaanmalhotra32@amazonpay,Amazon Pay,103.86.215.119,Savings,332398.38
+ACC01603,CUST00456,Bank of Baroda,manojyadav98@phonepe,PhonePe,103.15.239.136,Savings,170305.81
+ACC01604,CUST00077,Kotak Mahindra Bank,manojsingh45@bhimupi,BHIM UPI,103.185.192.108,Savings,19685.07
+ACC01605,CUST00893,ICICI Bank,adityapatel46@bhimupi,BHIM UPI,103.144.183.241,Savings,5646.52
+ACC01606,CUST00667,Axis Bank,rakeshverma32@bhimupi,BHIM UPI,103.118.24.114,Savings,230832.66
+ACC01607,CUST00457,HDFC Bank,sureshmalhotra35@googlepay,Google Pay,103.39.4.165,Current,216217.75
+ACC01608,CUST00580,HDFC Bank,sunilmishra48@bhimupi,BHIM UPI,103.61.184.26,Savings,96969.61
+ACC01609,CUST00590,HDFC Bank,diyagupta35@whatsapppay,WhatsApp Pay,103.128.121.169,Savings,183413.94
+ACC01610,CUST00977,Bank of Baroda,rakeshiyer64@phonepe,PhonePe,103.63.203.65,Current,63431.23
+ACC01611,CUST00093,Punjab National Bank,ishaiyer18@bhimupi,BHIM UPI,103.229.88.26,Savings,154762.41
+ACC01612,CUST00178,Canara Bank,manishbansal88@amazonpay,Amazon Pay,103.54.77.179,Savings,308830.58
+ACC01613,CUST00588,Union Bank of India,deepakkumar66@googlepay,Google Pay,103.207.69.20,Savings,59292.28
+ACC01614,CUST00551,Kotak Mahindra Bank,reyanshpatel52@bhimupi,BHIM UPI,103.138.211.100,Current,157298.02
+ACC01615,CUST00023,ICICI Bank,ayaanyadav47@paytm,Paytm,103.104.191.58,Current,266492.27
+ACC01616,CUST00857,Union Bank of India,adityapandey15@amazonpay,Amazon Pay,103.129.45.51,Savings,257012.8
+ACC01617,CUST00546,HDFC Bank,rajeshagarwal11@whatsapppay,WhatsApp Pay,103.10.153.87,Salary,306101.72
+ACC01618,CUST00641,Canara Bank,manishreddy44@whatsapppay,WhatsApp Pay,103.110.186.72,Savings,273190.34
+ACC01619,CUST00033,State Bank of India,adityanair38@amazonpay,Amazon Pay,103.29.68.173,Savings,107001.28
+ACC01620,CUST00841,HDFC Bank,diyapatel38@paytm,Paytm,103.143.68.71,Savings,18404.65
+ACC01621,CUST00769,HDFC Bank,sainair67@amazonpay,Amazon Pay,103.229.90.225,Current,313686.04
+ACC01622,CUST00958,ICICI Bank,ayaanmehta59@whatsapppay,WhatsApp Pay,103.113.142.237,Current,337654.15
+ACC01623,CUST00138,Kotak Mahindra Bank,deepaksingh48@whatsapppay,WhatsApp Pay,103.32.133.96,Current,261417.41
+ACC01624,CUST01170,State Bank of India,manojchoudhary29@phonepe,PhonePe,103.188.43.148,Savings,4376.99
+ACC01625,CUST01059,Punjab National Bank,arjunyadav15@paytm,Paytm,103.176.216.215,Savings,7641.64
+ACC01626,CUST00484,Kotak Mahindra Bank,poojachauhan64@bhimupi,BHIM UPI,103.240.10.59,Savings,155750.36
+ACC01627,CUST00871,IndusInd Bank,ishaanmishra41@amazonpay,Amazon Pay,103.111.124.166,Savings,74241.12
+ACC01628,CUST00829,Canara Bank,krishnasharma25@whatsapppay,WhatsApp Pay,103.44.47.189,Savings,143904.26
+ACC01629,CUST00974,IndusInd Bank,arjunsingh45@whatsapppay,WhatsApp Pay,103.167.5.198,Current,178075.79
+ACC01630,CUST01039,Bank of Baroda,ishaanreddy37@paytm,Paytm,103.94.174.154,Savings,16818.45
+ACC01631,CUST00965,Axis Bank,ananyaverma63@amazonpay,Amazon Pay,103.184.209.44,Savings,242913.03
+ACC01632,CUST01032,Canara Bank,sureshmehta13@bhimupi,BHIM UPI,103.90.205.164,Current,8156.6
+ACC01633,CUST00620,IndusInd Bank,gaurigupta27@googlepay,Google Pay,103.187.117.16,Current,299828.43
+ACC01634,CUST00866,HDFC Bank,arjunyadav61@amazonpay,Amazon Pay,103.123.8.105,Savings,65793.25
+ACC01635,CUST00126,HDFC Bank,rameshsharma30@bhimupi,BHIM UPI,103.183.230.226,Savings,67484.42
+ACC01636,CUST01189,IndusInd Bank,sunilmalhotra75@googlepay,Google Pay,103.30.173.146,Current,325705.81
+ACC01637,CUST01005,HDFC Bank,arjunmishra29@amazonpay,Amazon Pay,103.92.248.227,Savings,270528.95
+ACC01638,CUST00478,Canara Bank,priyasingh68@phonepe,PhonePe,103.11.137.109,Current,108132.36
+ACC01639,CUST00538,ICICI Bank,amitagarwal85@bhimupi,BHIM UPI,103.17.53.184,Savings,187679.0
+ACC01640,CUST00481,HDFC Bank,amitgupta40@whatsapppay,WhatsApp Pay,103.87.176.254,Salary,242468.98
+ACC01641,CUST00232,Punjab National Bank,diyamishra82@paytm,Paytm,103.117.116.7,Savings,209785.63
+ACC01642,CUST00131,IndusInd Bank,reyanshreddy78@paytm,Paytm,103.10.95.67,Savings,185910.43
+ACC01643,CUST00557,Axis Bank,arjunkumar75@amazonpay,Amazon Pay,103.81.169.202,Current,19479.07
+ACC01644,CUST00301,HDFC Bank,gauriiyer78@bhimupi,BHIM UPI,103.130.129.221,Savings,135534.44
+ACC01645,CUST00772,Punjab National Bank,rameshagarwal38@whatsapppay,WhatsApp Pay,103.97.227.166,Savings,302362.26
+ACC01646,CUST00107,HDFC Bank,ananyakumar93@bhimupi,BHIM UPI,103.235.198.149,Current,230530.34
+ACC01647,CUST01047,HDFC Bank,gauripatel10@paytm,Paytm,103.124.199.12,Savings,19512.53
+ACC01648,CUST00320,Bank of Baroda,amitagarwal48@whatsapppay,WhatsApp Pay,103.235.13.53,Savings,220371.8
+ACC01649,CUST00065,Union Bank of India,ishajoon18@whatsapppay,WhatsApp Pay,103.112.39.136,Savings,331081.28
+ACC01650,CUST01127,ICICI Bank,vihaanpandey47@whatsapppay,WhatsApp Pay,103.225.135.84,Current,11051.66
+ACC01651,CUST00040,Canara Bank,aditichoudhary76@googlepay,Google Pay,103.158.248.87,Savings,64755.83
+ACC01652,CUST00957,Punjab National Bank,ananyachoudhary19@phonepe,PhonePe,103.10.109.240,Savings,39760.48
+ACC01653,CUST00789,HDFC Bank,aaravagarwal70@googlepay,Google Pay,103.43.4.143,Savings,47147.37
+ACC01654,CUST00035,Axis Bank,aaraviyer25@amazonpay,Amazon Pay,103.172.194.206,Savings,323029.18
+ACC01655,CUST00399,Punjab National Bank,poojaiyer44@paytm,Paytm,103.215.153.98,Savings,64766.21
+ACC01656,CUST00519,Kotak Mahindra Bank,aditiverma97@amazonpay,Amazon Pay,103.134.231.2,Current,4327.73
+ACC01657,CUST00605,ICICI Bank,vikramchoudhary30@paytm,Paytm,103.105.56.105,Savings,205155.62
+ACC01658,CUST00320,Axis Bank,amitagarwal56@bhimupi,BHIM UPI,103.56.142.233,Savings,158246.54
+ACC01659,CUST00121,Axis Bank,aaravbansal58@amazonpay,Amazon Pay,103.124.1.34,Savings,103128.57
+ACC01660,CUST00769,Kotak Mahindra Bank,sainair98@googlepay,Google Pay,103.100.91.57,Savings,149007.54
+ACC01661,CUST01027,HDFC Bank,manojsingh78@whatsapppay,WhatsApp Pay,103.212.95.200,Current,238044.55
+ACC01662,CUST00498,Bank of Baroda,rameshyadav44@whatsapppay,WhatsApp Pay,103.240.131.140,Current,123621.22
+ACC01663,CUST01168,Canara Bank,aaravverma41@bhimupi,BHIM UPI,103.80.241.183,Savings,53718.42
+ACC01664,CUST00405,ICICI Bank,vivaannair64@googlepay,Google Pay,103.113.207.119,Savings,218912.83
+ACC01665,CUST01084,Bank of Baroda,reyanshsharma84@paytm,Paytm,103.105.149.80,Savings,169868.35
+ACC01666,CUST00357,ICICI Bank,ishamehta16@whatsapppay,WhatsApp Pay,103.57.155.135,Salary,58442.06
+ACC01667,CUST00842,IndusInd Bank,anushkaagarwal26@amazonpay,Amazon Pay,103.116.102.19,Savings,332045.39
+ACC01668,CUST01166,IndusInd Bank,anushkaagarwal32@bhimupi,BHIM UPI,103.98.97.157,Savings,318084.06
+ACC01669,CUST00317,IndusInd Bank,saikumar87@whatsapppay,WhatsApp Pay,103.197.141.64,Current,263147.73
+ACC01670,CUST00978,Bank of Baroda,ananyasaxena75@amazonpay,Amazon Pay,103.136.116.157,Savings,320769.4
+ACC01671,CUST00889,State Bank of India,gaurisingh25@paytm,Paytm,103.144.45.13,Savings,303493.28
+ACC01672,CUST00516,IndusInd Bank,vivaanmehta22@googlepay,Google Pay,103.164.136.191,Savings,267670.32
+ACC01673,CUST00174,ICICI Bank,sunilnair61@googlepay,Google Pay,103.11.230.18,Savings,17859.79
+ACC01674,CUST00956,Bank of Baroda,rameshyadav88@googlepay,Google Pay,103.27.245.203,Current,228396.11
+ACC01675,CUST00465,State Bank of India,saisaxena82@paytm,Paytm,103.86.31.5,Savings,284128.83
+ACC01676,CUST01016,Kotak Mahindra Bank,vihaaniyer91@googlepay,Google Pay,103.130.34.9,Current,189281.09
+ACC01677,CUST00671,Bank of Baroda,manojchauhan30@paytm,Paytm,103.180.241.179,Current,318052.45
+ACC01678,CUST00675,IndusInd Bank,ananyapandey93@whatsapppay,WhatsApp Pay,103.142.47.60,Savings,81628.56
+ACC01679,CUST01168,Canara Bank,aaravverma64@bhimupi,BHIM UPI,103.214.27.160,Savings,195765.41
+ACC01680,CUST00821,ICICI Bank,deepaksharma79@amazonpay,Amazon Pay,103.219.9.167,Salary,129822.54
+ACC01681,CUST01094,ICICI Bank,krishnapandey20@phonepe,PhonePe,103.103.63.161,Savings,157275.18
+ACC01682,CUST00837,Bank of Baroda,rakeshverma77@phonepe,PhonePe,103.95.251.123,Savings,267686.21
+ACC01683,CUST00595,State Bank of India,rakeshpandey41@paytm,Paytm,103.88.126.66,Current,57596.7
+ACC01684,CUST00462,HDFC Bank,krishnapatel34@whatsapppay,WhatsApp Pay,103.168.81.218,Savings,4950.09
+ACC01685,CUST01017,Canara Bank,priyapandey35@bhimupi,BHIM UPI,103.28.128.254,Savings,22207.4
+ACC01686,CUST00859,HDFC Bank,diyareddy94@amazonpay,Amazon Pay,103.21.38.178,Savings,217893.8
+ACC01687,CUST01196,IndusInd Bank,aaravpatel19@whatsapppay,WhatsApp Pay,103.142.124.50,Savings,14590.02
+ACC01688,CUST00611,ICICI Bank,sunilpatel49@paytm,Paytm,103.124.74.141,Savings,273015.89
+ACC01689,CUST01011,Bank of Baroda,rajeshiyer66@phonepe,PhonePe,103.146.107.222,Current,79309.68
+ACC01690,CUST00135,State Bank of India,rajeshverma70@whatsapppay,WhatsApp Pay,103.29.200.194,Savings,275356.45
+ACC01691,CUST00070,Union Bank of India,ishasharma21@paytm,Paytm,103.71.247.169,Savings,188605.41
+ACC01692,CUST00711,HDFC Bank,ananyaiyer55@paytm,Paytm,103.75.10.155,Savings,195641.37
+ACC01693,CUST00726,Union Bank of India,ishamishra54@phonepe,PhonePe,103.199.21.187,Savings,33854.95
+ACC01694,CUST00926,Punjab National Bank,priyamishra89@paytm,Paytm,103.103.64.155,Savings,322678.01
+ACC01695,CUST00097,Canara Bank,vivaanagarwal10@bhimupi,BHIM UPI,103.12.151.63,Savings,280505.21
+ACC01696,CUST00638,Kotak Mahindra Bank,rakeshsharma25@paytm,Paytm,103.14.195.64,Savings,276067.51
+ACC01697,CUST01119,ICICI Bank,manishmehta20@googlepay,Google Pay,103.16.175.54,Current,138082.86
+ACC01698,CUST00329,State Bank of India,kavyayadav75@googlepay,Google Pay,103.220.140.142,Savings,332007.62
+ACC01699,CUST00044,Canara Bank,rameshpatel79@amazonpay,Amazon Pay,103.110.83.41,Savings,118612.18
+ACC01700,CUST00783,Punjab National Bank,ishasingh65@whatsapppay,WhatsApp Pay,103.62.222.53,Current,120219.76
+ACC01701,CUST00856,ICICI Bank,vivaanagarwal17@googlepay,Google Pay,103.164.253.120,Salary,297576.47
+ACC01702,CUST01031,Union Bank of India,rameshreddy65@phonepe,PhonePe,103.139.185.248,Savings,169297.29
+ACC01703,CUST00088,IndusInd Bank,kavyapandey15@googlepay,Google Pay,103.193.31.154,Salary,32883.42
+ACC01704,CUST00578,Axis Bank,rameshagarwal21@phonepe,PhonePe,103.229.234.38,Savings,132811.02
+ACC01705,CUST00198,Kotak Mahindra Bank,ishapatel45@amazonpay,Amazon Pay,103.153.13.88,Savings,140069.57
+ACC01706,CUST00382,HDFC Bank,rameshsingh86@phonepe,PhonePe,103.18.76.117,Savings,235446.4
+ACC01707,CUST00326,ICICI Bank,poojagupta50@phonepe,PhonePe,103.130.174.2,Savings,333214.55
+ACC01708,CUST00745,Punjab National Bank,priyajoon71@paytm,Paytm,103.212.15.222,Current,312153.52
+ACC01709,CUST00282,Axis Bank,vivaannair66@phonepe,PhonePe,103.84.100.191,Current,216346.51
+ACC01710,CUST00695,Axis Bank,snehajoon44@amazonpay,Amazon Pay,103.212.125.206,Savings,143156.83
+ACC01711,CUST00835,ICICI Bank,aaravgupta51@googlepay,Google Pay,103.157.97.237,Current,81615.16
+ACC01712,CUST00028,ICICI Bank,adityajoon59@whatsapppay,WhatsApp Pay,103.146.78.5,Savings,170413.55
+ACC01713,CUST01138,Canara Bank,sureshchoudhary37@phonepe,PhonePe,103.142.103.13,Salary,284504.01
+ACC01714,CUST00806,Axis Bank,ayaangupta60@phonepe,PhonePe,103.121.213.3,Savings,45678.36
+ACC01715,CUST01088,HDFC Bank,ayaanverma91@whatsapppay,WhatsApp Pay,103.224.3.160,Savings,42678.72
+ACC01716,CUST00444,IndusInd Bank,krishnagupta85@phonepe,PhonePe,103.52.16.207,Savings,223863.54
+ACC01717,CUST00294,Kotak Mahindra Bank,saipandey12@googlepay,Google Pay,103.96.41.177,Savings,329993.83
+ACC01718,CUST00760,IndusInd Bank,priyaiyer99@bhimupi,BHIM UPI,103.69.220.29,Savings,288620.75
+ACC01719,CUST00804,State Bank of India,ishapandey89@phonepe,PhonePe,103.120.12.35,Current,162482.25
+ACC01720,CUST01010,Punjab National Bank,rameshmishra51@whatsapppay,WhatsApp Pay,103.79.252.162,Savings,48403.24
+ACC01721,CUST00654,Punjab National Bank,rakeshgupta81@whatsapppay,WhatsApp Pay,103.82.178.74,Salary,79182.61
+ACC01722,CUST00186,HDFC Bank,saipatel12@amazonpay,Amazon Pay,103.40.184.141,Savings,122077.34
+ACC01723,CUST00718,Union Bank of India,anushkanair46@googlepay,Google Pay,103.226.73.196,Current,343132.64
+ACC01724,CUST00322,ICICI Bank,vikramreddy97@amazonpay,Amazon Pay,103.41.127.158,Savings,110556.62
+ACC01725,CUST00835,Bank of Baroda,aaravgupta40@phonepe,PhonePe,103.114.27.208,Salary,49269.15
+ACC01726,CUST01110,Bank of Baroda,rameshsingh67@phonepe,PhonePe,103.124.222.164,Savings,147848.98
+ACC01727,CUST00832,State Bank of India,poojasharma35@googlepay,Google Pay,103.26.94.130,Savings,25316.69
+ACC01728,CUST00408,State Bank of India,anushkakumar66@phonepe,PhonePe,103.195.163.244,Savings,174219.12
+ACC01729,CUST00193,Kotak Mahindra Bank,rameshagarwal16@bhimupi,BHIM UPI,103.122.147.16,Savings,63145.34
+ACC01730,CUST00619,HDFC Bank,anushkabansal41@googlepay,Google Pay,103.88.114.146,Savings,248524.49
+ACC01731,CUST00542,Kotak Mahindra Bank,adityachauhan22@googlepay,Google Pay,103.91.178.241,Savings,163904.62
+ACC01732,CUST00112,Kotak Mahindra Bank,rajeshagarwal68@whatsapppay,WhatsApp Pay,103.198.21.195,Savings,183887.14
+ACC01733,CUST01179,Union Bank of India,poojajoon65@bhimupi,BHIM UPI,103.86.217.184,Salary,75575.42
+ACC01734,CUST00677,Bank of Baroda,arjunbansal80@phonepe,PhonePe,103.235.83.183,Savings,92713.18
+ACC01735,CUST01146,Canara Bank,arjunchauhan80@bhimupi,BHIM UPI,103.105.176.120,Salary,65414.53
+ACC01736,CUST00498,Canara Bank,rameshyadav21@bhimupi,BHIM UPI,103.72.220.2,Savings,35541.43
+ACC01737,CUST00381,ICICI Bank,ayaanyadav87@phonepe,PhonePe,103.135.62.56,Savings,286174.21
+ACC01738,CUST00982,Axis Bank,arjunsharma27@whatsapppay,WhatsApp Pay,103.230.104.75,Savings,65522.13
+ACC01739,CUST01149,ICICI Bank,gaurireddy40@paytm,Paytm,103.218.102.240,Current,337470.67
+ACC01740,CUST00771,IndusInd Bank,ishagupta93@amazonpay,Amazon Pay,103.52.113.122,Savings,217871.34
+ACC01741,CUST00327,Axis Bank,kavyareddy78@whatsapppay,WhatsApp Pay,103.176.37.12,Current,240260.68
+ACC01742,CUST00045,IndusInd Bank,manojjoon42@phonepe,PhonePe,103.10.17.109,Savings,80169.64
+ACC01743,CUST00359,Union Bank of India,vihaanyadav47@paytm,Paytm,103.86.127.169,Savings,207050.88
+ACC01744,CUST00306,IndusInd Bank,rakeshchoudhary96@phonepe,PhonePe,103.219.83.221,Savings,295038.02
+ACC01745,CUST00701,ICICI Bank,diyagupta17@bhimupi,BHIM UPI,103.123.83.112,Salary,213468.46
+ACC01746,CUST00143,Axis Bank,vivaanverma38@amazonpay,Amazon Pay,103.10.184.214,Savings,99878.93
+ACC01747,CUST00504,Axis Bank,ishasaxena29@whatsapppay,WhatsApp Pay,103.204.111.161,Savings,53116.47
+ACC01748,CUST00263,Canara Bank,vikrammishra69@bhimupi,BHIM UPI,103.62.241.20,Savings,254228.81
+ACC01749,CUST00070,Bank of Baroda,ishasharma48@bhimupi,BHIM UPI,103.17.237.206,Current,72963.71
+ACC01750,CUST00741,State Bank of India,vihaanmishra58@googlepay,Google Pay,103.95.158.81,Current,176446.46
+ACC01751,CUST00624,ICICI Bank,vihaangupta46@whatsapppay,WhatsApp Pay,103.220.10.164,Savings,247966.77
+ACC01752,CUST00110,ICICI Bank,reyanshmishra44@bhimupi,BHIM UPI,103.175.223.112,Savings,265634.46
+ACC01753,CUST01037,ICICI Bank,vihaanpandey68@bhimupi,BHIM UPI,103.105.146.238,Savings,324118.31
+ACC01754,CUST00328,State Bank of India,gaurimehta41@phonepe,PhonePe,103.58.207.131,Current,125212.15
+ACC01755,CUST00827,Punjab National Bank,saikumar19@bhimupi,BHIM UPI,103.124.69.81,Savings,226168.26
+ACC01756,CUST00428,HDFC Bank,sureshmishra37@amazonpay,Amazon Pay,103.188.198.147,Overdraft,262122.28
+ACC01757,CUST01110,Punjab National Bank,rameshsingh19@amazonpay,Amazon Pay,103.190.130.110,Savings,259162.44
+ACC01758,CUST00646,Kotak Mahindra Bank,deepakchoudhary46@phonepe,PhonePe,103.214.170.54,Savings,146222.6
+ACC01759,CUST00894,Punjab National Bank,rakeshchoudhary26@googlepay,Google Pay,103.66.250.152,Savings,133661.6
+ACC01760,CUST00268,HDFC Bank,poojamishra80@googlepay,Google Pay,103.235.137.207,Savings,231356.25
+ACC01761,CUST00214,Kotak Mahindra Bank,sureshkumar46@amazonpay,Amazon Pay,103.96.59.65,Savings,245081.24
+ACC01762,CUST00374,Canara Bank,rakeshjoon99@bhimupi,BHIM UPI,103.234.42.36,Overdraft,285908.84
+ACC01763,CUST01088,Punjab National Bank,ayaanverma48@bhimupi,BHIM UPI,103.237.238.164,Savings,139493.24
+ACC01764,CUST00945,Union Bank of India,vihaansharma72@whatsapppay,WhatsApp Pay,103.141.199.129,Savings,318193.2
+ACC01765,CUST00264,Axis Bank,vihaanbansal77@bhimupi,BHIM UPI,103.176.124.15,Savings,191556.11
+ACC01766,CUST00595,HDFC Bank,rakeshpandey76@bhimupi,BHIM UPI,103.188.20.253,Savings,244418.8
+ACC01767,CUST00524,IndusInd Bank,reyanshchauhan57@whatsapppay,WhatsApp Pay,103.129.192.251,Savings,187999.81
+ACC01768,CUST00556,Bank of Baroda,diyakumar96@phonepe,PhonePe,103.119.176.114,Savings,198795.47
+ACC01769,CUST00793,Axis Bank,krishnaverma79@whatsapppay,WhatsApp Pay,103.10.220.159,Savings,155948.52
+ACC01770,CUST00413,Bank of Baroda,arjunchauhan16@phonepe,PhonePe,103.25.147.226,Current,29744.07
+ACC01771,CUST00821,ICICI Bank,deepaksharma22@phonepe,PhonePe,103.101.231.82,Savings,239692.15
+ACC01772,CUST00833,Punjab National Bank,rajeshgupta73@paytm,Paytm,103.143.243.103,Savings,263186.95
+ACC01773,CUST00735,Canara Bank,snehamalhotra22@paytm,Paytm,103.54.66.121,Overdraft,2499.44
+ACC01774,CUST00108,Bank of Baroda,ishaanreddy67@amazonpay,Amazon Pay,103.211.208.107,Savings,299614.72
+ACC01775,CUST00597,State Bank of India,adityamishra19@paytm,Paytm,103.100.66.84,Savings,61706.22
+ACC01776,CUST00526,Punjab National Bank,deepaksharma18@paytm,Paytm,103.160.157.121,Current,2225.93
+ACC01777,CUST00414,Axis Bank,aaravgupta62@amazonpay,Amazon Pay,103.119.5.132,Salary,292855.84
+ACC01778,CUST00963,State Bank of India,vihaanreddy18@whatsapppay,WhatsApp Pay,103.72.105.50,Savings,217962.73
+ACC01779,CUST00549,ICICI Bank,ishaanbansal75@googlepay,Google Pay,103.25.45.12,Savings,116808.2
+ACC01780,CUST00100,Union Bank of India,manojyadav78@amazonpay,Amazon Pay,103.165.199.224,Savings,24672.51
+ACC01781,CUST00552,IndusInd Bank,manishyadav84@phonepe,PhonePe,103.173.17.211,Current,208933.64
+ACC01782,CUST01180,Canara Bank,saikumar44@googlepay,Google Pay,103.49.143.69,Savings,127221.2
+ACC01783,CUST00554,Union Bank of India,ishakumar48@phonepe,PhonePe,103.20.119.53,Savings,269640.86
+ACC01784,CUST01008,Punjab National Bank,amitmehta11@amazonpay,Amazon Pay,103.137.164.164,Savings,200776.5
+ACC01785,CUST00039,Kotak Mahindra Bank,ishaanagarwal90@amazonpay,Amazon Pay,103.21.36.169,Current,880.87
+ACC01786,CUST00514,Punjab National Bank,manishjoon93@googlepay,Google Pay,103.229.12.206,Current,31963.13
+ACC01787,CUST01087,IndusInd Bank,deepakchauhan52@googlepay,Google Pay,103.166.216.223,Savings,67327.82
+ACC01788,CUST00640,ICICI Bank,vivaanyadav39@phonepe,PhonePe,103.200.113.171,Savings,100353.11
+ACC01789,CUST00895,Canara Bank,vikramagarwal88@paytm,Paytm,103.39.169.80,Savings,314824.24
+ACC01790,CUST00548,Union Bank of India,aaravchoudhary30@whatsapppay,WhatsApp Pay,103.138.134.194,Savings,293765.12
+ACC01791,CUST00656,Union Bank of India,vikramgupta99@bhimupi,BHIM UPI,103.80.28.147,Savings,86020.05
+ACC01792,CUST00451,ICICI Bank,poojakumar13@bhimupi,BHIM UPI,103.102.185.141,Current,218137.35
+ACC01793,CUST00574,ICICI Bank,anushkaagarwal63@bhimupi,BHIM UPI,103.84.238.133,Current,297332.63
+ACC01794,CUST00909,Axis Bank,krishnasharma10@whatsapppay,WhatsApp Pay,103.56.216.152,Savings,338328.95
+ACC01795,CUST00178,Kotak Mahindra Bank,manishbansal77@phonepe,PhonePe,103.214.196.24,Salary,175478.13
+ACC01796,CUST00604,ICICI Bank,reyanshjoon56@bhimupi,BHIM UPI,103.154.80.107,Current,208005.07
+ACC01797,CUST00048,Bank of Baroda,ayaansharma40@googlepay,Google Pay,103.195.37.57,Savings,42106.97
+ACC01798,CUST01030,IndusInd Bank,anushkaiyer29@phonepe,PhonePe,103.68.121.174,Current,20286.6
+ACC01799,CUST00878,Kotak Mahindra Bank,ayaanbansal79@paytm,Paytm,103.124.15.172,Savings,98558.51
+ACC01800,CUST00955,Canara Bank,vivaanbansal51@amazonpay,Amazon Pay,103.28.161.203,Current,173991.65
